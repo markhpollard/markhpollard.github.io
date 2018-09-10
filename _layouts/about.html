@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+    <body id="top">
+       <header>
+            <div id="container">
+                <div class="logo">
+{% include logo.html %}
+{% include nav.html %}
+            </div>
+
+
+    <ul class="side-nav">
+    <li><a href="{{ site.github.url }}/mark-pollard-biography">Biography</a></li>
+    <li><a href="{{ site.github.url }}/work-with-me">Work With Me</a></li>
+    <li><a href="{{ site.github.url }}/contact">Contact</a></li>
+</ul>
+</div>
+        </header>
+
+<div id="container">
+
+<article>
+
+{% if page.image %}
+        <img src={{page.image}} class="portrait">
+{% endif %}
+
+{{ content }}
+
+</article>
+    </div>
+
+<section class="clear"></section>
+{% include footer.html %}
+
+{% include scripts.html %}
+
+    </body>
+
+
+
+</html>

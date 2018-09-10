@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+    <body id="top">
+
+        <div class="titles home">
+<!--<h3>{{ page.h1 }}</h3>-->
+            <h1><img src="{{ site.github.url }}/images/strategy-is-your-words.png" alt="Strategy is Your Words"></h1>
+            <div class="summary">{{ page.summary }}</div>
+</div>
+
+
+    <div class="intro">
+      {{ content }}
+    </div>
+
+
+<section class="clear"></section>
+{% include footer.html %}
+
+        {% include scripts.html %}
+    </body>
+
+
+
+</html>

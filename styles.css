@@ -1,0 +1,874 @@
+/*----------- MASTER --------------*/
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Lora', serif;
+  box-sizing: border-box;
+}
+p {
+  padding-bottom: 20px;
+  font-size: 18px;
+  line-height: 1.5em;
+}
+a {
+  color: #000000;
+  text-decoration: none;
+}
+a:img {
+  border-bottom: 0px;
+}
+ul {
+  list-style: none inside;
+    font-size: 18px;
+}
+li {font-size: 18px;}
+ol {
+  list-style-position: outside;
+  margin-left: 1.5em;
+}
+#container {
+    max-width: 1600px;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin: auto;
+    padding-top: 175px;
+}
+.clearfix::after {
+  content: '';
+  clear: both;
+  display: table;
+}
+.clear {
+  clear: both;
+  display: block;
+}
+/*------ TYPOGRAPHY --------*/
+h1 {
+    color: #999999;
+    font-weight: normal;
+    font-size: 20px;
+}
+h2 {
+    padding-top: 20px;
+    font-weight: 700;
+    font-size: 28px;
+}
+h2:first-child {
+    padding-top: 0px;
+}
+h3 {
+    width: 80%;
+    margin: auto;
+    font-size: 48px;
+    line-height: 52px;
+    font-weight: 400;
+    text-align: center;
+}
+h4 {
+    font-size: 24px;
+    font-weight: normal;
+    color: rgba(0,0,0,.5);
+    padding-bottom: 5px;
+}
+h5 {
+    font-size: 18px;
+}
+/*------ STRUCTURE --------*/
+article {
+    width: 60%;
+    margin: auto;
+    float: none;
+}
+article img {
+    width: 100%;
+}
+sidebar {
+    padding-left: 50px;
+    float: right;
+    width: 30%;
+    font-size: 18px;
+}
+sidebar ul {
+    padding-bottom: 50px;
+}
+.side-nav {
+    width: 50%;
+        font-size: 20px;
+}
+.side-nav li {
+        padding-bottom: 8px;
+            font-size: 18px;
+}
+.side-nav li a {
+    text-decoration: underline;
+
+}
+.side-nav li a:hover {
+    opacity: .6;
+}
+.sort {
+    column-count: 3;
+}
+.portrait {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*----------- Contact --------------*/
+.form-group { border: 0px;}
+fieldset label {
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 15px;
+}
+fieldset input {
+    width: 100%;
+    margin-left: 0%;
+    margin-top: 5px;
+        margin-bottom: 20px;
+}
+fieldset textarea {
+    width: 100%;
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    background-color: white;
+    font-size: 18px;
+    font-weight: 700;
+}
+.contact-form input {
+    margin-left: 0px;
+}
+
+/*----------- HEADER --------------*/
+header {
+  padding: 15px 0px 25px 0px;
+    margin-bottom: 50px;
+  width: 100%;
+    position: fixed;
+    background-color: white;
+}
+header #container {
+    width: 100%;
+    padding-top: 0px;
+    display: flex;
+/*    align-items: stretch;*/
+}
+.logo {
+
+  font-weight: normal;
+  padding: 0px 15px 10px 0px;
+        width: 50%;
+    }
+nav {
+    padding-top: 5px;
+    font-size: 28px;
+    line-height: 30px;
+    font-weight: 400;
+}
+nav a {
+    text-decoration: underline;
+    font-weight: 700;
+}
+nav a:hover {
+    opacity: .6;
+}
+header .page-title {
+    width: 50%;
+    float: right;
+}
+header button.toggle {
+    background: rgba(255,255,255,.0);
+    height: 25px;
+    width: 25px;
+    z-index: 100;
+    border: none;
+    outline: 0;
+    margin-right: 15px;
+    display: none;
+}
+.nav-up {
+    top: -147px;
+}
+.header-content {
+    width: 50%;
+        font-size: 24px;
+    font-style: italic;
+}
+
+
+/*----------- HOMEPAGE --------------*/
+.home {
+    padding-top: 50px;
+}
+.home img {
+ height: 72px;
+    width: auto;
+}
+.intro {
+padding-top: 100px;
+width: 75%;
+    max-width: 1500px;
+    margin: auto;
+}
+.intro p {
+    font-size: 36px;
+    line-height: 44px;
+    text-indent: 100px;
+    padding-bottom: 0px;
+    font-weight: 400;
+}
+.intro a {
+/*    text-decoration: underline;*/
+/*    padding: 2px;*/
+    font-weight: 700;
+    background-image: url(http://www.jarrettfuller.com/markpollard.net/images/lilnk-underline-01.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom;
+}
+.intro a:hover {
+    opacity: .6;
+}
+
+
+/*----------- ARCHIVE --------------*/
+main {
+    width: 60%;
+    margin: auto;
+    float: none;
+}
+.object {
+    padding: 0px 0px 55px 0px;
+  width: 100%;
+}
+.project {
+    font-weight: 400;
+    line-height: 52px;
+    font-size: 48px;
+}
+.project:hover {
+    text-decoration: underline;
+}
+.summary {
+    font-size: 24px;
+    padding-top: 5px;
+    font-style: italic;
+        color: #999999;
+}
+.hidden {
+    display: none!important;
+    visibility: hidden!important;
+}
+.blog-tags-list {
+    padding-bottom: 10px;
+    padding: 15px 0px 25px 0px;
+    width: 100%;
+    background-image: url(http://www.jarrettfuller.com/markpollard.net/images/black-line-01.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: contain;
+    }
+.blog-tags-item {
+}
+.blog-tags-item:hover {
+    text-decoration: underline;
+    }
+#sort {
+    height: 28px;
+    width: auto;
+    padding-bottom: 5px;
+    border: 0px;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0);
+    margin-bottom: 0px;
+}
+
+/*----------- ARTICLES --------------*/
+.titles {
+    text-align: center;
+}
+hr {
+    width: 15%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(0,0,0,0.1);
+    border: none;
+    padding: 3px;
+}
+.essay {
+    width: 60%;
+    margin: auto;
+    float: none;
+}
+.about-footer {
+    padding-top: 50px;
+    padding-bottom: 25px;
+    display: flex;
+    color: #818181;
+}
+.about-footer img {
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
+    margin-right: 25px;
+    filter: grayscale(1);
+}
+.bio {
+    font-size: 18px;
+    line-height: 24px;
+}
+.related-posts {
+    padding-top: 25px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+.related-posts img { height: 23px; }
+.related-post-list {
+    padding-top: 25px;
+    display: flex;
+    background-image: url(http://www.jarrettfuller.com/markpollard.net/images/black-line-01.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: contain;
+}
+.related-post { flex: 1; padding-right: 25px; text-align: left; }
+.related-post h4 {color: black; font-size: 28px; padding-bottom: 0px;}
+.related-post .summary {
+    padding-top: 0px;
+}
+
+/*----------- SHARE --------------*/
+#share-bar {
+    padding-bottom: 50px;
+    padding-top: 50px;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+
+}
+#share-bar p {
+    padding-bottom: 0px;
+}
+#share-bar img {
+    height: 23px;
+    width: auto;
+}
+
+/* All buttons */
+.share-buttons {
+    background-image: url(http://www.jarrettfuller.com/markpollard.net/images/black-line-01.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: contain;
+    padding-top: 10px;
+    width: 100%;
+}
+.share-text {
+      font-family: 'Merriweather', serif;
+    font-weight: 700;
+    font-size: 18px;
+
+}
+.fab {
+    font-size: 18px;
+}
+/* Each button */
+.share-button {
+    margin: 0px;
+    margin-bottom: 10px;
+    margin-right: 3px;
+/*    border: 1px solid #D3D6D2;*/
+    padding: 5px 10px 5px 10px;
+        color: #818181;
+}
+.share-button:hover {
+    opacity: 1;
+    color: #ffffff;
+}
+/* Facebook button */
+.fa-facebook-official {
+}
+.fa-facebook-f:hover {
+    color: #3b5998;
+        transition: .5s;
+}
+
+/* Twitter button */
+.fa-twitter {
+}
+.fa-twitter:hover {
+    color: #55acee;
+    transition: .5s;
+}
+
+/* Google-PLus button */
+.fa-google-plus {
+}
+.fa-google-plus:hover {
+    color: #dd4b39;
+        transition: .5s;
+}
+
+/* Pinterest button */
+.fa-pinterest-p {
+}
+.fa-pinterest-p:hover {
+    color: #cb2027;
+        transition: .5s;
+}
+
+/* Tumblr button */
+.fa-tumblr {
+}
+.fa-tumblr:hover {
+    color: #32506d;
+        transition: .5s;
+}
+/* Reddit button */
+.fa-reddit-alien {
+}
+.fa-reddit-alien:hover {
+    color: #ff4500;
+        transition: .5s;
+}
+/* LinkedIn button */
+.fa-linkedin {
+}
+.fa-linkedin:hover {
+    color: #007bb5;
+        transition: .5s;
+}
+/* Email button */
+.fa-envelope {
+}
+.fa-envelope:hover {
+    color: #444444;
+        transition: .5s;
+}
+
+/*----------- RESOURCES --------------*/
+.resource-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+.resource-list a{
+    width: 30%;
+    float: left;
+    margin: 0 50px 50px 0;
+    background-color: rgba(0,0,0,.1);
+}
+.resource_title {
+    padding: 25px 25px 0 25px;
+    font-weight: 700;
+    font-size: 24px;
+}
+.resource_description {
+    padding: 0px 25px 25px 25px;
+    font-size: 18px;
+}
+.resources:hover {
+    background-color: rgba(0,0,0,.5);
+    color: white;
+}
+.resources img {
+    width: 100%;
+    display: block;
+}
+
+/*----------- PODCAST --------------*/
+.podcast {
+    width: 65%;
+    margin: auto;
+    float: none;
+    padding-top: 25px;
+}
+.podcast-header {
+    font-size: 44px;
+    line-height: 50px;
+    padding-bottom: 25px;
+    display: flex;
+    width: 100%;
+}
+.podcast-header img {
+    border: 1px solid lightgrey;
+        box-shadow: 0 0 10px 0 rgba(0,0,0,.3);
+    margin-right: 50px;
+    flex: 1;
+    width: 25%;
+    height: 25%;
+}
+.podcast-description {
+    flex: 4;
+}
+.podcast-description .fab {
+    font-size: 24px;
+    padding-top: 20px;
+}
+.favorite-podcasts {
+    padding-top: 25px;
+    margin: auto;
+}
+.favorite-podcasts img {
+    height: 22px;
+    width: auto;
+}
+.podcast-list {
+        background-image: url(http://www.jarrettfuller.com/markpollard.net/images/black-line-01.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: contain;
+    padding-top: 10px;
+}
+.podcast-list li {
+    line-height: 42px;
+    font-size: 36px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.podcast-list li:hover {
+    text-decoration: underline;
+}
+
+
+/*----------- RESPONSIVE VIDEO --------------*/
+.responsive-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+}
+.responsive-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.wufoo-m1ocsn920dlodm4 {
+    padding: 0px;
+    margin: 0px;
+}
+/*----------- CTA --------------*/
+.cta {
+    display: flex;
+    text-align: center;
+    background-image: url(http://www.jarrettfuller.com/markpollard.net/images/black-line-01.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.newsletter {
+    padding: 50px;
+    padding-bottom: 0px;
+    flex: 1;
+}
+.newsletter h4 {
+    font-size: 36px;
+    font-weight: normal;
+}
+.cta p {
+    font-style: italic;
+/*    width: 80%;*/
+    margin: auto;
+    font-size: 20px;
+    line-height: 24px;
+}
+form {
+    padding-top: 25px;
+    border-bottom: solid 3 px white;
+}
+#tlemail {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border: 1px solid black;
+    width: 100%;
+}
+input {
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 1%;
+    background-color: white;
+    font-size: 18px;
+    font-weight: 700;
+}
+.work-with-me {
+    padding: 50px;
+    margin: 0;
+    flex: 1;
+    padding-bottom: 0px;
+    text-align: left;
+    background-image: url(images/black-line-side-01.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+}
+.work-with-me img {
+    width: 35%;
+    float: right;
+/*    position: absolute;*/
+    bottom: 0;
+    right: 0;
+}
+.work-with-me h2 {
+    padding-top: 0px;
+}
+
+/*----------- FOOTER --------------*/
+footer {
+  padding: 25px 0px 25px 0px;
+    background-color: rgba(212,212,212,1);
+  width: 100%;
+    margin: auto;
+  font-size: 16px;
+  align-content: center;
+    color: #666666;
+    margin-top: 50px;
+    opacity: .6;
+            filter: grayscale(100%);
+}
+footer:hover {
+/*    color: black;*/
+    opacity: 1;
+        background-color: rgba(212,212,212,.6);
+        filter: grayscale(0);
+}
+
+footer #container { padding-top: 0px;}
+footer p {
+    font-size: 16px;
+}
+footer p a {
+    border-bottom: 1px solid white;
+      font-size: 16px;
+        color: #666666;
+}
+footer p a:hover {
+    border-bottom: 1px solid #666666;
+      font-size: 16px;
+        color: black;
+}
+footer p a i {
+    border-bottom: 0px;
+}
+/*
+footer .fab {
+    font-size: 24px;
+        color: #666666;
+}
+footer .fas {
+    font-size: 24px;
+        color: #666666;
+}
+*/
+footer li {
+    padding-left: 25px;
+    font-size: 16px;
+    font-weight: bold;
+    float: left;
+    list-style: none;
+}
+footer .fa-linkedin:hover {
+    color: black;
+}
+.footer-nav {
+    display: flex;
+        padding-bottom: 50px;
+}
+.footer-nav-block {
+    flex: 1;
+    width: 25%;
+    padding-right: 25px;
+}
+.footer-nav-block img {
+    height: 21px;
+}
+.social {
+    width: 100%;
+    background-image: url(http://www.jarrettfuller.com/markpollard.net/images/black-line-01.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-top: 25px;
+    text-align: center;
+}
+.social h2 {
+    font-weight: normal;
+    font-style: italic;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+/*
+.social ul {
+    text-align: center;
+    padding-bottom: 50px;
+          font-size: 16px;
+        color: #666666;
+}
+.social li {
+    font-weight: normal;
+    padding-left: 10px;
+    padding-right: 10px;
+        text-align: center;
+      font-size: 16px;
+        color: #666666;
+}
+*/
+.social a {
+    border-bottom: 0px;
+        padding-left: 10px;
+    padding-right: 10px;
+}
+.social a:hover {
+    border-bottom: 0px;
+}
+.colophon {
+    display: flex;
+    background-image: url(http://www.jarrettfuller.com/markpollard.net/images/black-line-01.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-top: 25px;
+}
+.left {
+  flex: left;
+  width: 50%;
+}
+.right {
+  flex: right;
+  width: 50%;
+  text-align: right;
+    font-size: 16px;
+}
+
+/*-----------------------------------
+TABLET
+----------------------------------- */
+@media screen and (min-width: 716px) and (max-width: 1024px) {
+
+}
+
+/*-----------------------------------
+MOBILE
+----------------------------------- */
+@media only screen and (max-width: 1024px) {
+p {font-size: 16px;}
+#container { padding: 200px 25px 25px 25px;}
+    h1 {padding-bottom: 15px;}
+h3 {width: 100%; font-size: 36px; line-height: 40px;}
+.home {padding-top: 75px;}
+.home img {height: auto; width: 80%;}
+.intro {width: 100%; padding: 50px 25px 50px 25px;}
+.intro p { font-size: 30px; line-height: 36px; text-indent: 50px;}
+article { width: 100%; }
+#share-bar {width: 100%;}
+sidebar { padding-left: 0px; width: 100%; }
+
+    main {width: 100%; }
+.essay { width: 100%; }
+.titles {margin-top: -50px;}
+    .project { font-size: 36px; line-height: 40px;}
+.summary {font-size: 20px; line-height: 24px;}
+.about-footer { padding-top: 25px; display: block;  }
+.about-footer img {display: none; }
+.related-post-list {display: block;}
+.related-post { padding-right: 0px; padding-top: 20px;}
+.related-post h4 {color: black; font-size: 24px; padding-bottom: 0px;}
+.blog-tags-list {padding-bottom: 50px;}
+.blog-tags-item {float: left; padding-right: 15px;}
+
+/*----------- HEADER --------------*/
+header { padding: 15px 0px 15px 0px; display: block;}
+header .logo { padding: 15; width: 100%; }
+header article { text-align: center; padding-top: 20px; padding-bottom: 10px; }
+header nav {
+    width: 100%;
+    font-size: 20px;
+    line-height: 23px;
+    padding-bottom: 15px;
+    }
+    header #container {display: block; padding-bottom: 0px; }
+.side-nav {width: 100%;  }
+.side-nav li {float: left; padding-right: 15px; font-size: 18px; }
+.sort {column-count: 1;}
+    .nav-up {    top: -200px;}
+
+/*----------- RESOURCES --------------*/
+.resource-list {display: block;}
+.resource-list a{ width: 100%;}
+.resource_title {
+    font-size: 22px;
+}
+.resource_description {
+    padding: 0px 25px 25px 25px;
+    font-size: 16px;
+}
+.resources:hover {
+    background-color: rgba(0,0,0,.1);
+    color: black;
+}
+/*----------- PODCAST --------------*/
+.podcast {
+    width: 100%;
+    padding-top: 0px;
+}
+.podcast-header {
+    font-size: 32px;
+    line-height: 40px;
+    padding-bottom: 25px;
+    display: block;
+}
+.podcast-header img {
+    margin-right: 0px;
+    margin-bottom: 15px;
+    width: 100%;
+    height: 100%;
+}
+.podcast-description .fab {
+    font-size: 24px;
+    padding-top: 20px;
+}
+.podcast li {
+    line-height: 24px;
+    font-size: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.podcast li:hover {
+    text-decoration: none;
+}
+
+/*----------- Footer --------------*/
+.cta { display: block; }
+.newsletter {width: 100%; }
+.work-with-me {
+        width: 100%;
+        background-image: url(http://www.jarrettfuller.com/markpollard.net/images/black-line-01.png);
+    padding: 20px 0 0 0px;}
+footer {display: block; opacity: 1; padding: 0px }
+    footer:hover {background-color: rgba(212,212,212,1);}
+    footer #container {padding-top: 20px;}
+    .colophon {display: block;}
+.left {width: 100%;}
+.right {width: 100%; text-align: left;}
+.footer-nav {
+    display: block;
+    padding-bottom: 20px;
+    }
+    .footer-nav-block {
+    width: 100%;
+    padding-right: 0px;
+        padding-bottom: 20px;
+}
+    .social {
+        text-align: left;
+    }
+    .social a {
+        margin-left: 0px;
+        margin-right: 0px;
+        display: block;
+        padding-left: 0px;
+    }
+}
