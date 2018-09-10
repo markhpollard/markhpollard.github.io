@@ -1,12 +1,12 @@
 ---
-title: "Better Creative Briefs — Writing Propositions Is All About The Writing"
+title: Better Creative Briefs — Writing Propositions Is All About The Writing
+date: 2017-09-05 00:00:00 Z
 permalink: "/better-creative-briefs"
 tags:
 - Writing
 layout: article
-date: '2017-9-5'
 pubdate: September 2017
-summary: "If we’re all creative, why do only some people get to say they are creative?"
+summary: If we’re all creative, why do only some people get to say they are creative?
 ---
 
 What creative teams want, books on writing to read, and 3 techniques to get you there.

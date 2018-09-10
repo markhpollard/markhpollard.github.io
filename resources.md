@@ -1,7 +1,7 @@
 ---
 title: Resources
-layout: resources
 permalink: "/strategy-resources"
+layout: resources
 h1: Resources
 ---
 

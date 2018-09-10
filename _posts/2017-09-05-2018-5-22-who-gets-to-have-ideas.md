@@ -1,11 +1,12 @@
 ---
-title: "Who Gets To Have Ideas?"
+title: Who Gets To Have Ideas?
+date: 2017-09-05 00:00:00 Z
 permalink: "/who-gets-to-have-ideas"
-tags: Creativity
+tags:
+- Creativity
 layout: article
-date: '2017-9-5'
 pubdate: May 2018
-summary: "If we’re all creative, why do only some people get to say they are creative?"
+summary: If we’re all creative, why do only some people get to say they are creative?
 ---
 
 “As a creative.” What does this mean? And why is it such a verbal tick for some people, a phrase that comes as automatically as “Um”?

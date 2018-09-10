@@ -1,11 +1,12 @@
 ---
-title: "Presentation Templates"
+title: Presentation Templates
 permalink: "/how-to-structure-your-culture"
-tags: Writing
-layout: article
-description: "When you start a new job, you’re an outsider."
+tags:
+- Writing
 position: 3
-image: 'https://cdn-images-1.medium.com/max/800/1*DNocd6MVtdcU1PH5nEIVSA.jpeg'
+layout: article
+description: When you start a new job, you’re an outsider.
+image: https://cdn-images-1.medium.com/max/800/1*DNocd6MVtdcU1PH5nEIVSA.jpeg
 ---
 
 When you start a new job, you’re an outsider. It’s just how it is. And the thing about being an outsider is that you have to size up situations quickly to work out how to be a little… well, less on the outside. Is the culture you’re entering incredibly hierarchical and dogmatic? Is it a wild free-for-all? Is bad behavior tolerated – or, even, encouraged? Are there social and intellectual pecking orders within departments? Do departments themselves sit in a pecking order? What’s the attitude toward long hours? The list goes on. But, as time passes, the answers reveal themselves and you either like them or you become an outsider somewhere else.

@@ -2,13 +2,13 @@
 title: Mark Pollard
 timezone: UTC
 collections:
-  resources:
-    title: Resources
-    output: true
-    permalink: '/resources/:title'
   posts:
     title: Posts
     output: true
+  resources:
+    title: Resources
+    output: true
+    permalink: "/resources/:title"
   uploads:
     title: Uploads
     output: true
@@ -19,24 +19,24 @@ defaults:
     layout: default
 name: Mark Pollard
 description: Adventures In Clear Thinking
-avatar:
+avatar: 
 footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github:
-  instagram:
-  linkedin:
-  pinterest:
-  rss:
-  twitter:
-  stackoverflow:
-  youtube:
-  googleplus:
+  dribbble: 
+  email: 
+  facebook: 
+  flickr: 
+  github: 
+  instagram: 
+  linkedin: 
+  pinterest: 
+  rss: 
+  twitter: 
+  stackoverflow: 
+  youtube: 
+  googleplus: 
 google_analytics: UA-91441149-1
-url:
-baseurl:
+url: 
+baseurl: 
 highlighter: rouge
 permalink: "/:title/"
 version: v1.1.0

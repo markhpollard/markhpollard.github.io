@@ -1,7 +1,7 @@
 ---
 title: Articles
-layout: archive
 permalink: "/strategy-articles"
+layout: archive
 h1: Strategy Articles
 ---
 
