@@ -5,9 +5,9 @@ collections:
   posts:
     title: Posts
     output: true
-    layout: "article"
+    layout: article
     values:
-      summary:
+      summary: 
   resources:
     title: Resources
     output: true
@@ -22,24 +22,24 @@ defaults:
     layout: default
 name: Mark Pollard
 description: Strategy is Your Words
-avatar:
+avatar: 
 footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github:
-  instagram:
-  linkedin:
-  pinterest:
-  rss:
-  twitter:
-  stackoverflow:
-  youtube:
-  googleplus:
+  dribbble: 
+  email: 
+  facebook: 
+  flickr: 
+  github: 
+  instagram: 
+  linkedin: 
+  pinterest: 
+  rss: 
+  twitter: 
+  stackoverflow: 
+  youtube: 
+  googleplus: 
 google_analytics: UA-91441149-1
-url:
-baseurl:
+url: 
+baseurl: 
 highlighter: rouge
 permalink: "/:title/"
 version: v1.1.0
