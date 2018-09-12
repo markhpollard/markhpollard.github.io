@@ -223,7 +223,7 @@ width: 75%;
 /*    text-decoration: underline;*/
 /*    padding: 2px;*/
     font-weight: 700;
-    background-image: url(http://www.jarrettfuller.com/markpollard.net/images/lilnk-underline-01.png);
+    background-image: url(images/lilnk-underline-01.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: bottom;
@@ -265,7 +265,7 @@ main {
     padding-bottom: 10px;
     padding: 15px 0px 25px 0px;
     width: 100%;
-    background-image: url(http://www.jarrettfuller.com/markpollard.net/images/black-line-01.png);
+    background-image: url(images/black-line-01.png);
     background-repeat: no-repeat;
     background-position: top;
     background-size: contain;
@@ -329,7 +329,7 @@ hr {
 .related-post-list {
     padding-top: 25px;
     display: flex;
-    background-image: url(http://www.jarrettfuller.com/markpollard.net/images/black-line-01.png);
+    background-image: url(images/black-line-01.png);
     background-repeat: no-repeat;
     background-position: top;
     background-size: contain;
@@ -359,7 +359,7 @@ hr {
 
 /* All buttons */
 .share-buttons {
-    background-image: url(http://www.jarrettfuller.com/markpollard.net/images/black-line-01.png);
+    background-image: url(images/black-line-01.png);
     background-repeat: no-repeat;
     background-position: top;
     background-size: contain;
@@ -516,7 +516,7 @@ hr {
     width: auto;
 }
 .podcast-list {
-        background-image: url(http://www.jarrettfuller.com/markpollard.net/images/black-line-01.png);
+        background-image: url(/images/black-line-01.png);
     background-repeat: no-repeat;
     background-position: top;
     background-size: contain;
@@ -556,7 +556,7 @@ hr {
 .cta {
     display: flex;
     text-align: center;
-    background-image: url(http://www.jarrettfuller.com/markpollard.net/images/black-line-01.png);
+    background-image: url(images/black-line-01.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -689,7 +689,7 @@ footer .fa-linkedin:hover {
 }
 .social {
     width: 100%;
-    background-image: url(http://www.jarrettfuller.com/markpollard.net/images/black-line-01.png);
+    background-image: url(images/black-line-01.png);
     background-repeat: no-repeat;
     background-size: contain;
     padding-top: 25px;
@@ -701,22 +701,6 @@ footer .fa-linkedin:hover {
     padding-bottom: 10px;
     font-size: 20px;
 }
-/*
-.social ul {
-    text-align: center;
-    padding-bottom: 50px;
-          font-size: 16px;
-        color: #666666;
-}
-.social li {
-    font-weight: normal;
-    padding-left: 10px;
-    padding-right: 10px;
-        text-align: center;
-      font-size: 16px;
-        color: #666666;
-}
-*/
 .social a {
     border-bottom: 0px;
         padding-left: 10px;
@@ -727,7 +711,7 @@ footer .fa-linkedin:hover {
 }
 .colophon {
     display: flex;
-    background-image: url(http://www.jarrettfuller.com/markpollard.net/images/black-line-01.png);
+    background-image: url(images/black-line-01.png);
     background-repeat: no-repeat;
     background-size: contain;
     padding-top: 25px;
@@ -845,7 +829,7 @@ header nav {
 .newsletter {width: 100%; }
 .work-with-me {
         width: 100%;
-        background-image: url(http://www.jarrettfuller.com/markpollard.net/images/black-line-01.png);
+        background-image: url(images/black-line-01.png);
     padding: 20px 0 0 0px;}
 footer {display: block; opacity: 1; padding: 0px }
     footer:hover {background-color: rgba(212,212,212,1);}

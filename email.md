@@ -1,5 +1,5 @@
 ---
-title: About Mark Pollard
+title: Email page
 permalink: "/subscribe-email"
 layout: email
 ---
