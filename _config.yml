@@ -23,18 +23,18 @@ defaults:
     type: posts
   values:
     layout: article
-    summary:
+    summary: 
 - scope:
     path: ''
     type: resources
   values:
     layout: article
-    summary:
+    summary: 
 name: Mark Pollard
 description: Strategy is Your Words
 google_analytics: UA-91441149-1
-url:
-baseurl:
+url: 
+baseurl: 
 highlighter: rouge
 permalink: "/:title/"
 version: v1.1.0
