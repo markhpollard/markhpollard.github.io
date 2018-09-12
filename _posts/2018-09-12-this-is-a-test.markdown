@@ -7,3 +7,4 @@ summary: this is a test summary
 ---
 
 Test post 2
+![cri_000000251048.jpg](/uploads/cri_000000251048.jpg)
