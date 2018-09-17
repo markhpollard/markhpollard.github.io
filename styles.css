@@ -325,7 +325,7 @@ hr {
     text-align: center;
     padding-bottom: 5px;
 }
-.related-posts img { height: 23px; }
+.related-posts img { height: 30px; }
 .related-post-list {
     padding-top: 25px;
     display: flex;
@@ -353,7 +353,7 @@ hr {
     padding-bottom: 0px;
 }
 #share-bar img {
-    height: 23px;
+    height: 30px;
     width: auto;
 }
 
@@ -512,7 +512,7 @@ hr {
     margin: auto;
 }
 .favorite-podcasts img {
-    height: 22px;
+    height: 30px;
     width: auto;
 }
 .podcast-list {
@@ -689,7 +689,7 @@ footer .fa-linkedin:hover {
     padding-right: 25px;
 }
 .footer-nav-block img {
-    height: 21px;
+    height: 30px;
 }
 .social {
     width: 100%;
