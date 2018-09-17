@@ -569,6 +569,9 @@ hr {
     font-size: 36px;
     font-weight: normal;
 }
+input#mce-EMAIL {
+    width: 100%;
+}
 .cta p {
     font-style: italic;
 /*    width: 80%;*/
@@ -596,6 +599,7 @@ input {
     font-size: 18px;
     font-weight: 700;
 }
+
 .work-with-me {
     padding: 50px;
     margin: 0;
