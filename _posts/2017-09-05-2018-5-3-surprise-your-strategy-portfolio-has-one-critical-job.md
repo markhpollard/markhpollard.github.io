@@ -2,11 +2,9 @@
 title: Surprise! Your strategy portfolio has one critical job
 date: 2017-09-05 00:00:00 Z
 permalink: "/strategy-portfolio"
-tags:
-- Strategy
-layout: article
-pubdate: May 2018
 summary: Put it to work
+pubdate: May 2018
+layout: article
 ---
 
 Portfolios aren’t difficult. The Terrible Twos are difficult. The Terrible Twos are the third year of our lives, a year in which we become hooligans in the home, a state to which we all no doubt return decades later. No, portfolios aren’t like this — portfolios are dainty.
