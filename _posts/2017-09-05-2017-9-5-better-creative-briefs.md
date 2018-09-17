@@ -3,10 +3,10 @@ title: Better Creative Briefs — Writing Propositions Is All About The Writ
 date: 2017-09-05 00:00:00 Z
 permalink: "/better-creative-briefs"
 tags:
-- Writing
-layout: article
-pubdate: September 2017
+- Strategy
 summary: If we’re all creative, why do only some people get to say they are creative?
+pubdate: September 2017
+layout: article
 ---
 
 What creative teams want, books on writing to read, and 3 techniques to get you there.
