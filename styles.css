@@ -73,11 +73,17 @@ h4 {
 h5 {
     font-size: 18px;
 }
+.page a {
+    text-decoration: underline;
+}
 /*------ STRUCTURE --------*/
 article {
     width: 60%;
     margin: auto;
     float: none;
+}
+article a {
+    text-decoration: underline;
 }
 article img {
     width: 100%;
@@ -115,19 +121,17 @@ sidebar ul {
     margin-right: auto;
 }
 /*----------- Contact --------------*/
-.form-group { border: 0px;}
-fieldset label {
-    font-size: 20px;
-    font-weight: 700;
-    margin-top: 15px;
+.email-form {
+    display: block;
+    padding: 0px;
 }
-fieldset input {
-    width: 100%;
-    margin-left: 0%;
+.email-form input {
+    display: block;
+    margin: 0px;
     margin-top: 5px;
-        margin-bottom: 20px;
+    width: 50%;
 }
-fieldset textarea {
+textarea {
     width: 100%;
     border: 1px solid black;
     padding: 10px;
@@ -137,8 +141,15 @@ fieldset textarea {
     font-size: 18px;
     font-weight: 700;
 }
-.contact-form input {
+button {
+        border: 1px solid black;
+    padding: 10px;
+    margin-top: 10px;
     margin-left: 0px;
+    margin-right: 10px;
+    background-color: white;
+    font-size: 18px;
+    font-weight: 700;
 }
 
 /*----------- HEADER --------------*/
