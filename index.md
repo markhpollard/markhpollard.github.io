@@ -30,4 +30,5 @@ In strategy, words are all that matters.
 
 Strategy is your words.
 
-Now, welcome to my strategy website. [Go read something](http://).
+
+Welcome to my strategy website. Now [go read something](http://).
