@@ -18,4 +18,5 @@ At their worst, words make everything hard. If you think word length impresses p
 Finally, there are two ways to dismiss words. First, you can say actions speak louder than words. But here’s the thing, words act louder than actions. Words lead to actions and they tell the stories of those actions - words are the brains and memories of actions. Second, you can dismiss them outright and you can say words don’t matter at all but you’d use words to make the point. 
 In strategy, words are all that matters. 	
 Strategy is your words.
-[h1]
+
+{{ page['h1'] }}
