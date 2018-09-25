@@ -12,7 +12,7 @@ By accessing this web site, you are agreeing to be bound by these website Terms 
 
 2\. USE LICENSE
 
-Permission is granted to temporarily download one copy of the materials (information or software) on MarkPollard.net’s web site for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
+I. Permission is granted to temporarily download one copy of the materials (information or software) on MarkPollard.net’s web site for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
 
 i. Modify or copy the materials;
 
