@@ -149,7 +149,7 @@ If you want to check or change what types of cookies you accept, this can usuall
 * [Cookie settings in Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
 * [Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
 * [Cookie settings in Chrome](https://support.google.com/chrome/answer/95647)\
-* [Cookie settings in Safari (https://support.apple.com/kb/ph21411)\
+* [Cookie settings in Safari] (https://support.apple.com/kb/ph21411)
 
 To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
