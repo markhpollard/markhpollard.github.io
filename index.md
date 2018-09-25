@@ -1,5 +1,6 @@
 ---
 title: Strategy Is Your Words
+date: 2018-09-18 10:40:00 Z
 h1: Strategy Is Your Words
 summary: by Mark Pollard
 layout: index
