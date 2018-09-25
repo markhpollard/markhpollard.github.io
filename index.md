@@ -30,5 +30,4 @@ In strategy, words are all that matters.
 
 Strategy is your words.
 
-*
-Welcome to my strategy website. Now [go read something](http://).
+*[Now go read something](http://).
