@@ -6,14 +6,16 @@ layout: page
 
 PRIVACY POLICY
 
-**1. INTRODUCTION\
-**This privacy notice provides you with details of how we collect and process your personal data through your use of our site http://www.markpollard.net.
+**1. INTRODUCTION**
+
+This privacy notice provides you with details of how we collect and process your personal data through your use of our site http://www.markpollard.net.
 
 By providing us with your data, you warrant to us that you are over 13 years of age.
 
 Mighty Jungle LLC is the data controller and we are responsible for your personal data (referred to as “we”, “us” or “our” in this privacy notice).
 
-CONTACT DETAILS\
+CONTACT DETAILS
+
 Full name of legal entity: Mighty Jungle, LLC
 
 Email address: info  @  mightyjungle.co
@@ -24,7 +26,7 @@ Personal data means any information capable of identifying an individual. It doe
 
 We may process the following categories of personal data about you:
 
-i. **Communication Data** that includes any communication that you send to us whether that be through the contact form on our website, through email, text, social media messaging, social media posting or any other communication that you send us. We process this data for the purposes of communicating with you, for record keeping and for the establishment, pursuance or defence of legal claims. Our lawful ground for this processing is our legitimate interests which in this case are to reply to communications sent to us, to keep records and to establish, pursue or defend legal claims.\\
+i. **Communication Data** that include any communication that you send to us whether that be through the contact form on our website, through email, text, social media messaging, social media posting or any other communication that you send us. We process this data for the purposes of communicating with you, for record keeping and for the establishment, pursuance or defence of legal claims. Our lawful ground for this processing is our legitimate interests which in this case are to reply to communications sent to us, to keep records and to establish, pursue or defend legal claims.
 
 ii. **Customer Data** that include data relating to any purchases of goods and/or services such as your name, title, billing address, delivery address email address, phone number, contact details, purchase details and your card details. We process this data to supply the goods and/or services you have purchased and to keep records of such transactions. Our lawful ground for this processing is the performance of a contract between you and us and/or taking steps at your request to enter into such a contract.
 
@@ -82,7 +84,7 @@ iv. Third parties to whom we sell, transfer, or merge parts of our business or o
 
 We require all third parties to whom we transfer your data to respect the security of your personal data and to treat it in accordance with the law. We only allow such third parties to process your personal data for specified purposes and in accordance with our instructions.
 
-**6. INTERNATIONAL TRANSFERS**\\
+**6. INTERNATIONAL TRANSFERS**
 
 We are subject to the provisions of the General Data Protection Regulations that protect your personal data. Where we transfer your data to third parties outside of the EEA, we will ensure that certain safeguards are in place to ensure a similar degree of security for your personal data. As such:
 
@@ -114,7 +116,7 @@ In some circumstances we may anonymize your personal data for research or statis
 
 Under data protection laws you have rights in relation to your personal data that include the right to request access, correction, erasure, restriction, transfer, to object to processing, to portability of data and (where the lawful ground of processing is consent) to withdraw consent.
 
-You can see more about these rights at:\
+You can see more about these rights at:
 https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/
 
 If you wish to exercise any of the rights set out above, please contact us via http://www.markpollard.net/contact.
@@ -135,38 +137,36 @@ This website may include links to third-party websites, plug-ins and application
 
 You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our cookie policy below.
 
-**WHAT’S A COOKIE?
-**
+**WHAT’S A COOKIE?**
 
 * A “cookie” is a piece of information that is stored on your computer’s hard drive and which records how you move your way around a website so that, when you revisit that website, it can present tailored options based on the information stored about your last visit. Cookies can also be used to analyze traffic and for advertising and marketing purposes.
 
 * Cookies are used by nearly all websites and do not harm your system.
 
-  If you want to check or change what types of cookies you accept, this can usually be altered within your browser settings. You can block cookies at any time by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.
+If you want to check or change what types of cookies you accept, this can usually be altered within your browser settings. You can block cookies at any time by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.
 
-  If you’d like to change your browser’s cookie settings, the following links can help:\
-  [Cookie settings in Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)\
-  [Cookie settings in Firefox\
-  ](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)[Cookie settings in Chrome](https://support.google.com/chrome/answer/95647)\
-  [Cookie settings in Safari](https://support.apple.com/kb/ph21411)\
-  To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+  If you’d like to change your browser’s cookie settings, the following links can help:
+* [Cookie settings in Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+* [Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+* [Cookie settings in Chrome](https://support.google.com/chrome/answer/95647)\
+* [Cookie settings in Safari (https://support.apple.com/kb/ph21411)\
 
-  **HOW DO WE USE COOKIES?\
-  **
+To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-* We use cookies to track your use of our website. This enables us to understand how you use the site and track any patterns with regards how you are using our website. This helps us to develop and improve our website as well as products and / or services in response to what you might need or want.\
+**HOW DO WE USE COOKIES?**
 
-  Cookies are either:
+* We use cookies to track your use of our website. This enables us to understand how you use the site and track any patterns with regards how you are using our website. This helps us to develop and improve our website as well as products and / or services in response to what you might need or want.
+
+Cookies are either:
 
 * Session cookies: these are only stored on your computer during your web session and are automatically deleted when you close your browser – they usually store an anonymous session ID allowing you to browse a website without having to log in to each page but they do not collect any personal data from your computer; or
 
 * Persistent cookies: a persistent cookie is stored as a file on your computer and it remains there when you close your web browser. The cookie can be read by the website that created it when you visit that website again.
 
-  We use persistent cookies for Google Analytics (using IP anonymization), Pinterest, to allow the Pinterest button on our pages, Facebook, to allow the Facebook page like button and remarketing, and Mailchimp to track pageviews on the site from email subscribers. Besides that, we use cookies for strictly necessary purposes, such as site security and allowing payments (Paypal, Stripe).\
+We use persistent cookies for Google Analytics (using IP anonymization) and Mailchimp to track pageviews on the site from email subscribers. Besides that, we use cookies for strictly necessary purposes, such as site security and allowing payments (Paypal, Stripe).
 
-  Cookies can also be categorised as follows:
+Cookies can also be categorised as follows:
 
 * Strictly necessary cookies: These cookies are essential to enable you to use the website effectively, such as when buying a product and / or service, and therefore cannot be turned off. Without these cookies, the services available to you on our website cannot be provided. These cookies do not gather information about you that could be used for marketing or remembering where you have been on the internet.
-
-* Performance cookies: These cookies enable us to monitor and improve the performance of our website. For example, they allow us to count visits, identify traffic sources and see which parts of the site are most popular.\
-  Functionality cookies: These cookies allow our website to remember choices you make and provide enhanced features. For instance, we may be able to provide you with news or updates relevant to the services you use. They may also be used to provide services you have requested such as viewing a video or commenting on a blog. The information these cookies collect is usually anonymized.
+* Performance cookies: These cookies enable us to monitor and improve the performance of our website. For example, they allow us to count visits, identify traffic sources and see which parts of the site are most popular.
+* Functionality cookies: These cookies allow our website to remember choices you make and provide enhanced features. For instance, we may be able to provide you with news or updates relevant to the services you use. They may also be used to provide services you have requested such as viewing a video or commenting on a blog. The information these cookies collect is usually anonymized.
