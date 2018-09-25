@@ -29,3 +29,5 @@ Finally, there are two ways to dismiss words. First, you can say actions speak l
 In strategy, words are all that matters.
 
 Strategy is your words.
+
+Now, welcome to my strategy website. [Go read something](http://).
