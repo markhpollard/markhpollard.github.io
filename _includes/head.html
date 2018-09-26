@@ -2,7 +2,11 @@
     <title>{{ page.title }}—Mark Pollard</title>
         <meta name="viewport" content="width=device-width">
         <meta charset="UTF-8">
+        {% if page.categories %}
+        <meta name="keywords" content="{% for categories in post.categories %}{{ categories }}, {% endfor %}"  />
+{% else %}
         <meta name="keywords" content="mark pollard, strategy, strategist, ceo, mighty jungle, planner, strategy is your words"  />
+{% endif %}
         <meta name="author" content="Mark Pollard">
         <meta name="description" content="Mark Pollard - strategy writing, drawing, and talking from the bowels of New York City." />
         <link rel="stylesheet" type="text/css" href="{{ site.github.url }}/styles.css" />
