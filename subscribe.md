@@ -4,7 +4,6 @@ permalink: "/email-newsletter"
 layout: about
 ---
 
-
 <center>
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
