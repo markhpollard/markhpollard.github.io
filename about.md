@@ -6,6 +6,8 @@ image: "/images/mark.jpeg"
 layout: about
 ---
 
+![Mark-Pollard-Sketches-640x400.jpg](/uploads/Mark-Pollard-Sketches-640x400.jpg)
+
 Once upon a time, I lived at least two lives. At the age of 19, I started work in the agency world. This was also the same age I started work on what became Australia’s first full-color hip hop magazine. By day, it was business, and, at all other times, it was hip hop. I didn’t really talk about the hip hop world at work because that was an era when people ridiculed it. Ten years later, they’d go to the festivals headlined by hip hop artists.
 
 In the agency world, I started as a digital producer, where a digital producer managed the projects, billing, clients, functional specifications, information architecture, wireframes, analytics, and often wrote the copy. I don’t think I met a digital strategist until a few years into my career. They didn’t exist. 
@@ -21,3 +23,5 @@ I write to work out what I think, to keep myself company, to find my people, and
 You can find [my work history on LinkedIn](https://www.linkedin.com/in/markpollardstrategist/).\
 If you need my biography, [click here](biography/).\
 And, yes, I’d love to [work with you](/work-with-me/).
+
+P.S. The photos of me are by [Lena Nicholson](http://www.lenanicholson.com/) and the website by [Jarrett Fuller](http://jarrettfuller.com/).
