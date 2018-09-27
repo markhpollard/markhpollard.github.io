@@ -138,7 +138,7 @@ This rubric assumes interrogation of the business issue and the audience but it 
 
 ### Step 1: The problem
 
-So you get a brief from the client. Hopefully, they will have worked out their key business challenges and know what success looks like. Often the annual communications budget will be a nice round number and a % of the annual revenue target (typically 5-10%). 
+So you get a brief from the client. Hopefully, they will have worked out their key business challenges and know what success looks like. Often the annual communications budget will be a nice round number and a % of the annual revenue target (typically 5-10%).
 
 You can make your first impact here by trying to work out the [customer lifetime value](https://hbswk.hbs.edu/archive/hbs-toolkit-lifetime-customer-value-calculator) of the client’s customers and establish whether their budget makes any sense from the bottom up. There’s often little rhyme or reason to where these budgets come from – they’re typically just rules of thumb that businesses have applied for years. Push to get clarity on this before you do anything else because it can swing your entire approach.
 
