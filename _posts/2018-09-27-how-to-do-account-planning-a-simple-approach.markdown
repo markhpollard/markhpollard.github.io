@@ -178,13 +178,9 @@ These people are very real to me because I see hundreds of faces flash across th
 The challenges with personas are that:
 
 - Someone with whom you work read some article on some website that made fun of personas and will now disparage them.
-
 - Someone who's into data will mention the phrase: "Well, it's a segment of one."
-
 - The internal consumer insight team will have spent a year developing their own segmentation. Often vague and just like the other segmentations, these aren't always useful but they make great neck weights.
-
 - The media company doesn't want anything to do with any of it because it doesn't match their media segmentation.
-
 - The user experience expert will think the personas are too flimsy and don't contain enough graphs and charts.
 
 So, stalemate ensues. But stalemate will only happen if you compete with the personas. Even if you never share personas and you just write a few bullet points for each type of person you're seeing, they'll help you get to more specific thinking.
