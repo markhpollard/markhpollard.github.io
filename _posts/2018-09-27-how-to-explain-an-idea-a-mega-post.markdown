@@ -35,10 +35,10 @@ If you do creative work or have a creative soul, then ideas are your oxygen. Thi
 
 This article goes great with [How to do account planning - a simple approach](/how-to-do-account-planning-a-simple-approach/). If you do creative work, these two articles will catch you up to speed with concepts that took many years for many of us to comprehend.
 
-# [Take my brand strategy class on Skillshare](http://skl.sh/markpollard) and get two free months.
+## [Take my brand strategy class on Skillshare](http://skl.sh/markpollard) and get two free months.
 
 
-**Now**
+## **Now**
 
 1. Please share this article with at least one person
 
