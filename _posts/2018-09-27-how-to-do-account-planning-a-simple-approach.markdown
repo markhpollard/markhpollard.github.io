@@ -18,11 +18,10 @@ That's what most businesses that sell services do, and the advertising, research
 If you do account planning, brand planning, strategy, or whatever you want to call it, and you're making money from making your work complicated, you're either:
 
 1. A huxster, or
+
 2. Incompetent
 
-
 # [Take my brand strategy class on Skillshare](http://skl.sh/markpollard) and get two free months.
-
 
 The job of account planning is to find meaning in mess. The act of account planning is simplicity. Yes, it is a messy business but it's complex only in the way that our brains are complex and see patterns everywhere and jump from one thought to another and then settle somewhere if only for a second.
 
@@ -178,11 +177,16 @@ I used to make a rap magazine and run an online message board so I like personas
 These people are very real to me because I see hundreds of faces flash across these few sentences. And we could generate many ideas from these sentences. They tether my empathy and give me creative constraints with which to play.
 
 The challenges with personas are that:
-*Someone with whom you work read some article on some website that made fun of personas and will now disparage them.
-*Someone who's into data will mention the phrase: "Well, it's a segment of one."
-*The internal consumer insight team will have spent a year developing their own segmentation. Often vague and just like the other segmentations, these aren't always useful but they make great neck weights.
-*The media company doesn't want anything to do with any of it because it doesn't match their media segmentation.
-*The user experience expert will think the personas are too flimsy and don't contain enough graphs and charts.
+
+* Someone with whom you work read some article on some website that made fun of personas and will now disparage them.
+
+* Someone who's into data will mention the phrase: "Well, it's a segment of one."
+
+* The internal consumer insight team will have spent a year developing their own segmentation. Often vague and just like the other segmentations, these aren't always useful but they make great neck weights.
+
+* The media company doesn't want anything to do with any of it because it doesn't match their media segmentation.
+
+* The user experience expert will think the personas are too flimsy and don't contain enough graphs and charts.
 
 So, stalemate ensues. But stalemate will only happen if you compete with the personas. Even if you never share personas and you just write a few bullet points for each type of person you're seeing, they'll help you get to more specific thinking.
 
@@ -200,10 +204,13 @@ One of the best ways to find them? Start with something that seems obvious and k
 
 I keep a book of observations and what comedians call premises. I do this because I like writing and I believe that to get good at any of this, we must practice. So, I capture tens of thoughts every day and then riff. For instance:
 
-*A mid-life crisis is just death asking if you're ready
-*A mid-life crisis is life telling you to pay attention
-*A mid-life crisis is your young self convulsing at your old self
-*A mid-life crisis is a cocaine bender for all your repressions
+* A mid-life crisis is just death asking if you're ready
+
+* A mid-life crisis is life telling you to pay attention
+
+* A mid-life crisis is your young self convulsing at your old self
+
+* A mid-life crisis is a cocaine bender for all your repressions
 
 I've never done cocaine but I've put words together in this structure many times: X is Y. It's a good way to practice and, yes, it's a lateral thought and a lateral thought is an idea.
 
@@ -227,16 +234,21 @@ I’ve come across a lot of "strategic thinking" that doesn’t seem to have a s
 
 Common structures include:
 
-*Get / To / By - Get \[persona\] /To \[do something\] /By \[us doing or saying something\]
-*For / Only / Because
+* Get / To / By - Get \[persona\] /To \[do something\] /By \[us doing or saying something\]
+
+* For / Only / Because
 
 I like to write a sentence in this format:
-*Show that X is Y
+
+* Show that X is Y
 
 Examples:
-*Show that a mid-life crisis is just a wake-up call
-*Show that the New York Knicks are great anger management
-*Show that Audi protects you from the clowns on the road
+
+* Show that a mid-life crisis is just a wake-up call
+
+* Show that the New York Knicks are great anger management
+
+* Show that Audi protects you from the clowns on the road
 
 This format is clean. It groups together two thoughts into an idea. It doesn't impersonate a tagline or a campaign idea. And you can always write something more succinct as a single-minded proposition.
 
@@ -254,8 +266,9 @@ If you choose to write a strategy statement as well, then it's fine to repeat ce
 
 If you wrote a strategy statement for a mid-life crisis like the one above - "Show that a mid-life crisis is just a wake-up call" - it works fine as it is. You could also write a proposition from it:
 
-*A mid-life crisis is a wake-up call
-*A mid-life crisis will wake you up
+* A mid-life crisis is a wake-up call
+
+* A mid-life crisis will wake you up
 
 You choose.
 
@@ -269,9 +282,11 @@ People dismiss customer experience maps for bizarre reasons. A few years ago, it
 
 You can create an experience model or map against different personas. At a high level, your experience model may address 5-7 key phases of someone’s interaction with you. If you think about the last time you bought a mobile phone. There may have been a trigger, you may have waited for your contract to expire, then you researched, asked around, validated with consumer and expert reviews, shopped, signed up, set up and used. If you put those basic phases into a matrix then mapped...
 
-*The issues (what challenges there are at each step),
-*The context (where the step happens: eg face to face, Google, Facebook), and
-*The content needed to make a decision,
+* The issues (what challenges there are at each step),
+
+* The context (where the step happens: eg face to face, Google, Facebook), and
+
+* The content needed to make a decision,
 
 ...you can quickly map out a pretty solid plan. However, approach these with two distinct mindsets - one is to map the natural behavior (the map) and the other is to put ideas against that behavior (the plan).
 
@@ -294,7 +309,11 @@ Regardless, welcome to your career. There aren't many other careers where you ge
 ## **Now**
 
 1. Please share this article with at least one person
+
 2. Take this sick [brand strategy Skillshare class](http://skl.sh/markpollard)
+
 3. Join my [email newsletter](https://markpollard.us1.list-manage.com/subscribe?u=dfb4c80f84a49d4cfc0d34490&id=c66948a2fc)
+
 4. Come find me on [Twitter](http://www.twitter.com/markpollard), [Instagram](http://www.instagram.com/markpollard), and [LinkedIn](https://www.linkedin.com/in/markpollardstrategist/)
+
 5. Join thousands of strategists in [Sweathead](http://www.sweathead.co) on Facebook
