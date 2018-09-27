@@ -1,6 +1,7 @@
 ---
 title: How to do account planning - a simple approach
 date: 2018-09-27 13:05:00 Z
+permalink: "/how-to-do-account-planning-a-simple-approach/"
 tags:
 - Strategy
 summary: Over 90,000 people have read this guide to account planning. It includes
