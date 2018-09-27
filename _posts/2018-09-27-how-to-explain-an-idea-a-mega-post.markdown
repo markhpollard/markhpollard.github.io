@@ -49,7 +49,7 @@ Words often get in the way of creativity so it’s no surprise that the word “
 
 **1. We use the word “idea” to describe thoughts and suggestions -** “I know this is heteronormative of me but I have an idea: let’s eat kimchi soondubu at Food Gallery 32 in Koreatown for lunch.”
 
-**2. We use the word “idea” to describe new concepts -** “I have an idea  —  it’s a business where we turn memes into bath products .  Dank Tank.”
+**2. We use the word “idea” to describe new concepts -** “I have an idea  —  it’s a business where we turn memes into bath products .  [Dank Tank](https://www.danktank.co/).”
 
 **3. We use the word “idea” when someone says something stupid -** “You have no idea.” That’s a mean use of the word. Don’t be mean. The world doesn’t need it.
 
@@ -68,16 +68,80 @@ Compare this thought with the use of the word “idea” as a novel concept: “
 When I’m training people in lateral thinking, I point out how adding mischief feels different in the brain. However, see how the two “I have an idea” statements above feel different? One is a yawn, the other a kick in the pants.
 
 Yes, it’s complicated because humans complicate things. And what complicates all of this is that, as far as “ideas as novel concepts” go, in agency world, there are:
+
 * Business ideas
+
 * Advertising ideas
+
 * Brand ideas
+
 * Campaign ideas
+
 * Content ideas
+
 * New product ideas
 
 Oh, and strategies (which are also ideas  —  even though the monopoly on the use of the word “idea” in an agency typically belongs to the creative department).
 
-Perhaps, we need a different vocabulary to eliminate confusion and buffering or we simply need to define our words in public so we all know what we mean when we use them. 
+Perhaps, we need a different vocabulary to eliminate confusion and buffering or we simply need to define our words in public so we all know what we mean when we use them.
+
+\##Why do you need to be able to explain an idea?
+
+Here’s a secret: many people in our industry aren’t idea-literate. You could work with a creative team that focuses on taglines, hashtags, and manifestos. You might need to play the mind game of helping them articulate their idea without them knowing. You could work with other agencies who throw the word around like confetti only to catch yourself a few weeks into a project wondering, “What are we even talking about?”
+
+It’s important to pry apart the executional stuff, the tactics from the idea for five reasons:
+
+**1. Longevity**
+If someone can’t explain their idea then they may be using verbal and visual tricks to get through an executional approach (eg a certain art style or piece of technology). This can reduce the longevity of a campaign/project because an execution may only carry interest for so long.
+
+**2. Support and defensibility**
+To defend great work that’s strategically based, there needs to be a clear line from the challenge through to the insight, strategy, and to the creative. A well-explained idea can help the team promote the work to the client. It also helps manage the conversation with the client so that executional concerns do not undermine the idea or the strategy. I have seen occasions where executional issues have led to a strategy change because neither the idea nor strategy were well explained.
+
+**3. It’s more efficient  —  money money money**
+If you can’t put stakes in the ground from problem to insight to strategy to idea and something executional gets rejected then DOMINOES! Re-work. More time, more money, more frustration. It will cost you.
+
+**4. Brain tether**
+If the thinking is executional (“I want to do 3D typography”) then it becomes harder to ensure every chapter across every channel builds on it without it all merely being matching luggage.
+
+**5. Laziness is contagious**
+It isn’t hard to define an idea — if you have one. Where projects don’t start with clear, concrete strategy and ideas, they are more likely to travel sloppy.
+
+## Where strategy is distinct from the idea
+
+With my former Creative Director, Vince McSweeney who’s now CCO at McCann Birmingham, we came to an agreement that strategy should be about finding insights and then flipping them so that the key output of the strategy is an idea that will get someone to see themselves, the world around them, the product, or the brand differently. It was then the creative job to take this flip and bring it to life in an impactful way. You can read [How to do account planning](/how-to-do-account-planning-a-simple-approach/) for more on this.
+
+First, the context of this agreement was advertising but it relates to non-advertising work. Second, you know what’s most important about that agreement? That we discussed each other’s point of view, what we wanted to accomplish, and that we agreed. Most agencies  —  especially with a younger workforce  —  avoid this discussion. People don’t want noses out of whack. Creative teams can find a planner who brings a “flip” to them intimidating because they wonder what their role is but their role is to flip it even further. What a great role.
+
+## An old example  —  Australia’s largest telco and the Great Wall of China
+
+Perhaps you’ve seen the old Telstra Bigpond campaign where the father talks about the Great Wall of China being built by Emperor Nasi Goreng to keep the rabbits out?
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YDvlWQyvEI38
+" target="_blank"><img src="http://img.youtube.com/vi/DvlWQyvEI38.jpg" 
+alt="Telstra Bigpond - Nasi Goreng" width="240" height="180" border="10" /></a>
+
+The insight here taps into parents’ fears of the future leaving behind their children and the strategy aims to shift the broadband discussion in the home from technology and not needing it to education and, it implies, adult success.
+
+The ad then brings this to life (although this example is quite executional; the “big idea” is in the strategy).
+
+Some agencies keep the planner in the obvious. Words like “easy”, “performance”, “authenticity” or “confidence” are common in some briefs. This is not planning  —  but it happens either because that’s what planning is supposed to do in the agency or because creatives can feel insecure about having part of the problem solved for them (“That’s my job”  —  it’s been said to me). Everywhere is different though.
+
+So, the strategic process is about understanding the issues, the environment, the customers, the insights and then creating an idea about how to shift perspectives. The creative process either solves the problem directly (a non-advertising solution first) or dramatizes the insight and perspective shift.
+
+And… TALK TO EACHOTHER. Define these words and how you work together. Same team, yeah?
+
+## What types of ideas are there?
+These are the common types of ideas bouncing around a creative agency:
+* **Business idea - ** what the company does that’s novel
+* **Brand idea - ** what the company stands for that’s novel
+* **Brand tagline - ** a short phrase that brings to life what the company stands for
+* **Advertising idea - ** the central thought in every communication and interaction across all campaigns indefinitely
+* **Campaign idea - ** if the advertising idea and campaign idea are separate then the campaign idea would typically be a subset and shorter-term execution of the advertising idea
+* **Content idea - ** jargon for stuff that isn’t an ad
+* **Non-advertising idea - ** a concept that solves a problem but that isn’t advertising-centric — it may, however, get advertised
+* **Execution - ** the key bits of the execution that matter (style, channels, etc)
+
+This list... it’s too much and it’s barely scratching the surface and the surface isn’t wearing protection. However, without a clear and agreed definition of what we’re talking about, it’s hard to work, and you can find yourself in meetings having conversations that go nowhere. Mind you, apparently, this is an excellent business model so what do I know?
 
 
 
