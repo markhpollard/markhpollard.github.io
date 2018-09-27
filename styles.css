@@ -82,7 +82,7 @@ article {
     margin: auto;
     float: none;
 }
-article a {
+article p a {
     text-decoration: underline;
 }
 article img {
