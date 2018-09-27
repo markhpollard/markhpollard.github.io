@@ -2,6 +2,7 @@
 title: What’s Your Problem? (And Why Problems Help Creative Thinking)
 date: 2017-12-05 00:00:00 Z
 permalink: "/whats-your-problem"
+published: false
 tags:
 - Creativity
 summary: If we’re all creative, why do only some people get to say they are creative?
