@@ -2,7 +2,6 @@
 title: About Mark Pollard
 permalink: "/about-mark-pollard"
 h1: About Mark Pollard
-image: "/images/mark.jpeg"
 layout: about
 ---
 
