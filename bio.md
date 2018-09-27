@@ -6,9 +6,7 @@ layout: about
 
 ## Please use this biography for events
 
-Mark Pollard
-Strategy CEO
-Mighty Jungle, New York City
+Mark Pollard - Strategy CEO - Mighty Jungle, New York City
 
 Sometimes there are themes in your life that take a long time to see and then even longer to do something about. You imagine how you or your company can contribute something great to the world but you get stuck. The words don’t come out. Then you realize it’s you - you’re in your own way.
 
@@ -22,7 +20,7 @@ You can find him causing mischief on [Twitter](http://www.twitter.com/markpollar
 
 ## Español
 
-Mark Pollard – CEO, Mighty Jungle, New York City\
+Mark Pollard – CEO - Mighty Jungle, New York City
 
 Mark ha estado en el mundo de la agencia desde que tenía diecinueve años. Dirige equipos de estrategia en McCann, Leo Burnett y Big Spaceship, es juez de Jay Chiat Awards y Webbys, y también fue miembro del Comité de Planificación de Cuentas (APG) de Australia.
 
