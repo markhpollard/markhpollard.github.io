@@ -20,7 +20,7 @@ If you do account planning, brand planning, strategy, or whatever you want to ca
 1\. A huxster, or
 2\. Incompetent
 
-> [Take my brand strategy class on Skillshare](http://skl.sh/markpollard) and get two free months.
+# [Take my brand strategy class on Skillshare](http://skl.sh/markpollard) and get two free months.
 
 The job of account planning is to find meaning in mess. The act of account planning is simplicity. Yes, it is a messy business but it's complex only in the way that our brains are complex and see patterns everywhere and jump from one thought to another and then settle somewhere if only for a second.
 
@@ -177,15 +177,15 @@ These people are very real to me because I see hundreds of faces flash across th
 
 The challenges with personas are that:
 
-* Someone with whom you work read some article on some website that made fun of personas and will now disparage them.
+- Someone with whom you work read some article on some website that made fun of personas and will now disparage them.
 
-* Someone who's into data will mention the phrase: "Well, it's a segment of one."
+- Someone who's into data will mention the phrase: "Well, it's a segment of one."
 
-* The internal consumer insight team will have spent a year developing their own segmentation. Often vague and just like the other segmentations, these aren't always useful but they make great neck weights.
+- The internal consumer insight team will have spent a year developing their own segmentation. Often vague and just like the other segmentations, these aren't always useful but they make great neck weights.
 
-* The media company doesn't want anything to do with any of it because it doesn't match their media segmentation.
+- The media company doesn't want anything to do with any of it because it doesn't match their media segmentation.
 
-* The user experience expert will think the personas are too flimsy and don't contain enough graphs and charts.
+- The user experience expert will think the personas are too flimsy and don't contain enough graphs and charts.
 
 So, stalemate ensues. But stalemate will only happen if you compete with the personas. Even if you never share personas and you just write a few bullet points for each type of person you're seeing, they'll help you get to more specific thinking.
 
