@@ -20,6 +20,7 @@ If you do account planning, brand planning, strategy, or whatever you want to ca
 1. A huxster, or
 2. Incompetent
 
+
 # [Take my brand strategy class on Skillshare](http://skl.sh/markpollard) and get two free months.
 
 
@@ -167,22 +168,21 @@ The basic info to think through are:
 
 5. Their pre-occupations, beliefs, passions and pain-points.
 
-**Examples personas**
-I used to make a rap magazine and run an online message board so I like personas because they help me with editorial ideas. Around 2000, as people discovered the Internet, two personas popped up for me.
+**Example personas**
+I used to make a rap magazine and run an online message board so I like personas because they helped me with editorial ideas. Around the year 2000, as people discovered the Internet, two personas popped up for me:
 
-1. The young guy who was possibly the only guy in his peer group or suburb or town who was into underground hip hop culture. His goal was to find his people and he'd use obscure knowledge to compete for attention and to make his way up the hierarchy. Knowledge got him into the circle. If I was at an event at 10pm on a Friday night, this guy would want to talk about a sample on the third track on the B-side of a white-label vinyl.
+1. The young guy who was possibly the only guy in his peer group or suburb or town and who was into underground hip hop culture. His goal was to find his people and he'd use obscure knowledge to compete for attention and to make his way up the hierarchy. Knowledge got him into the circle. If I was at an event at 10pm on a Friday night, this guy would want to talk about a sample on the third track on the B-side of a white-label vinyl.
 
 2. Then there was an older crowd who were the superheroes of the 1980s - the early breakdancers, graffiti artists, rappers, DJs, magazine makers, and event promoters. I make these observations with love - not criticism - but, within this group, were people whose goal it was to reclaim their place in the hierarchy. They wanted to reclaim their fame. They'd share rare photos, ask for contact details of people with whom they hung as teenagers, discuss who'd passed away and how. They wanted to keep memories alive and make sure others revered the memories.
 
 These people are very real to me because I see hundreds of faces flash across these few sentences. And we could generate many ideas from these sentences. They tether my empathy and give me creative constraints with which to play.
 
 The challenges with personas are that:
-
-- Someone with whom you work read some article on some website that made fun of personas and will now disparage them.
-- Someone who's into data will mention the phrase: "Well, it's a segment of one."
-- The internal consumer insight team will have spent a year developing their own segmentation. Often vague and just like the other segmentations, these aren't always useful but they make great neck weights.
-- The media company doesn't want anything to do with any of it because it doesn't match their media segmentation.
-- The user experience expert will think the personas are too flimsy and don't contain enough graphs and charts.
+*Someone with whom you work read some article on some website that made fun of personas and will now disparage them.
+*Someone who's into data will mention the phrase: "Well, it's a segment of one."
+*The internal consumer insight team will have spent a year developing their own segmentation. Often vague and just like the other segmentations, these aren't always useful but they make great neck weights.
+*The media company doesn't want anything to do with any of it because it doesn't match their media segmentation.
+*The user experience expert will think the personas are too flimsy and don't contain enough graphs and charts.
 
 So, stalemate ensues. But stalemate will only happen if you compete with the personas. Even if you never share personas and you just write a few bullet points for each type of person you're seeing, they'll help you get to more specific thinking.
 
