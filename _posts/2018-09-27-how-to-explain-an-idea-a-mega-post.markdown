@@ -250,14 +250,16 @@ ix. Try not to take notes or cards into the presentation — they will distr
 x. Decide whether your presentation starts when you’re in front of the audience — or before; and then what happens after
 
 ## Five ways to structure your idea explanation
-I. Go Hollywood on it
+
+1. Go Hollywood on it
 It’s really worth grabbing a book on screenwriting and learning how to map out a story Hollywood style. Techniques you can borrow:
 i. High concept: a succinct explanation of the premise
 ii. Precedent: When Harry met Sally meets Avatar
 iii. Characters: introduce characters that represent archetypes, their motivations
 iv. Plot points: map out key plot points as you take your audience through your story
 Watch a movie you think does a great job of story-telling and map out how they do it. Borrow and steal.
-II. Get old school on it… Aristotle-style
+
+2. Get old school on it… Aristotle-style
 OK. So, Hollywood is still using the techniques of Aristotle. I use this approach the most too. When I’m mapping it out, I do it on one piece of paper.
 i. The story of your presentation: eg I’m here to introduce you to new technology that can prevent mass-flooding in a matter of minutes (make it more intriguing than that)
 ii. Three acts: use the basic three-act structure as a way to focus your argument (yes, explaining an idea is you putting an argument forward). Perhaps, to build on the flood-prevention idea your three-act structure is:
@@ -265,20 +267,26 @@ a. Show how devastating floods are (perhaps you choose a 3-minute video with inf
 b. Show the solution (perhaps you reveal your moment of inventor’s truth where the idea came to you, you show how it works, how it’s unique, that it’s patented)
 c. Your ask (what you want from them, what they’ll get for it, when and how)
 iii. End: a quick but impactful reminder of what they’ve seen then the real ask (salespeople are often trained to ask a question that someone cannot reply to with a ‘yes’ or ‘no’. For example, which of your clients could use this technology?)
-III. Elevator pitch
+
+3. Elevator pitch
 You have 15 seconds to explain your idea.
 i. The you-know-how? problem: “You know how floods destroy farms?”
 ii. The well-I-have-a-solution tease “Well, I have a widget that can zap the water and move it to drought-stricken areas.”
 iii. The ask: “Want to find out more?”
-IV. The visionary
+
+4. The visionary
 With this technique, you go for the emotional jugular.
 i. Problem-rallying: Imagine if we could solve this (perhaps an emotional video or visit somewhere)
 ii. Solution: Well, we can… and here’s how
 iii. Action: And here is how you can help
-V. Ignite it Pecha Kucha style
+
+5. Ignite it Pecha Kucha style
 This is more a format than a structure suggestion. Ignite and Pecha Kucha (if you’re not familiar with them) are fast-paced presentation events where people are given a short amount of time to tell their story, often with Powerpoint — but the slides have to change every 20 seconds.
+
 Using this approach in the business world is great. The time limit will get people more open to hearing from you (I’m going to show you how to do X in 5 minutes; less risk of time wasting). The time limit also implies a risk that makes for a more exciting presentation (what if she forgets or stumbles?). It will energise you and force you to really structure a succinct story.
-Whatever you do, realize that robots won’t be able to do everything you do for some time yet so get out in front of them, use your brain, and let it get to ideas by getting words out of its way.
+
+
+
 
 ## **Now**
 
