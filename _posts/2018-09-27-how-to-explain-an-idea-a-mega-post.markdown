@@ -184,43 +184,60 @@ Old Spice -  again, my interpretation (probably riddled with holes):
 
 * **Campaign idea -** The set-change
 
-* **Execution -** The Old Spice guy walks through sets innocently pulling off incredible feats of manliness, boldly telling you about them as he does them 
+* **Execution -** The Old Spice guy walks through sets innocently pulling off incredible feats of manliness, boldly telling you about them as he does them
 
 If Old Spice’s business idea is to make men smell classically masculine (I made it up), then this idea gives them the opportunity to stretch into other areas. It anchors them in a core idea but allows them to explore further adrift.
 
-First principles of explaining an idea
-1. The idea and how it works are separate; keep it that way
-“And then this happens, and you click this and a bird appears on your monitor… and an otter taps at your window. Yes, a real otter… on your window at home. We’ll breed them especially.” Yes, you’ve probably lost them — the audience, not the otters — by now if you started here. Keep the idea and how it is made and how it is interacted with separate.
-2. Labels stick; use them
-Instead of labeling your idea “Idea 1” or “Direction 1”, give it a creative title. This suggestion will usually meet with resistance — but it’s purely emotional. Guess what happens if you don’t label your idea? The client does. And then the brilliant idea becomes known as the “gorilla idea” when they’re comparing notes in the elevator. The executional element that impacted them the most becomes the idea. Earth Hour — that’s a good label.
-3. Use a logline
-In 25 words or less, how would you explain the non-executional bits of your idea? Hollywood uses loglines. Expand if you must — but only after digestion. Earth Hour — “We’re going to get the world to turn off their lights for an hour”. The best way to get good at this is to pick things you’re familiar with and explain them in a sentence (try movies or apps, try to explain a singer, a company you love).
-4. Show, pause, repeat your way through
-Do not over-speak. Do not speak quickly. Speak less than you think you need to. Take. Your. Time. Repeat a keyword several times through the presentation (they say 7 makes it stick).
-If possible, show your idea. Show people (customers) implying, anticipating or explaining the idea. Get out of the way of your idea. It’s not about you. I know, I know: you think it is. It never is.
-5. Let other people finish your sentences
-Pausing allows people to grasp the idea and process it through their own mental frameworks. You know you’re onto something when someone you’re presenting to says… “And then you could…” That’s what you want. Let them keep talking. Pauses make it happen. Counsellors do it all the time… apparently.
-6. Set it up
-If you really want your idea to happen, think about when, where, and for how long you do it. Smells? Sounds? Senses? Start dark? Start bright? In a home? In a shop?
-7. Don’t let someone change your presentation just before you present
-… unless it’s terribly bad or wrong. This will throw you. If you did this to me when I was young, guess what? I still remember.
-8. Care and be confident
-Both are contagious. Avoid being condescending and egotistical.
-9. Signposts help you get there and get remembered
-When you’re presenting, you need to remember that your audience has not lived with your thinking like you have. Signposts not only help you focus, they help the audience process what you’re saying and give the brain direction as well as a break.
+## First principles of explaining an idea
+
+**1. The idea and how it works are separate; keep it that way**\
+“And then this happens, and you click this and a bird appears on your monitor… and an otter taps at your window. Yes, a real otter… on your window at home. We’ll breed them especially.” Yes, you’ve probably lost them -   the audience, not the otters -  by now if you started here. Keep the idea and how it is made and how people interact with it separate.
+
+**2. Labels stick; use them
+**Instead of labeling your idea “Idea 1” or “Direction 1”, give it a creative title. This suggestion will usually meet with resistance -  but it’s purely emotional. Guess what happens if you don’t label your idea? The client does. And then the brilliant idea becomes known as the “gorilla idea” when they’re comparing notes in the elevator. The executional element that impacted them the most becomes the idea. Earth Hour  - that’s a good label.
+
+**3. Use a logline
+**In 25 words or less, how would you explain the non-executional bits of your idea? Hollywood uses loglines. Expand if you must  -  but only after digestion. Earth Hour  -  “We’re going to get the world to turn off their lights for an hour." The best way to get good at this is to pick things you’re familiar with and explain them in a sentence (try movies or apps, try to explain a singer, a company you love).
+
+**4. Show, pause, repeat your way through
+**Do not over-speak. Do not speak quickly. Speak less than you think you need to. Take. Your. Time. Repeat a keyword several times through the presentation (they say 7 makes it stick). If possible, show your idea. Show people (customers) implying, anticipating, or explaining the idea. Get out of the way of your idea. It’s not about you. I know, I know: you think it is. It never is.
+
+**5. Let other people finish your sentences
+**Pausing allows people to grasp the idea and process it through their own mental frameworks. You know you’re onto something when someone you’re presenting to says… “And then you could…” That’s what you want. Let them keep talking. Pauses make it happen. Counsellors do it all the time… apparently.
+
+**6. Set it up
+**If you really want your idea to happen, think about when, where, and for how long you do it. Smells? Sounds? Senses? Start dark? Start bright? In a home? In a shop?
+
+**7. Don’t let someone change your presentation just before you present
+**… unless it’s terribly bad or wrong. This will throw you. If you did this to me when I was young, guess what? I still remember.
+
+**8. Care and be confident
+**Both are contagious. Avoid being condescending and egotistical.
+
+**9. Signposts help you get there and get remembered
+**When you’re presenting, you need to remember that your audience has not lived with your thinking like you have. Signposts not only help you focus, they help the audience process what you’re saying and give the brain direction as well as a break.
+
 Sometimes, I’ll tell the audience what I’m going to tell them… how I’m going to do it…. and then tell them, like this: “Today I’m going to show you how we can get 15-year olds to love retirement homes. We need to A, B and C. And here’s how…”
+
 Sometimes, I’ll use signposts to end a section of the presentation: “Here’s what I said I was going to tell you, here’s why it’s important, here’s what to do about it.”
+
 I also use a lot of blog-writing techniques when I’m presenting. I’ll use numbers: “3 things you need to know about X” (I recall reading in a book called “The History of Ideas” that the brain likes 3, 5, 7 best so I rely heavily on these digits). These numbers tell the brain, “You need to focus on these points now”. They also give importance to the information because they imply you’ve sifted through a lot of thinking to get there.
-10. Make it stick
-As with blogging, I’ll use either counter-intuitive headlines or I’ll use “How to” and “Why” setups. The counter-intuitive approach is supposed to make people feel curious and start owning your thinking, as well as get your ideas remembered. The “How to” and “Why” approaches cut to the chase by saying, “I have the answers for you; you’re in safe hands.”
+
+**10. Make it stick**
+As with writing, I’ll use either counter-intuitive headlines or I’ll use “How to” and “Why” setups. The counter-intuitive approach is supposed to make people feel curious and start owning your thinking, as well as get your ideas remembered. The “How to” and “Why” approaches cut to the chase by saying, “I have the answers for you; you’re in safe hands.”
+
 The format of your presentation is also something that deserves a lot of thinking. Think about your audience and what they will be comfortable with and how far you can push them. Powerpoint is obviously the default format but it doesn’t have to be. A combination of screen and off-screen (boards, print-outs) is great as it forces people to shift their attention and it stimulates their senses (see, hear, touch).
+
 If you use Powerpoint or Keynote, keep in mind that it’s not supposed to be a Word document with images. You are the presentation. Everything else is support.
-11. Rehearse
-Rehearse your spiel. Write it, sharpen it, present it to yourself as you’re walking to work. It needs to feel automatic so that when you’re confronted with the anxiety of actually sharing it with a room of people, it works for you.
-12. Apply the Blink test
-I can’t recall an idea being over-explained and being bought. People either get it and are excited about what you’re talking about or they aren’t. Within seconds. You need to make your impact immediately.
-13. Plan it analogue
-Don’t start planning a presentation in front of a computer. It’s a trap. Focus on your story dynamics, not your fade-ins and fade-outs. Grab a pencil and some paper.
+
+**11. Rehearse
+**Rehearse your spiel. Write it, sharpen it, present it to yourself as you’re walking to work. It needs to feel automatic so that when you’re confronted with the anxiety of actually sharing it with a room of people, it works for you.
+
+**12. Apply the Blink test
+**I can’t recall an idea being over-explained and being bought. People either get it and are excited about what you’re talking about or they aren’t. Within seconds. You need to make your impact immediately.
+
+**13. Plan it analogue
+**Don’t start planning a presentation in front of a computer. It’s a trap. Focus on your story dynamics, not your fade-ins and fade-outs. Grab a pencil and some paper.
 i. Map out whom you’re talking to and any insights you have about them
 ii. Write down the one big thing you want them to understand
 iii. Write down what you’re asking them to do
@@ -232,7 +249,7 @@ viii. If you write it longhand, after you’ve practised a bit, take it back to 
 ix. Try not to take notes or cards into the presentation — they will distract you as you will worry about what you’ve missed and default to them, get stuck (only you know all the details you will say and miss anyway so don’t fret)
 x. Decide whether your presentation starts when you’re in front of the audience — or before; and then what happens after
 
-5 ways to structure your idea explanation
+## Five ways to structure your idea explanation
 I. Go Hollywood on it
 It’s really worth grabbing a book on screenwriting and learning how to map out a story Hollywood style. Techniques you can borrow:
 i. High concept: a succinct explanation of the premise
@@ -262,7 +279,6 @@ V. Ignite it Pecha Kucha style
 This is more a format than a structure suggestion. Ignite and Pecha Kucha (if you’re not familiar with them) are fast-paced presentation events where people are given a short amount of time to tell their story, often with Powerpoint — but the slides have to change every 20 seconds.
 Using this approach in the business world is great. The time limit will get people more open to hearing from you (I’m going to show you how to do X in 5 minutes; less risk of time wasting). The time limit also implies a risk that makes for a more exciting presentation (what if she forgets or stumbles?). It will energise you and force you to really structure a succinct story.
 Whatever you do, realize that robots won’t be able to do everything you do for some time yet so get out in front of them, use your brain, and let it get to ideas by getting words out of its way.
-
 
 ## **Now**
 
