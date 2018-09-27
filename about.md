@@ -23,4 +23,4 @@ You can find [my work history on LinkedIn](https://www.linkedin.com/in/markpolla
 If you need my biography, [click here](biography/).
 And, yes, I’d love to [work with you](/work-with-me/).
 
-P.S. The photos of me are by [Lena Nicholson](http://www.lenanicholson.com/) and the website by [Jarrett Fuller](http://jarrettfuller.com/).
+P.S. [Lena Nicholson](http://www.lenanicholson.com/) took the photos and [Jarrett Fuller](http://jarrettfuller.com/) made the website.
