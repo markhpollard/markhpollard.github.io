@@ -4,10 +4,8 @@ date: 2018-09-27 13:05:00 Z
 tags:
 - Strategy
 summary: Over 90,000 people have read this guide to account planning. It includes
-  infographic.
+  two drawings and 4,000 words. Simple, right?
 ---
-
--- SKILLSHARE LINKS
 
 ## Account planning is simple
 
@@ -19,8 +17,10 @@ That's what most businesses that sell services do, and the advertising, research
 
 If you do account planning, brand planning, strategy, or whatever you want to call it, and you're making money from making your work complicated, you're either:
 
-1\. A huxster, or\
+1\. A huxster, or
 2\. Incompetent
+
+> Take my brand strategy class on Skillshare. [Click here for two free months](http://skl.sh/markpollard).
 
 The job of account planning is to find meaning in mess. The act of account planning is simplicity. Yes, it is a messy business but it's complex only in the way that our brains are complex and see patterns everywhere and jump from one thought to another and then settle somewhere if only for a second.
 
@@ -176,7 +176,7 @@ I used to make a rap magazine and run an online message board so I like personas
 
 These people are very real to me because I see hundreds of faces flash across these few sentences. And we could generate many ideas from these sentences. They tether my empathy and give me creative constraints with which to play.
 
-The challenges with personas are that -
+The challenges with personas are that:
 
 * Someone with whom you work read some article on some website that made fun of personas and will now disparage them.
 
@@ -196,7 +196,7 @@ If you're building a brand around one of these, you might use the term "perceptu
 
 ### Step 3: Insight
 
-Other than "strategy," "insight" is one of the most over-used and mis-used words in agency world. There’s a difference between "I’ve found some stuff," and "I’ve found an insight."
+Other than "strategy," "insight" is one of the most overused and misused words in agency world. There’s a difference between "I’ve found some stuff," and "I’ve found an insight."
 
 Insights are unspoken human truths, truths the subconscious recognizes when it sees them. Often, insights are the arsenal of comedians and poets. For this reason, many creatives look up jokes about particular issues as inspiration for their ideas.
 
@@ -284,7 +284,7 @@ Mapping a customer experience is a useful exercise whether or not you're involve
 
 People dismiss customer experience maps for bizarre reasons. A few years ago, it was because people don't buy things in a linear way or because technology has meant you can think of something and then buy it. These are red herrings - as is believing that whatever you create is correct in an absolute way or dogmatic. All of these tools exist to help you think and create, not to dictate how the world is and only is. That's what religion is for.
 
-You can map an experience plan (engagement model – or whatever fancy words you want to call it) against different personas. At a high level, your experience model may address 5-7 key phases of someone’s interaction with you. If you think about the last time you bought a mobile phone. There may have been a trigger, you may have waited for your contract to expire, then you researched, asked around, validated with consumer and expert reviews, shopped, signed up, set up and used. If you put those basic phases into a matrix then mapped
+You can map an experience plan (engagement model – or whatever fancy words you want to call it) against different personas. At a high level, your experience model may address 5-7 key phases of someone’s interaction with you. If you think about the last time you bought a mobile phone. There may have been a trigger, you may have waited for your contract to expire, then you researched, asked around, validated with consumer and expert reviews, shopped, signed up, set up and used. If you put those basic phases into a matrix then mapped...
 
 * The issues (what challenges there are at each step),
 
@@ -292,13 +292,13 @@ You can map an experience plan (engagement model – or whatever fancy words you
 
 * The content needed to make a decision,
 
-you can quickly map out a pretty solid plan. However, approach these with two distinct mindsets - one is to map the natural behavior (the map) and the other is to put ideas against that behavior (the plan).
+...you can quickly map out a pretty solid plan. However, approach these with two distinct mindsets - one is to map the natural behavior (the map) and the other is to put ideas against that behavior (the plan).
 
 **Step 8: Ideas**
 
-In 2010, when I originally wrote this article, I thought the industry would quickly and as a whole move into what I saw as non-advertising ideas - it would use its brains to create products, communities, content, tools, to solve problems for brands that also solved problems for people.
+In 2010, when I originally wrote this article, I thought the industry would quickly and as a whole move into what I saw as non-advertising ideas - it would use its brains to create products, communities, content, tools, to solve problems for brands that also solved problems for people. And then advertise those things.
 
-If anything, advertising has become more advertising and those of us who had those fancy notions are more on the outskirts, pushed there by frenzied social media calendars, banal stock photos, a rapid news cycle, growth hacking, a resentment of thinking, and people who use numbers and process in spite of creativity not for it.
+If anything, advertising has become more advertising and those of us who had those fancy notions are more on the outskirts, pushed there by frenzied social media calendars, banal stock photos, a rapid news cycle, growth hacking, a resentment of thinking, and people who use numbers and process in spite of creativity - not for creativity.
 
 Wherever you work, define what you mean when you use the word "idea" and use it specifically and know that ideas can come from anywhere but that the majority of us are mediocre at ideas, that because many of us can come up with ideas doesn't mean we shouldn't respect people who are truly talented at ideas, and that all our jobs are the mischief of ideas.
 
@@ -308,9 +308,9 @@ For -- LINKS
 
 ### Your job is mischief
 
-Ideas change the people and people change the world. This is the work of mischief. Most people don't really want to change and find ideas annoying because ideas make them reconsider everything and it's easier to do anything else than to do that. 
+Ideas change the people and people change the world. This is the work of mischief. Most people don't really want to change and find ideas annoying because ideas make them reconsider everything and it's easier to do anything else than to do that.
 
-Welcome and best wishes in your career. There aren't many other careers where you get paid to learn, think, meet, travel, listen, express, and understand for a living. Whatever you do, stay tethered to your own creative spirit. Don't give that away to a company, a boss, a project. You'll have a life after this career but it's even better to have a life while you have this career. 
+Welcome and best wishes in your career. There aren't many other careers where you get paid to learn, think, meet, travel, listen, express, and understand for a living. Whatever you do, stay tethered to your own creative spirit. Don't give that away to a company, a boss, a project. You'll have a life after this career but it's even better to have a life while you have this career.
 
 ### 
 
