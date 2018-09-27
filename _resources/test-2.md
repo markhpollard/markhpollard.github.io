@@ -7,7 +7,7 @@ categories:
 - book on strategy
 - books on writing
 tags:
-- Writing
+- Books
 summary: The best books on strategy are books on writing. And here are some of the
   best books on writing.
 image: https://cdn-images-1.medium.com/max/800/1*DNocd6MVtdcU1PH5nEIVSA.jpeg
