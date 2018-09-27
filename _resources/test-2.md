@@ -48,11 +48,7 @@ As with all of the books here, this is a book you can return to and will need to
 **Now**
 
 1. Please share this article with at least one person
-
 2. Take this sick [brand strategy Skillshare class](http://skl.sh/markpollard)
-
 3. Join my [email newsletter](https://markpollard.us1.list-manage.com/subscribe?u=dfb4c80f84a49d4cfc0d34490&id=c66948a2fc)
-
 4. Come find me on [Twitter](http://www.twitter.com/markpollard), [Instagram](http://www.instagram.com/markpollard), and [LinkedIn](https://www.linkedin.com/in/markpollardstrategist/)
-
 5. Join thousands of strategists in [Sweathead](http://www.sweathead.co) on Facebook
