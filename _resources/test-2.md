@@ -1,37 +1,57 @@
 ---
-title: PDF Glossary
-permalink: "/resource-2"
+title: A strategist's guide to books on writing
+permalink: "/strategy-books-on-writing"
+categories:
+- strategy books
+- writing books
+- book on strategy
+- books on writing
 tags:
 - Writing
-layout: article
-description: When you start a new job, you’re an outsider.
-pubdate: March 2014
+summary: The best books on strategy are books on writing. And here are some of the
+  best books on writing.
 image: https://cdn-images-1.medium.com/max/800/1*DNocd6MVtdcU1PH5nEIVSA.jpeg
+description: 
+pubdate: September 2018
+layout: article
 ---
 
-When you start a new job, you’re an outsider. It’s just how it is. And the thing about being an outsider is that you have to size up situations quickly to work out how to be a little… well, less on the outside. Is the culture you’re entering incredibly hierarchical and dogmatic? Is it a wild free-for-all? Is bad behavior tolerated – or, even, encouraged? Are there social and intellectual pecking orders within departments? Do departments themselves sit in a pecking order? What’s the attitude toward long hours? The list goes on. But, as time passes, the answers reveal themselves and you either like them or you become an outsider somewhere else.
-In January 2012, I joined Big Spaceship after stints at Saatchi & Saatchi NY, McCann Sydney and Leo Burnett. Prior to those agencies, I worked in a dot-com, in independent digital agencies as well as digital departments inside multinational ad agencies, and I’d run my own magazine. I’ve lived in thriving cultures, incredibly toxic cultures, and some in-between. Each experience has left a bit of itself in me, but having moved to New York last year, my observations about culture intensified – not only was I was moving to a new country, I was moving into a new business culture.
-I moved from Australia to make stuff – not to sit in meetings, not to deal with bureaucracy, and not to pander to the unspoken Ponzi schemes that exist in the ad industry. I’m tired of the bad behavior that many agencies allow to fester in their organizations – politics, tantrums, and divisiveness. As I keep telling myself, I love the idea of what I do, but I’m desperate to enjoy doing it more. Enter Big Spaceship.
-I’d seen Big Spaceship pop up on TheFWA over the years. The work was always beautiful and – something I relish – unorthodox. I’d also read the Harvard Business School paper about the structure and culture, so I was curious about how it worked day-to-day. Now, with a little time under my belt here, these are the things that stand out most about the Big Spaceship culture and structure.
-1. There’s no creative department
-This is a big one. Everyone is expected to be creative. There are no ‘creatives’ (it’s an adjective – not a noun – anyway). This means that less emotional energy gets put into questions such as: “Whose name goes on the award entry?” and “Why should I care if it’s not my idea?”. Instead, the energy gets put into questions such as: “Is this project right for us?” and “How can we do something unique and innovative that works for the business?”.
-2. There’s no production department
-Everyone sits in teams that consist of designers, technologists, producers and strategists; and everyone makes. We’ve just switched the structure from teams of about five people to teams of eight with mini teams in them to allow us to handle different types of projects. Regardless, if you have a flare for something, you can get hands-on doing it. If you have a way with words, your words will end up in a project. If you can film stuff, you will film stuff. Strategists don’t just make diagrams – they will, at the very least, contribute words to projects. Making isn’t someone else’s job.
-3. Culture is critical to the CEO
-Yes, Mr Lebowitz will read this but I write it not to blow hot air anywhere, especially in the upward direction. I’ve worked with two types of CEO: the CEO who only cares about the numbers, and the CEO who believes his or her agency serves a purpose that is higher than ‘making money’ and cares about the minutiae of the company’s culture. When the culture is critical to a CEO, the people and the work are also critical. It doesn’t mean the culture will fit everyone or evolve perfectly but it does mean there’s a keen eye on it.
-4. Values trump process
-Much of Big Spaceship is a self-organizing organism. There are tools and systems in place but each team works the way it wants to. If you’ve been in an agency that’s process-oriented (functional or dysfunctional), it takes a little time to acclimatize to this type of environment. The values, however, are immediately digestible:
-Collaborate
-Produce exceptional work
-Take care of each other
-Partner with your client
-“The rest is up to you.”
-Now, if you’ve read ‘The Innovators Dilemma’, you’ll know the benefit of this: the team structure and values allow for various iterations of a company to happen in the one company. Granted, there’s still a cultural overlay to the teams (we all work together, many people live in Brooklyn, many wear plaid and have faux-hawks), however, it allows for different approaches to evolve over time.
-5. It’s a very self-aware culture
-I can’t recall working somewhere and hearing people talk about the culture of an agency so frequently. It’s common to hear discussion about what sorts of clients and projects we thrive on and what sorts of clients and projects don’t feel right for us. Personally, I dig it. In other agencies, I’ve had to work and pitch on projects that have felt like a compromise of my values over the years because “numbers need to be met”. That there’s an on-going discussion about what we’re about is great.
-6. It’s a quiet culture
-Amidst the recent articles and videos about the rise of the introvert, I can safely say that the DNA of the culture here is introverted. Gchat, AOL chat, Basecamp and the internal blog house a lot of the interaction – and in-jokes. Some of the agencies I’ve been in have demanded more meetings and big meeting performances. It’s not like that here. Loudness doesn’t indicate anything; making stuff does.
-7. If change matters, make it happen
-Big Spaceship was originally known for making great Flash websites for movies. Now, twelve years on, a lot is different. Our hand is very much still in the communications world – helping brands get and keep attention for their products, however, a majority of the projects the teams are currently working on are platforms and products in their own right. There are clear signals from above about where we’re going and what matters. Change doesn’t happen in spite of us. Having spent time in agencies with business models dependent on making TV commercials, making half-hearted attempts at change, the focus on direction is a refreshing thing to see.
-So, there you have it: seven things about Big Spaceship that you can apply to your own experiments in business and culture. Valve recently published a guide to its culture that shares much with these themes. Read eeeet.
-If you’d like to practice how you think, check out the Sweathead community.
+![the-best-books-on-strategy.jpeg](/uploads/the-best-books-on-strategy.jpeg)
+
+When somebody asks, "What are the best books on strategy?" feel free to play this Jedi mind-trick on them: "Books on writing."
+
+There are beautiful books on strategy and I'll list them soon. They'll help you get to what researchers call the "edge of your domain" and understand the zeitgeist of the strategy world.
+
+However, an account planner's job is very close to a writer's reason for existence. A write must notice new things about the world and express them in compelling ways to stand a chance of her writing reaching a reader.
+
+So, feel free to get as clever as your ego requires with books on strategy, behavioral economics, neuroscience, psychology, history, and everything in the social sciences. These are useful and important. But always keep one eye on the writing world because, when all is said and done, that is also your world.
+
+**1. [On Writing](https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816) by Stephen King**
+This is part-autobiography and part-advice on the craft of writing. The ideas that stuck with me, which are common in many books on writing are these:
+i. Writing is rewriting - get it out and make it better as if you were solving a series of puzzles.
+ii. Write with the door shut - it's dangerous to let people into your words before you have them. Obviously, ready-ness is a subjective notion.
+iii. Read, write, read, write - Mr King follows a habit of input and output and tends to write every day.
+
+**2. [On Writing Well](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=ZH7B1NSTDQ02JNDGPJD1) by William Zinsser**
+In school, many of us heard about the idea of putting one idea into every paragraph. The way William Zinsser talks about this idea in the context of non-fiction writing glued to my brain an idea that was loosely there but flailing in the wind.
+
+**3. [The Artful Edit](https://www.amazon.com/Artful-Edit-Practice-Editing-Yourself/dp/0393332179/ref=sr_1_1?s=books&ie=UTF8&qid=1538081560&sr=1-1&keywords=The\+Artful\+Edit) by Susan Bell**
+If writing is rewriting as many writers write, then it makes sense to investigate how artists edit themselves. Often there is an outpouring of expression, an attempt to get mental distance from it, and a more neutral reapproach. This book shares different techniques that artists of various kind use to do these things.
+
+**4. [Save the Cat](https://www.amazon.com/Save-Cat-Blake-Snyder-ebook/dp/B00340ESIS/ref=sr_1_1?s=books&ie=UTF8&qid=1538081656&sr=1-1&keywords=Save\+the\+Cat\+by\+Blake\+Snyder) by Blake Snyder**
+If you want to improve your presentations, read this book. It shares different types of movie genres and breaks movies down into acts and beats. It would be a challenge to mimic this structure for most business presentations but the idea of having a structure and borrowing what works for you will help you make more memorable presentations.
+
+**5. [The Elements of Style](https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/ref=sr_1_4?s=books&ie=UTF8&qid=1538081759&sr=1-4&keywords=The\+Elements\+of\+Style) by Strunk and White**
+As with all of the books here, this is a book you can return to and will need to return to as you focus on improving your words. It's fastidious, which is makes it beautiful.
+
+**Now**
+
+1. Please share this article with at least one person
+
+2. Take this sick [brand strategy Skillshare class](http://skl.sh/markpollard)
+
+3. Join my [email newsletter](https://markpollard.us1.list-manage.com/subscribe?u=dfb4c80f84a49d4cfc0d34490&id=c66948a2fc)
+
+4. Come find me on [Twitter](http://www.twitter.com/markpollard), [Instagram](http://www.instagram.com/markpollard), and [LinkedIn](https://www.linkedin.com/in/markpollardstrategist/)
+
+5. Join thousands of strategists in [Sweathead](http://www.sweathead.co) on Facebook
