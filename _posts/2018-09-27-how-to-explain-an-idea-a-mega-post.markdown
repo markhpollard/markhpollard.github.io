@@ -23,6 +23,8 @@ summary: 'What''s an idea? What sorts of ideas are there? And how on Earth do yo
   explain ideas once you have them? '
 ---
 
+## Ideas are your oxygen
+
 If you studied accounting, you’d leave your first week knowing what the concepts “debit” and “credit” are. And, if you entered the career of accounting, you could only do so with intimate knowledge of these two concepts. Unfortunately, people can enter an advertising or marketing career without ever knowing what an idea is, how to define what the word “idea” means, how to have ideas, or to explain an idea once they have one in hand. Some people can sustain a long career through the brute force of their personality alone and by playing a game of, “Well, if we all don’t know then who’s to know?”
 
 If you do creative work or have a creative soul, then ideas are your oxygen. This article just wants you to breathe. In it, I cover:
