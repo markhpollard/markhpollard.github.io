@@ -361,7 +361,9 @@ hr {
     text-align: center;
     width: 80%;
     margin: auto;
-
+}
+#share-bar a {
+    text-decoration: none;
 }
 #share-bar p {
     padding-bottom: 0px;
