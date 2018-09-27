@@ -117,7 +117,7 @@ First, the context of this agreement was advertising but it relates to non-adver
 Perhaps you’ve seen the old Telstra Bigpond campaign where the father talks about the Great Wall of China being built by Emperor Nasi Goreng to keep the rabbits out?
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YDvlWQyvEI38
-" target="_blank"><img src="http://img.youtube.com/vi/DvlWQyvEI38.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/DvlWQyvEI38.jpg"
 alt="Telstra Bigpond - Nasi Goreng" width="240" height="180" border="10" /></a>
 
 The insight here taps into parents’ fears of the future leaving behind their children and the strategy aims to shift the broadband discussion in the home from technology and not needing it to education and, it implies, adult success.
@@ -131,20 +131,49 @@ So, the strategic process is about understanding the issues, the environment, th
 And… TALK TO EACHOTHER. Define these words and how you work together. Same team, yeah?
 
 ## What types of ideas are there?
+
 These are the common types of ideas bouncing around a creative agency:
+
 * **Business idea - ** what the company does that’s novel
+
 * **Brand idea - ** what the company stands for that’s novel
+
 * **Brand tagline - ** a short phrase that brings to life what the company stands for
+
 * **Advertising idea - ** the central thought in every communication and interaction across all campaigns indefinitely
+
 * **Campaign idea - ** if the advertising idea and campaign idea are separate then the campaign idea would typically be a subset and shorter-term execution of the advertising idea
+
 * **Content idea - ** jargon for stuff that isn’t an ad
+
 * **Non-advertising idea - ** a concept that solves a problem but that isn’t advertising-centric — it may, however, get advertised
+
 * **Execution - ** the key bits of the execution that matter (style, channels, etc)
 
 This list... it’s too much and it’s barely scratching the surface and the surface isn’t wearing protection. However, without a clear and agreed definition of what we’re talking about, it’s hard to work, and you can find yourself in meetings having conversations that go nowhere. Mind you, apparently, this is an excellent business model so what do I know?
 
+## Examples - applying idea types to real-world companies
 
+Let’s take [WWF](http://www.wwf.org.au/) and their [Earth Hour campaign](http://www.earthhour.org/). Now, this is my take on things — done quickly.
 
+Business idea: protect the environment from humans\
+Brand idea: keep the planet alive\
+Brand tagline: “For a living planet”\
+Advertising idea: I’m not sure there is a macro advertising idea for WWF (the panda isn’t one)\
+Non-advertising idea: Earth Hour — get the world to turn its lights off for an hour\
+Campaign idea: Vote Earth — a populist vote about the importance of climate change measured by the numbers of lights switched off (2010)\
+Execution: Shepard Fairey street posters as a rallying call\
+ \
+Old Spice — again, my interpretation (probably riddled with holes):\
+Business idea: make men smell classically masculine (not stinky)\
+Brand idea: the authentic essence of man (I can’t remember the actual phrase but I read it was something like that)\
+Brand tagline: The man your man could smell like\
+Advertising idea: Old Spice guy — the man you wish you were. This would only be their advertising idea if it’s repeated across different campaigns.\
+Non-advertising idea: N/A\
+Campaign idea: The set-change\
+Execution: The Old Spice guy walks through sets innocently pulling off incredible feats of manliness, boldly telling you about them as he does them\
+ \
+If Old Spice’s business idea is to make men smell classically masculine (I made it up), then this idea gives them the opportunity to stretch into other areas. It anchors them in a core idea but allows them to explore further adrift.
 
 ## **Now**
 
