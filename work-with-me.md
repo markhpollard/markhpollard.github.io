@@ -13,17 +13,18 @@ I work with leaders, marketers, and agencies.
 
 I do a combination of talks, training, research, strategy, and words.
 
-I like to do strategy while also helping people learn how to do strategy. My approach to strategy is very much a writer's approach. Most of my clients have enough data, too much data, they just need help hearing what it's saying and adding some useful research.
+I like to do strategy while also helping people learn how to do strategy. My approach to strategy is very much a writer's approach. Most of my clients have enough data, too much data, they just need help hearing what the data are saying.
 
 ## Talks and training
 
-I have over 30 hours of training. The foundation session is called Strategy! The Workout. It's two hours focusing on problem identification, lateral thinking, insights, and writing propositions. I've done this from Buenos Aires to Vancouver and across to Prague.
+I have over 30 hours of training. The foundation session is called **Strategy! The Workout**. It's two hours focusing on problem identification, lateral thinking, insights, and writing propositions. I've done this from Buenos Aires to Vancouver and across to Prague.
 
 Other popular sessions include:
 1. Ask Questions, Get Answers - how to do research
 2. How To Make A Presentation Make A Point - what it says
 3. How To Build Writing Muscles - re-wiring how people write
 4. How To Build A Brand That Lasts - [you can see it on Skillshare](http://skl.sh/markpollard)
+
 
 Companies use these sessions to:
 1. Encourage their teams into braver thinking
@@ -37,7 +38,6 @@ Companies use these sessions to:
 The main reason agencies, marketers, and founders work with me is that they just want better words. I approach strategy more like a journalist than an academic having interviewed thousands of people over the years. I look for patterns and language that stand out and then I work through the implications of what I find and strategy like a writer - short, crisp, and clear language.
 
 Common activities:
-
 1. Qualitative research
 2. Personas
 3. Customer journeys
