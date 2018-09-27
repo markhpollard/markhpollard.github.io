@@ -28,7 +28,7 @@ This complexity is very different to industrial complexity where a business pers
 
 So, if you're designing account planning with intentional complexity to make money and to take money from dumb money, then you're part of the problem.
 
-However, if you're new to this and are confused by all the techniques and concepts and you are doing the best you can to represent account planning in your agency (which is not an easy feat), then it will seem complex in  the way that the first day you walk into a job or a martial arts school do.
+However, if you're new to this and are confused by all the techniques and concepts and you are doing the best you can to represent account planning in your agency (which is not an easy feat), then it will seem complex in  the way the first day you walk into a job or a martial arts school do.
 
 Bruce Lee once said, "Before I studied the art, a punch to me was just like a punch, a kick just like a kick. After I learned the art, a punch was no longer a punch, a kick no longer a kick. Now that I’ve understood the art, a punch is just like a punch, a kick just like a kick. The height of cultivation is really nothing special. It is merely simplicity; the ability to express the utmost with the minimum."
 
@@ -42,7 +42,7 @@ Account planning is part-science and part-intuition. However, it’s closer to a
 
 Art helps people see themselves and the worlds in which they live with more truth. An artist will gather information, generate ideas, and then display an idea to which people can choose to catch up and with which they can update their mental operating systems.
 
-This is only a dangerous idea if you attack it or apply it with dogma. You can load it with adjectives such as "commercial" and many people will be disgusted that a statement like this is so far removed from the idea of planning as a marketing science because it might lead to reckless planning, but here's the thing: planning is better when it starts reckless.
+That account planning is art is a dangerous idea is true only if you attack it or apply it with dogma. Some people will need to front-load it with an adjective such as "commercial" for accuracy; other people will relish their disgust at the statement because it will place planning far from the idea of planning as a marketing science and they'll fear it will lead to reckless planning, but here's the thing: planning is better when it starts reckless.
 
 The fallback argument is this:
 
@@ -56,15 +56,15 @@ This idea is easy to defend but we need to define the words in order to defend t
 
 The job of account planning is ideas. If you say to this someone who disagrees, they'll disagree for a few reasons:
 
-1. It affects their sense of self
+1. It affects their sense of self,
 
-2. They don't have a definition of these words
+2. They don't have definitions for these words,
 
-3. They have a different definition of these words
+3. They have a different definition of these words,
 
-4. They are using a silent adjective every time they say "idea"
+4. They are using a silent adjective every time they say "idea", or
 
-5. They'll have to see you differently
+5. They'll have to see you differently.
 
 This is why "creative strategist" is a tautology. The title appeared to differentiate cool planners from those research types. It's unnecessary.  If you're a planner and not doing creative work then you aren't a planner.
 
@@ -100,7 +100,7 @@ But I'll let you in on a trick - you can define the word any way you'd like. The
 
 Here’s a scribble of an account planning process from 2010. You can click the image for the larger version.
 
----- PROCESS
+![Approach-to-strategy-Mark-Pollard-2010.jpg](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg)
 
 Many of us squirm at the word "process". We can replace it with a word like "practice" but, whatever. This is how I've approached account planning and creative ideas in the past.
 
@@ -116,7 +116,7 @@ The slow-moving, political companies will want a process that's more difficult a
 
 For these reasons, I tend to focus my thinking on this rubric now.
 
------ PIAS
+![Problem Insight Adv Strategy.002.jpeg](/uploads/Problem%20Insight%20Adv%20Strategy.002.jpeg)
 
 This rubric assumes interrogation of the business issue and the audience but it tries to capture four ideas that, when captured, are wonderful forcing functions. Here's what they try to force:
 
@@ -128,25 +128,23 @@ This rubric assumes interrogation of the business issue and the audience but it 
 
 4. Better insights
 
-5. Connection between the thinking
+5. A connection between the thinking, a theme
 
 6. Strategy as ideas
 
 7. Provocative thinking
 
---- MORE HERE
-
 **Account planning - a simple approach**
 
 ### Step 1: The problem
 
-So you get a brief from the client. Hopefully, they will have worked out their key business challenges and know what success looks like. Often the annual communications budget will be a nice round number and a % of the annual revenue target (typically 5-10%). You can make your first impact here by trying to work out the [customer lifetime value](https://hbswk.hbs.edu/archive/hbs-toolkit-lifetime-customer-value-calculator) of the client’s customers and establish whether their budget makes any sense from the bottom up. There’s often little rhyme or reason to where these budgets come from – they’re typically just rules of thumb that businesses have applied for years. Push to get clarity on this before you do anything else because it can swing your entire approach.
+So you get a brief from the client. Hopefully, they will have worked out their key business challenges and know what success looks like. Often the annual communications budget will be a nice round number and a % of the annual revenue target (typically 5-10%). 
+
+You can make your first impact here by trying to work out the [customer lifetime value](https://hbswk.hbs.edu/archive/hbs-toolkit-lifetime-customer-value-calculator) of the client’s customers and establish whether their budget makes any sense from the bottom up. There’s often little rhyme or reason to where these budgets come from – they’re typically just rules of thumb that businesses have applied for years. Push to get clarity on this before you do anything else because it can swing your entire approach.
 
 It will take a few attempts to decide the problem. You'll need to hunt: qualitative, quantitative, keyword, website, social research. Maybe you’ll dig up some behavioral economics, social sciences or psychology papers (befriend [Google Scholar](https://scholar.google.com/)). Whatever your inputs, make the problem provocative. Couch the problem in a customer’s – not a business’s – point of view. Awareness, relevance, salience, and conversion are boring problems - they are table-stakes.
 
 Make it provocative, say it short, say it in a picture or drawing.
-
---- MORE
 
 ### Step 2: Personas
 
@@ -214,8 +212,6 @@ I keep a book of observations and what comedians call premises. I do this becaus
 
 I've never done cocaine but I've put words together in this structure many times: X is Y. It's a good way to practice and, yes, it's a lateral thought and a lateral thought is an idea.
 
---- MORE
-
 Account planning is a search for truth. You can always pull words and themes back but don't fear taboos or the rawness of life. Taboos are relative and they are your tools. Of course, understand the business environment within which you operate because most business environments don't like truth and this leads to one of the most challenging ironies about being a planner - it's a search for truths that help businesses but most people in business don't like the truth.
 
 ### Step 4: Brand or product truth
@@ -238,7 +234,7 @@ Common structures include:
 
 * Get / To / By - Get \[persona\] /To \[do something\] /By \[us doing or saying something\]
 
-* For / Only / Because ---- LINK
+* For / Only / Because
 
 I like to write a sentence in this format:
 
@@ -263,8 +259,6 @@ A "flip" is just more jargon for a lateral thought - "It's not X, it's Y." Remem
 If you’re putting run-of-the-mill language like "convenience," "quality," and "easy" in here then I don’t believe there’s a need for you. Sorry not sorry.
 
 Of course, if you put in chunky thoughts and the creative teams with whom you work aren’t used to chunky thoughts they may say you’re putting in ideas.  You are. That’s the point. But you’re not putting in Creative Ideas or Advertising Ideas. They still need to make a whole lot of leaps with your stimulus and take it to an other level.
-
---- LINKS IDEAS
 
 If you choose to write a strategy statement as well, then it's fine to repeat certain words. I'll often riff on a theme and word through the problem, insight, brand truth, and strategy statement.
 
@@ -304,14 +298,22 @@ Wherever you work, define what you mean when you use the word "idea" and use it 
 
 Also, remember that being good at ideas doesn't mean you get to be an asshole.
 
-For -- LINKS
-
 ### Your job is mischief
 
-Ideas change the people and people change the world. This is the work of mischief. Most people don't really want to change and find ideas annoying because ideas make them reconsider everything and it's easier to do anything else than to do that.
+Ideas change people and people change the world. This is the work of mischief. Most people don't really want to change and find ideas annoying because ideas make them reconsider everything and it's easier to do anything else than to do that. You are a pain in the brain's ass.
 
-Welcome and best wishes in your career. There aren't many other careers where you get paid to learn, think, meet, travel, listen, express, and understand for a living. Whatever you do, stay tethered to your own creative spirit. Don't give that away to a company, a boss, a project. You'll have a life after this career but it's even better to have a life while you have this career.
+Regardless, welcome to your career. There aren't many other careers where you get paid to learn, think, meet, travel, listen, express, and understand for a living. Whatever you do, stay tethered to your own creative spirit. Don't give that away to a company, a boss, a project. You'll have a life after this career but it's even better to have a life while you have this career.
 
-### 
+### \*
 
-ife while you have this career
+### **Now**
+
+1. Please share this article with at least one person
+
+2. Take this sick [brand strategy Skillshare class](http://skl.sh/markpollard).
+
+3. Join my email newsletter.
+
+4. Come find me on [Twitter](http://www.twitter.com/markpollard), [Instagram](http://www.instagram.com/markpollard), and [LinkedIn](https://www.linkedin.com/in/markpollardstrategist/).
+
+5. Join thousands of strategists in [Sweathead](http://www.sweathead.co) on Facebook.
