@@ -96,7 +96,7 @@ Strategy is an informed opinion about how to win. An account planner needs quest
 
 But I'll let you in on a trick - you can define the word any way you'd like. The point is to define it in public so that you and your colleagues don't hide in the jargon you use to impress each other. You can even dislike the word, as many people do. It doesn't matter. Just choose your words, define them, and hold yourself accountable to them, while also knowing you can later update your own understanding of the words. It's cool.
 
-**Account planning - a hand-drawn approach**
+## Account planning - a hand-drawn approach
 
 Here’s a scribble of an account planning process from 2010. You can click the image for the larger version.
 
@@ -116,7 +116,7 @@ The slow-moving, political companies will want a process that's more difficult a
 
 For these reasons, I tend to focus my thinking on this rubric now.
 
-![Problem Insight Adv Strategy.002.jpeg](/uploads/Problem%20Insight%20Adv%20Strategy.002.jpeg)
+![Problem-Insight-Adv-Strategy-mark-pollard.jpeg](/uploads/Problem-Insight-Adv-Strategy-mark-pollard.jpeg)
 
 This rubric assumes interrogation of the business issue and the audience but it tries to capture four ideas that, when captured, are wonderful forcing functions. Here's what they try to force:
 
@@ -134,7 +134,7 @@ This rubric assumes interrogation of the business issue and the audience but it 
 
 7. Provocative thinking
 
-**Account planning - a simple approach**
+## Account planning - a simple approach
 
 ### Step 1: The problem
 
