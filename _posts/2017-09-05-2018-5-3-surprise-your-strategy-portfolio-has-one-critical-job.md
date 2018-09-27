@@ -2,6 +2,7 @@
 title: Surprise! Your strategy portfolio has one critical job
 date: 2017-09-05 00:00:00 Z
 permalink: "/strategy-portfolio"
+published: false
 summary: Put it to work
 pubdate: May 2018
 layout: article
