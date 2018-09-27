@@ -304,16 +304,14 @@ Ideas change people and people change the world. This is the work of mischief. M
 
 Regardless, welcome to your career. There aren't many other careers where you get paid to learn, think, meet, travel, listen, express, and understand for a living. Whatever you do, stay tethered to your own creative spirit. Don't give that away to a company, a boss, a project. You'll have a life after this career but it's even better to have a life while you have this career.
 
-### \*
-
-### **Now**
+### \* **Now**
 
 1. Please share this article with at least one person
 
-2. Take this sick [brand strategy Skillshare class](http://skl.sh/markpollard).
+2. Take this sick [brand strategy Skillshare class](http://skl.sh/markpollard)
 
-3. Join my email newsletter.
+3. Join my [email newsletter](https://markpollard.us1.list-manage.com/subscribe?u=dfb4c80f84a49d4cfc0d34490&id=c66948a2fc)
 
-4. Come find me on [Twitter](http://www.twitter.com/markpollard), [Instagram](http://www.instagram.com/markpollard), and [LinkedIn](https://www.linkedin.com/in/markpollardstrategist/).
+4. Come find me on [Twitter](http://www.twitter.com/markpollard), [Instagram](http://www.instagram.com/markpollard), and [LinkedIn](https://www.linkedin.com/in/markpollardstrategist/)
 
-5. Join thousands of strategists in [Sweathead](http://www.sweathead.co) on Facebook.
+5. Join thousands of strategists in [Sweathead](http://www.sweathead.co) on Facebook
