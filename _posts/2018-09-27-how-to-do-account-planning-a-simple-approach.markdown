@@ -2,6 +2,13 @@
 title: How to do account planning - a simple approach
 date: 2018-09-27 13:05:00 Z
 permalink: "/how-to-do-account-planning-a-simple-approach/"
+categories:
+- account planning
+- account planning strategy
+- account planning in advertising
+- account planning tips
+- account planning advice
+- strategy planning
 tags:
 - Strategy
 summary: Over 90,000 people have read this guide to account planning. It includes
@@ -23,7 +30,7 @@ If you do account planning, brand planning, strategy, or whatever you want to ca
 2. Incompetent
 
 # [Take my brand strategy class on Skillshare](http://skl.sh/markpollard) and get two free months.
-
+[p]
 The job of account planning is to find meaning in mess. The act of account planning is simplicity. Yes, it is a messy business but it's complex only in the way that our brains are complex and see patterns everywhere and jump from one thought to another and then settle somewhere if only for a second.
 
 This complexity is very different to industrial complexity where a business person takes what is very much an intuitive process and designs it onto a piece of paper to look official and detailed and complicated and expensive.
