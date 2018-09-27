@@ -20,22 +20,16 @@ I like to do strategy while also helping people learn how to do strategy. My app
 I have over 30 hours of training. The foundation session is called Strategy! The Workout. It's two hours focusing on problem identification, lateral thinking, insights, and writing propositions. I've done this from Buenos Aires to Vancouver and across to Prague.
 
 Other popular sessions include:
-
 1. Ask Questions, Get Answers - how to do research
 2. How To Make A Presentation Make A Point - what it says
 3. How To Build Writing Muscles - re-wiring how people write
 4. How To Build A Brand That Lasts - [you can see it on Skillshare](http://skl.sh/markpollard)
 
 Companies use these sessions to:
-
 1. Encourage their teams into braver thinking
-
 2. Get their teams on the same page
-
 3. Get their departments on the same page
-
 4. Encourage clients and partners into braver thinking
-
 5. Help their sales and marketing teams better express themselves
 
 ## Strategy and research
@@ -45,17 +39,11 @@ The main reason agencies, marketers, and founders work with me is that they just
 Common activities:
 
 1. Qualitative research
-
 2. Personas
-
 3. Customer journeys
-
 4. Brand strategy
-
 5. Tone and values
-
 6. Editorial strategy
-
 7. Workshops
 
 ## Words
@@ -63,19 +51,12 @@ Common activities:
 With research and strategy in hand, I can also help develop words that bring you and your brand to life in public. There's nothing more frustrating than chubby brand strategy that doesn't work in the real world. Since I've done strategy and published a magazine, I can help these things connect.
 
 Common activities:
-
 1. Manifestos
-
 2. Tag lines
-
 3. PR narratives
-
 4. Social posts
-
 5. Executive presentations
-
 6. Articles
-
 7. Drawings - yes, I'd love to do drawings for you!
 
 ## Recent clients
