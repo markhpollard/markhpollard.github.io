@@ -20,7 +20,7 @@ If you do account planning, brand planning, strategy, or whatever you want to ca
 1\. A huxster, or
 2\. Incompetent
 
-### [Take my brand strategy class on Skillshare](http://skl.sh/markpollard) and get two free months.
+## [Take my brand strategy class on Skillshare](http://skl.sh/markpollard) and get two free months.
 
 The job of account planning is to find meaning in mess. The act of account planning is simplicity. Yes, it is a messy business but it's complex only in the way that our brains are complex and see patterns everywhere and jump from one thought to another and then settle somewhere if only for a second.
 
@@ -100,7 +100,7 @@ But I'll let you in on a trick - you can define the word any way you'd like. The
 
 Here’s a scribble of an account planning process from 2010. You can click the image for the larger version.
 
-![Approach-to-strategy-Mark-Pollard-2010.jpg](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg)
+[![Approach-to-strategy-Mark-Pollard-2010.jpg](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg)](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg)
 
 Many of us squirm at the word "process". We can replace it with a word like "practice" but, whatever. This is how I've approached account planning and creative ideas in the past.
 
@@ -136,7 +136,7 @@ This rubric assumes interrogation of the business issue and the audience but it 
 
 ## Account planning - a simple approach
 
-### Step 1: The problem
+## Step 1: The problem
 
 So you get a brief from the client. Hopefully, they will have worked out their key business challenges and know what success looks like. Often the annual communications budget will be a nice round number and a % of the annual revenue target (typically 5-10%).
 
@@ -146,7 +146,7 @@ It will take a few attempts to decide the problem. You'll need to hunt: qualitat
 
 Make it provocative, say it short, say it in a picture or drawing.
 
-### Step 2: Personas
+## Step 2: Personas
 
 Personas come in and out of fashion. They are a sort of customer segmentation - they're fictional representations of your client’s customers based on research.
 
@@ -192,7 +192,7 @@ Having established your personas (some conventions say to use 4-6 but you can ha
 
 If you're building a brand around one of these, you might use the term "perceptual target." This is the persona that anchors your brand, the person for whom you express most empathy, whether or not they are your main buying audience. Often, a perceptual target is someone to whom we'd aspire. It could be a sneaker head in the inner cities for a brand that makes money from kids in the suburbs. It could be a 20-something on a beach in Mexico for a brand that sells beer to middle-aged men trying to drink fewer calories.
 
-### Step 3: Insight
+## Step 3: Insight
 
 Other than "strategy," "insight" is one of the most overused and misused words in agency world. There’s a difference between "I’ve found some stuff," and "I’ve found an insight."
 
@@ -214,7 +214,7 @@ I've never done cocaine but I've put words together in this structure many times
 
 Account planning is a search for truth. You can always pull words and themes back but don't fear taboos or the rawness of life. Taboos are relative and they are your tools. Of course, understand the business environment within which you operate because most business environments don't like truth and this leads to one of the most challenging ironies about being a planner - it's a search for truths that help businesses but most people in business don't like the truth.
 
-### Step 4: Brand or product truth
+## Step 4: Brand or product truth
 
 Your goal here is to find a truth about the brand or product that is both unique and motivating to its customers. A lot of established brands have been around for a long time. This may be unique against their competitors but rarely is it highly motivating.
 
@@ -226,7 +226,7 @@ A brand spider from a research company will include language that nobody uses ou
 
 Also look for what you don’t have that others do – sometimes there’s something unique and motivating there. For example, one pet product I was working on wasn’t a scheduled poison – it was really the only thing unique and motivating about it. We couldn’t claim it publicly but the absence of something led to our brand idea.
 
-### Step 5: Strategy statement
+## Step 5: Strategy statement
 
 I’ve come across a lot of "strategic thinking" that doesn’t seem to have a strategy. It has some observations (mis-called ‘insights’) and a clunky single-minded proposition slightly connected to some of the observations. But ultimately, a concise strategy statement is a useful way to ground your proposition and creative idea.
 
@@ -250,7 +250,7 @@ Examples:
 
 This format is clean. It groups together two thoughts into an idea. It doesn't impersonate a tagline or a campaign idea. And you can always write something more succinct as a single-minded proposition.
 
-### Step 6: Single-minded proposition
+## Step 6: Single-minded proposition
 
 Whatever you want to call this thing, it’s the guts of your strategy. It links and evolves the insight and brand truth in an interesting way. It’s a handful of words. There’s no role for an account planner unless they can flip the perspective on a problem/opportunity/brand/person.
 
@@ -272,7 +272,7 @@ You choose.
 
 Now, for your thinking to really stick, it's good to have other minds leave fingerprints on it. Walk the proposition around the office before you make it official. Email a very short write-up about it to people. Hope that someone makes it better. The point is what gets done with it – not who does it. Oh, and don’t try to write tag lines here.
 
-### Step 7: The experience
+## Step 7: The experience
 
 Mapping a customer experience is a useful exercise whether or not you're involved with granular ideas along the experience. It will increase your empathy and help you understand pain-points and obstacles that you may need to address through communication or product.
 
@@ -288,7 +288,7 @@ You can map an experience plan (engagement model – or whatever fancy words you
 
 ...you can quickly map out a pretty solid plan. However, approach these with two distinct mindsets - one is to map the natural behavior (the map) and the other is to put ideas against that behavior (the plan).
 
-**Step 8: Ideas**
+## Step 8: Ideas
 
 In 2010, when I originally wrote this article, I thought the industry would quickly and as a whole move into what I saw as non-advertising ideas - it would use its brains to create products, communities, content, tools, to solve problems for brands that also solved problems for people. And then advertise those things.
 
@@ -298,13 +298,13 @@ Wherever you work, define what you mean when you use the word "idea" and use it 
 
 Also, remember that being good at ideas doesn't mean you get to be an asshole.
 
-### Your job is mischief
+## Your job is mischief
 
 Ideas change people and people change the world. This is the work of mischief. Most people don't really want to change and find ideas annoying because ideas make them reconsider everything and it's easier to do anything else than to do that. You are a pain in the brain's ass.
 
 Regardless, welcome to your career. There aren't many other careers where you get paid to learn, think, meet, travel, listen, express, and understand for a living. Whatever you do, stay tethered to your own creative spirit. Don't give that away to a company, a boss, a project. You'll have a life after this career but it's even better to have a life while you have this career.
 
-### \* **Now**
+## **Now**
 
 1. Please share this article with at least one person
 
