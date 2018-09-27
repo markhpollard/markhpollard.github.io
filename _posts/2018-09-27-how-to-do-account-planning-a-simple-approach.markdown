@@ -20,7 +20,7 @@ If you do account planning, brand planning, strategy, or whatever you want to ca
 1\. A huxster, or
 2\. Incompetent
 
-## [Take my brand strategy class on Skillshare](http://skl.sh/markpollard) and get two free months.
+> [Take my brand strategy class on Skillshare](http://skl.sh/markpollard) and get two free months.
 
 The job of account planning is to find meaning in mess. The act of account planning is simplicity. Yes, it is a messy business but it's complex only in the way that our brains are complex and see patterns everywhere and jump from one thought to another and then settle somewhere if only for a second.
 
@@ -66,7 +66,7 @@ The job of account planning is ideas. If you say to this someone who disagrees, 
 
 5. They'll have to see you differently.
 
-This is why "creative strategist" is a tautology. The title appeared to differentiate cool planners from those research types. It's unnecessary.  If you're a planner and not doing creative work then you aren't a planner.
+This is why "creative strategist" is a tautology. The title appeared to differentiate cool planners from those research types. It's unnecessary. If you're a planner and not doing creative work then you aren't a planner.
 
 And here's how to see you, the account planner, and your version of creativity while you're on the job: the ideas an account planner has are like the ideas of a good non-fiction writer where a good non-fiction writer will lace every paragraph with a new way to see the world.
 
@@ -100,7 +100,7 @@ But I'll let you in on a trick - you can define the word any way you'd like. The
 
 Here’s a scribble of an account planning process from 2010. You can click the image for the larger version.
 
-[![Approach-to-strategy-Mark-Pollard-2010.jpg](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg)](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg)
+![Approach-to-strategy-Mark-Pollard-2010.jpg](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg)
 
 Many of us squirm at the word "process". We can replace it with a word like "practice" but, whatever. This is how I've approached account planning and creative ideas in the past.
 
@@ -166,6 +166,7 @@ The basic info to think through are:
 
 5. Their pre-occupations, beliefs, passions and pain-points.
 
+**Examples personas**
 I used to make a rap magazine and run an online message board so I like personas because they help me with editorial ideas. Around 2000, as people discovered the Internet, two personas popped up for me.
 
 1. The young guy who was possibly the only guy in his peer group or suburb or town who was into underground hip hop culture. His goal was to find his people and he'd use obscure knowledge to compete for attention and to make his way up the hierarchy. Knowledge got him into the circle. If I was at an event at 10pm on a Friday night, this guy would want to talk about a sample on the third track on the B-side of a white-label vinyl.
