@@ -60,23 +60,18 @@ The Economist, Decoded, Runa, Dreampad, Nimbly, TBWA, Havas, KBS, Vayner, Mozill
 
 ## Testimonials
 
-"The marketing lion that is Pollard definitely does not sleep at night. His brain is not a quiet village."
-- Mark Cripps, CMO, The Economist
+"The marketing lion that is Pollard definitely does not sleep at night. His brain is not a quiet village." **Mark Cripps, CMO, The Economist**
 
-"Working with Mighty Jungle is like entering a new dimension. You see the world with fresh eyes, colored by new insights and a renewed joy for what you do. As a leader, Mark is not afraid to push me, challenge me and sometimes tell me to get out of my own way. All incredibly valuable."
-- Elizabeth Lukas, CEO, Decoded, Americas
+"Working with Mighty Jungle is like entering a new dimension. You see the world with fresh eyes, colored by new insights and a renewed joy for what you do. As a leader, Mark is not afraid to push me, challenge me and sometimes tell me to get out of my own way. All incredibly valuable." **Elizabeth Lukas, CEO, Decoded, Americas**
 
-“You can go through a lot of agencies and consultants before finding someone with Mark’s talent. His fresh thinking opened up new ways for branding/positioning our product; his word skills gave voice and personality that brought the product to life.  All around, the collaboration's been a great experience for our team!”
-- Randall Redfield, CEO Dreampad
+“You can go through a lot of agencies and consultants before finding someone with Mark’s talent. His fresh thinking opened up new ways for branding/positioning our product; his word skills gave voice and personality that brought the product to life.  All around, the collaboration's been a great experience for our team!” **Randall Redfield, CEO Dreampad**
 
-“It’s taken me one and a half hours to write 35 words that poke the brain in a way in which Mark would approve. And he’ll still find a way to make this more pointy.” 
-- Rob Mustoe, Managing Director, McCann Birmingham
+“It’s taken me one and a half hours to write 35 words that poke the brain in a way in which Mark would approve. And he’ll still find a way to make this more pointy.” **Rob Mustoe, Managing Director, McCann Birmingham**
 
-“After we were done, I realized that my strategy eye was closed and then I realized how bad all my past strategies were and I resent Mark for that. But I love him for all the great strategies I’ve done since. Sorry, it’s complicated but we still talk.” 
-- Harry Bee, CCO Havas
+“After we were done, I realized that my strategy eye was closed and then I realized how bad all my past strategies were and I resent Mark for that. But I love him for all the great strategies I’ve done since. Sorry, it’s complicated but we still talk.” **Harry Bee, CCO Havas**
 
-“I’ve never seen a room of zillennials not look at their phones for two hours.” - Maura Tuohy, Global Head of Social Content & Experience Marketing, Mozilla/Firefox
+“I’ve never seen a room of zillennials not look at their phones for two hours.” **Maura Tuohy, Global Head of Social Content & Experience Marketing, Mozilla/Firefox**
 
-"I admire Mark’s approach to strategic planning and his uncanny ability to get people outside of their constrained brainspace to dream up something that’s honest, bold, inspirational and worthy of our full attention. I’m a big fan!" - Tom Beck - Executive Director, Society of Digital Agencies
+"I admire Mark’s approach to strategic planning and his uncanny ability to get people outside of their constrained brainspace to dream up something that’s honest, bold, inspirational and worthy of our full attention. I’m a big fan!" **Tom Beck - Executive Director, Society of Digital Agencies**
 
 ## [Let's make contact](contact/)!
