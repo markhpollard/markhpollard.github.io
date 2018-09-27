@@ -33,12 +33,31 @@ Companies use these sessions to:
 5. Help their sales and marketing teams better express themselves
 
 ## Strategy and research
+The main reason agencies, marketers, and founders work with me is that they just want better words. I approach strategy more like a journalist than an academic having interviewed thousands of people over the years. I look for patterns and language that stand out and then I work through the implications of what I find and strategy like a writer - short, crisp, and clear language.
 
+Common activities:
+1. Qualitative research
+2. Personas
+3. Customer journeys
+4. Brand strategy
+5. Tone and values
+6. Editorial strategy
+7. Workshops
 
 ## Words
+With research and strategy in hand, I can also help develop words that bring you and your brand to life in public. There's nothing more frustrating than chubby brand strategy that doesn't work in the real world. Since I've done strategy and published a magazine, I can help these things connect.
 
+Common activities:
+1. Manifestos
+2. Tag lines
+3. PR narratives
+4. Social posts
+5. Executive presentations
+6. Articles
+7. Drawings - yes, I'd love to do drawings for you!
 
 ## Recent clients
+The Economist, Decoded, Runa, Dreampad, Nimbly, TBWA, Havas, KBS, Vayner, Mozilla, Poo-Pourri, Wattpad, McCann, and more.
 
 ## Testimonials
 
