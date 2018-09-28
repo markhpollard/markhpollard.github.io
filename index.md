@@ -31,4 +31,4 @@ In strategy, words are all that matters.
 
 Strategy is your words.
 
-\*[Now go read something](/strategy-articles/).
+\*[Now go read something](/strategy-articles).
