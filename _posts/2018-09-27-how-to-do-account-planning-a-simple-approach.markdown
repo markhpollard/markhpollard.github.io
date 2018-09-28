@@ -13,7 +13,10 @@ tags:
 - Strategy
 summary: Over 90,000 people have read this guide to account planning. It includes
   two drawings and 4,000 words. Simple, right?
+image: "/uploads/strategy-is-an-informed-opinion.jpeg"
 ---
+
+![strategy is an informed opinion](/uploads/strategy-is-an-informed-opinion.jpeg)
 
 ## Account planning is simple
 
