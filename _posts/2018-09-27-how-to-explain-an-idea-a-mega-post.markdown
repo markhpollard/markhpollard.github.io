@@ -21,7 +21,10 @@ tags:
 - Creativity
 summary: 'What''s an idea? What sorts of ideas are there? And how on Earth do you
   explain ideas once you have them? '
+image: "/uploads/idea-writeup-template.jpeg"
 ---
+
+![idea-writeup-template.jpeg](/uploads/idea-writeup-template.jpeg)
 
 ## Ideas are your oxygen
 
