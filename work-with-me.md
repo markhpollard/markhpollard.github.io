@@ -79,4 +79,4 @@ The Economist, Decoded, Runa, Dreampad, Nimbly, TBWA, Havas, KBS, Vayner, Mozill
 
 "I admire Mark’s approach to strategic planning and his uncanny ability to get people outside of their constrained brainspace to dream up something that’s honest, bold, inspirational and worthy of our full attention. I’m a big fan!" **Tom Beck - Executive Director, Society of Digital Agencies**
 
-*[Let's make contact](contact)!
+*[Make first contact here](contact)!
