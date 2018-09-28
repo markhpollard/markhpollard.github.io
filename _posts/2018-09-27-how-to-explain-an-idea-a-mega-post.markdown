@@ -24,7 +24,7 @@ summary: 'What''s an idea? What sorts of ideas are there? And how on Earth do yo
 image: "/uploads/idea-writeup-template.jpeg"
 ---
 
-![idea-writeup-template.jpeg](/uploads/idea-writeup-template.jpeg)
+![How to write an idea](/uploads/idea-writeup-template.jpeg)
 
 ## Ideas are your oxygen
 
