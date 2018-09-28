@@ -16,7 +16,7 @@ summary: Over 90,000 people have read this guide to account planning. It include
 image: "/uploads/strategy-is-an-informed-opinion.jpeg"
 ---
 
-![Strategy is an informed opinion](/api/v2/sites/5b96d0a089ac667088e212a8/source/_uploads/strategy-is-an-informed-opinion.jpeg?download "Strategy is an informed opinion")
+![strategy-is-an-informed-opinion.jpeg](/uploads/strategy-is-an-informed-opinion.jpeg)
 
 ## Account planning is simple
 
@@ -114,7 +114,7 @@ But I'll let you in on a trick - you can define the word any way you'd like to. 
 
 Here’s a scribble of an account planning process from 2010. You can click the image for the larger version.
 
-[![Approach-to-strategy-Mark-Pollard-2010.jpg](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg)](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg)
+![Approach-to-strategy-Mark-Pollard-2010.jpg](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg)
 
 Many of us squirm at the word "process". We can replace it with a word like "practice" but, whatever. This is how I've approached account planning and creative ideas in the past.
 
