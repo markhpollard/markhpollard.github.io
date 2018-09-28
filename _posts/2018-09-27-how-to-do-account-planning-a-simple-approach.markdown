@@ -64,7 +64,7 @@ This idea is easy to defend but we need to define the words in order to defend t
 
 * Ideas are useful combinations of things that don't usually belong together.
 
-The job of account planning is ideas. If you say to this someone who disagrees, they'll disagree for a few reasons:
+The job of account planning is ideas (more: [How to explain an idea - a mega post](/how-to-explain-an-idea)). If you say to this someone who disagrees, they'll disagree for a few reasons -
 
 1. It affects their sense of self,
 
@@ -84,7 +84,7 @@ For this reason,
 
 ## The best books on strategy are books on writing
 
-Why? A writer must notice what others haven't noticed and express what they notice in compelling ways. Grab a good non-fiction book and try to highlight the most meaningful phrase on each page for a chapter. You'll highlight ideas. These ideas don't sound like campaign ideas, tag lines, or manifestos, but they are ideas because they combine things that don't usually belong together in useful ways.
+Why? A writer must notice what others haven't noticed and then express what they notice in compelling ways. Grab a good non-fiction book and try to highlight the most meaningful phrase on each page for a chapter. You'll highlight ideas. These ideas don't sound like campaign ideas, tag lines, or manifestos, but they are ideas because they combine things that don't usually belong together in useful ways.
 
 Examples? Yes, please. Grape scissors are:
 
@@ -100,11 +100,13 @@ Examples? Yes, please. Grape scissors are:
 
 These are ideas and, as the audience, you get to decide if any of them are good but if you snorted or giggled then we're onto something because good account planning is full of primal noises.
 
+Start with these [books on writing](/strategy-books-on-writing).
+
 ## What is strategy?
 
 Strategy is an informed opinion about how to win. An account planner needs questions that unearth information and then the account planner needs to unearth his or her own opinion about the problem to solve and how to do it.
 
-But I'll let you in on a trick - you can define the word any way you'd like. The point is to define it in public so that you and your colleagues don't hide in the jargon you use to impress each other. You can even dislike the word, as many people do. It doesn't matter. Just choose your words, define them, and hold yourself accountable to them, while also knowing you can later update your own understanding of the words. It's cool.
+But I'll let you in on a trick - you can define the word any way you'd like to. The point is to define it in public so that you and your colleagues don't hide in the jargon you use to impress and horrify each other. You can even dislike the word, as many people do. It doesn't matter. Just choose your words, define them, and hold yourself accountable to them, while also knowing you can later update your own understanding of the words. It's cool.
 
 ## Account planning - a hand-drawn approach
 
