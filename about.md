@@ -19,7 +19,7 @@ In the last couple of years of my twenties, a few things happened. My wife and I
 
 I write to work out what I think, to keep myself company, to find my people, and because I really love it. I know myself in my words whether they are on a page or out loud in public. I teach and train people because I know the power of strategy and creativity, and I know the beauty of this career even though I also know the industry is tough, riddled with mental health challenges, assholes, and burnout.
 
-Helping people think is my life’s work and it currently happens through the theme of strategy but that is never what it’s really about. And I do strategy because when I work closely with clients, I'm often not just solving a business issue - I'm helping them to understand themselves better and then to put that new understanding out into the world with fireworks.  And this is what I do at Mighty Jungle in New York City.
+Helping people think is my life’s work and it currently happens through the theme of strategy but that is never what it’s really about. I do strategy because when I work closely with clients, I'm often not just solving a business issue - I'm helping them to better understand themselves and then to put that new understanding into the world with fireworks.  And this is what I do at Mighty Jungle in New York City.
 
 You can find [my work history on LinkedIn](https://www.linkedin.com/in/markpollardstrategist/).
 If you need my biography, [click here](biography/).
