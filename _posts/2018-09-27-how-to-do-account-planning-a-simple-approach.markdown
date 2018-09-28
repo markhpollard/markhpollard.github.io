@@ -114,7 +114,7 @@ But I'll let you in on a trick - you can define the word any way you'd like to. 
 
 Here’s a scribble of an account planning process from 2010. You can click the image for the larger version.
 
-![How to do approach to account planning](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg)
+![How to do approach to account planning](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg "How to do approach to account planning")
 
 Many of us squirm at the word "process". We can replace it with a word like "practice" but, whatever. This is how I've approached account planning and creative ideas in the past.
 
@@ -130,7 +130,7 @@ The slow-moving, political companies will want a process that's more difficult a
 
 For these reasons, I tend to focus my thinking on this rubric now.
 
-![A strategy framework](/uploads/Problem-Insight-Adv-Strategy-mark-pollard.jpeg)
+![A strategy framework](/uploads/Problem-Insight-Adv-Strategy-mark-pollard.jpeg "A strategy framework")
 
 This rubric assumes interrogation of the business issue and the audience but it tries to capture four ideas that, when captured, are wonderful forcing functions. Here's what they try to force:
 
