@@ -128,9 +128,9 @@ In fact, this is a difficult way to work in companies and markets that:
 
 The slow-moving, political companies will want a process that's more difficult and the executional companies won't want a process at all.
 
-For these reasons, I tend to focus my thinking on this rubric now.
+For these reasons, I tend to focus my thinking on this rubric now:
 
-![A strategy framework](/api/v2/sites/5b96d0a089ac667088e212a8/source/_uploads/Problem-Insight-Adv-Strategy-mark-pollard.jpeg?download "A strategy framework")
+![Problem-Insight-Adv-Strategy-mark-pollard.jpeg](/uploads/Problem-Insight-Adv-Strategy-mark-pollard.jpeg "A strategy framework")
 
 This rubric assumes interrogation of the business issue and the audience but it tries to capture four ideas that, when captured, are wonderful forcing functions. Here's what they try to force:
 
