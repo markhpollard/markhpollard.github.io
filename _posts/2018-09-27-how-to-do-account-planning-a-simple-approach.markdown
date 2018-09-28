@@ -31,7 +31,6 @@ If you do account planning, brand planning, strategy, or whatever you want to ca
 
 **[Take my brand strategy class on Skillshare and get two free months](http://skl.sh/markpollard)**
 
-
 The job of account planning is to find meaning in mess. The act of account planning is simplicity. Yes, it is a messy business but it's complex only in the way that our brains are complex and see patterns everywhere and jump from one thought to another and then settle somewhere if only for a second.
 
 This complexity is very different to industrial complexity where a business person takes what is very much an intuitive process and designs it onto a piece of paper to look official and detailed and complicated and expensive.
@@ -112,7 +111,7 @@ But I'll let you in on a trick - you can define the word any way you'd like to. 
 
 Here’s a scribble of an account planning process from 2010. You can click the image for the larger version.
 
-![Approach-to-strategy-Mark-Pollard-2010.jpg](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg)
+[![Approach-to-strategy-Mark-Pollard-2010.jpg](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg)](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg)
 
 Many of us squirm at the word "process". We can replace it with a word like "practice" but, whatever. This is how I've approached account planning and creative ideas in the past.
 
