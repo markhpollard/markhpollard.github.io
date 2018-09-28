@@ -27,7 +27,7 @@ summary: 'What''s an idea? What sorts of ideas are there? And how on Earth do yo
 
 If you studied accounting, you’d leave your first week knowing what the concepts “debit” and “credit” are. And, if you entered the career of accounting, you could only do so with intimate knowledge of these two concepts.
 
-Unfortunately, people can enter advertising and marketing careers without ever knowing what an idea is, how to define what the word “idea” means, how to have ideas, or how to explain an idea once they have one in hand. Some people can sustain a long career through the brute force of their personality alone and by playing a game of, “Well, if we all don’t know then who’s to know?”
+Unfortunately, people can enter advertising and marketing careers without ever knowing what an idea is, how to define what the word “idea” means, how to have ideas, or how to explain an idea once they have one in hand. Some people can sustain a long career through the brute force of their personalities alone and by playing a game of, “Well, if we all don’t know then who’s to know?”
 
 If you do creative work or have a creative soul, then ideas are your oxygen. This article just wants you to breathe. In it, I cover:
 
@@ -43,25 +43,27 @@ This article goes great with [How to do account planning - a simple approach](/h
 
 **[Take my brand strategy class on Skillshare and get two free months](http://skl.sh/markpollard)**
 
-
 ## What’s an idea?
 
 Words often get in the way of creativity so it’s no surprise that the word “idea” often gets in the way of ideas.
 
-**1. We use the word “idea” to describe thoughts and suggestions -** “I know this is heteronormative of me but I have an idea: let’s eat kimchi soondubu at Food Gallery 32 in Koreatown for lunch.”
+**1. We use the word “idea” to describe thoughts and suggestions** 
+“I know this is heteronormative of me but I have an idea: let’s eat kimchi soondubu at Food Gallery 32 in Koreatown for lunch.”
 
-**2. We use the word “idea” to describe new concepts -** “I have an idea  —  it’s a business where we turn memes into bath products .  [Dank Tank](https://www.danktank.co/).”
+**2. We use the word “idea” to describe new concepts** 
+“I have an idea  —  it’s a business where we turn memes into bath products  -  [Dank Tank](https://www.danktank.co/).”
 
-**3. We use the word “idea” when someone says something stupid -** “You have no idea.” That’s a mean use of the word. Don’t be mean. The world doesn’t need it.
+**3. We use the word “idea” when someone says something stupid** 
+“You have no idea.” That’s a mean use of the word. Don’t be mean. The world doesn’t need it.
 
-Now, if we focus on the first two examples, the word “idea” telegraphs that something new is coming. And if you can pause on your Internet memes about whether anything is ever new ( I’ll raise you post-modernism and ask if anything is ever real), what we now want to do is distinguish between the way we use “idea” as industry jargon and the way we use “idea” where we’re in casual mode.
+Now, if we focus on the first two examples, the word “idea” telegraphs that something new is coming. And if you can pause on your Internet memes about whether anything is ever new (I’ll raise you post-modernism and ask if anything is ever real), what we now want to do is distinguish between the way we use “idea” as industry jargon and the way we use “idea” where we’re in casual mode.
 
-**Ideas are thoughts but not all thoughts are “ideas”**\
+**Ideas are thoughts but not all thoughts are “ideas”**
 Here’s an example of the use of the word “idea” in an agency setting: “I have an idea — let’s do something with augmented reality or Blockchain or make a special lens.” This isn’t wrong; it’s just sloppy.
 
 In the traditional industry sense, “idea” means a novel concept. But when it’s used as in this example, it masks the lack of an actual idea  —  like when someone dumps in the word “strategic” before they say something that’s not strategic. It ups the importance of what comes next. The problem: sometimes this works as a meeting tactic but does not lead to good or clear thinking.
 
-Compare this thought with the use of the word “idea” as a novel concept: “I have an idea  —  I want to create a tool that runners can use to track how far they’ve run and then compete with each other by sharing their achievements via the Internet. They’ll track it via this technology in their shoe which will talk to their computer.
+Compare this thought with the use of the word “idea” as a novel concept: “I have an idea  —  I want to create a tool that runners can use to track how far they’ve run and then compete with each other by sharing their achievements via the Internet. They’ll track it via this technology in their shoe which will talk to their computer."
 
 **Ideas and thoughts feel different**
 When I’m training people in lateral thinking, I point out how adding mischief feels different in the brain. However, see how the two “I have an idea” statements above feel different? One is a yawn, the other a kick in the pants.
@@ -69,15 +71,10 @@ When I’m training people in lateral thinking, I point out how adding mischief 
 Yes, it’s complicated because humans complicate things. And what complicates all of this is that, as far as “ideas as novel concepts” go, in agency world, there are:
 
 * Business ideas
-
 * Advertising ideas
-
 * Brand ideas
-
 * Campaign ideas
-
 * Content ideas
-
 * New product ideas
 
 Oh, and strategies (which are also ideas  —  even though the monopoly on the use of the word “idea” in an agency typically belongs to the creative department).
@@ -93,18 +90,23 @@ You could work with a creative team that focuses on taglines, hashtags, and mani
 It’s important to pry apart the executional stuff, the tactics from the idea for five reasons:
 
 **1. Longevity**
+
 If someone can’t explain their idea then they may be using verbal and visual tricks to get through an executional approach (eg a certain art style or piece of technology). This can reduce the longevity of a campaign/project because an execution may only carry interest for so long.
 
 **2. Support and defensibility**
+
 To defend great work that’s strategically based, there needs to be a clear line from the challenge through to the insight, strategy, and to the creative. A well-explained idea can help the team promote the work to the client. It also helps manage the conversation with the client so that executional concerns do not undermine the idea or the strategy. I have seen occasions where executional issues have led to a strategy change because neither the idea nor strategy were well explained.
 
 **3. It’s more efficient  —  money money money**
+
 If you can’t put stakes in the ground from problem to insight to strategy to idea and something executional gets rejected then DOMINOES! Re-work. More time, more money, more frustration. It will cost you.
 
 **4. Brain tether**
+
 If the thinking is executional (“I want to do 3D typography”) then it becomes harder to ensure every chapter across every channel builds on it without it all merely being matching luggage.
 
 **5. Laziness is contagious**
+
 It isn’t hard to define an idea — if you have one. Where projects don’t start with clear, concrete strategy and ideas, they are more likely to travel sloppy.
 
 ## Where strategy is distinct from the idea
@@ -117,9 +119,8 @@ First, the context of this agreement was advertising but it relates to non-adver
 
 Perhaps you’ve seen the old Telstra Bigpond campaign where the father talks about the Great Wall of China being built by Emperor Nasi Goreng to keep the rabbits out?
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YDvlWQyvEI38
-" target="_blank"><img src="http://img.youtube.com/vi/DvlWQyvEI38.jpg"
-alt="Telstra Bigpond - Nasi Goreng" width="\*" height="\*" border="1" /></a>
+[![Telstra Bigpond advertisement](http://img.youtube.com/vi/DvlWQyvEI38/0.jpg)](http://www.youtube.com/watch?v=DvlWQyvEI38 "Telstra Bigpond advertisement")
+
 
 The insight taps into parents’ fears of the future leaving behind their children and the strategy aims to shift the broadband discussion in the home from technology and not needing it to education and, it implies, adult success.
 
@@ -209,16 +210,16 @@ Pausing allows people to grasp the idea and process it through their own mental 
 **6. Set it up**
 If you really want your idea to happen, think about when, where, and for how long you do it. Smells? Sounds? Senses? Start dark? Start bright? In a home? In a shop?
 
-**7. Don’t let someone change your presentation just before you present
-**… unless it’s terribly bad or wrong. This will throw you. If you did this to me when I was young, guess what? I still remember.
+\*\*7. Don’t let someone change your presentation just before you present
+\*\*… unless it’s terribly bad or wrong. This will throw you. If you did this to me when I was young, guess what? I still remember.
 
-**8. Care and be confident
-**Both are contagious. Avoid condescension and too much ego.
+\*\*8. Care and be confident
+\*\*Both are contagious. Avoid condescension and too much ego.
 
-**9. Signposts help you get there and get remembered
-**When you’re presenting, you need to remember that your audience has not lived with your thinking like you have. Signposts not only help you focus, they help the audience process what you’re saying and give the brain direction as well as a break.
+\*\*9. Signposts help you get there and get remembered
+\*\*When you’re presenting, you need to remember that your audience has not lived with your thinking like you have. Signposts not only help you focus, they help the audience process what you’re saying and give the brain direction as well as a break.
 
-You can tell the audience: 
+You can tell the audience:
 
 * What you're going to tell them,
 
@@ -230,7 +231,7 @@ Like this: “Today I’m going to show you how we can get 15-year olds to love 
 
 You can use signposts to end a section of the presentation: “Here’s what I said I was going to tell you, here’s why it’s important, here’s what to do about it.”
 
-You can also use article-writing techniques in a presentation. You can use numbers: “3 things you need to know about X." Numbers tell the brain, “You need to focus on these points now." They also give importance to the information because they imply you’ve sifted through a lot of thinking to get there. You can use lists - if you dislike lists, relax: everything is a listable. You can use snappy Internet headlines. Whatever works. 
+You can also use article-writing techniques in a presentation. You can use numbers: “3 things you need to know about X." Numbers tell the brain, “You need to focus on these points now." They also give importance to the information because they imply you’ve sifted through a lot of thinking to get there. You can use lists - if you dislike lists, relax: everything is a listable. You can use snappy Internet headlines. Whatever works.
 
 **10. Make it stick**
 As with writing articles, play with counter-intuitive headlines as well as “How to” and “Why” setups. The counter-intuitive approach aims to make people feel curious and start owning your thinking, as well as get your ideas remembered. The “How to” and “Why” approaches cut to the chase by saying, “I have the answers for you; you’re in safe hands.”
@@ -239,14 +240,14 @@ The format of your presentation is also something that deserves thoughts. Think 
 
 If you use Powerpoint or Keynote, keep in mind that it’s not supposed to be a Word document with images. You are the presentation. Everything else is support.
 
-**11. Rehearse
-**Rehearse your spiel. Write it, sharpen it, present it to yourself as you’re walking to work. It needs to feel automatic so that when you’re confronted with the anxiety of actually sharing it with a room of people, it works for you. 
+\*\*11. Rehearse
+\*\*Rehearse your spiel. Write it, sharpen it, present it to yourself as you’re walking to work. It needs to feel automatic so that when you’re confronted with the anxiety of actually sharing it with a room of people, it works for you.
 
 **12. Apply the Blink test**
 I can’t recall an idea being over-explained and being bought. People either get it and are excited about what you’re talking about or they aren’t. Within seconds. You need to make your impact immediately.
 
-**13. Plan it analogue
-**Don’t start planning a presentation in front of a computer. It’s a trap. Focus on your story dynamics, not your fade-ins and fade-outs. Grab a pencil and some paper.
+\*\*13. Plan it analogue
+\*\*Don’t start planning a presentation in front of a computer. It’s a trap. Focus on your story dynamics, not your fade-ins and fade-outs. Grab a pencil and some paper.
 
 i. Map out whom you’re talking to and any insights you have about them
 ii. Write down the one big thing you want them to understand
@@ -256,7 +257,7 @@ v. Cull: draw a line through anything that’s not necessary or compelling
 vi. Work out what points need theatrical magic
 vii. If you’re nervous, write it longhand
 viii. If you write it longhand, after you’ve practised a bit, take it back to the handful of points you want to make
-ix. Try not to take notes or cards into the presentation  -  they will distract you and make you worry about what you’ve missed 
+ix. Try not to take notes or cards into the presentation  -  they will distract you and make you worry about what you’ve missed
 x. Decide whether your presentation starts when you’re in front of the audience  - or before; and then what happens after
 
 ## Five ways to structure your idea explanation
@@ -269,8 +270,8 @@ iii. Characters: introduce characters that represent archetypes, their motivatio
 iv. Plot points: map out key plot points as you take your audience through your story
 Watch a movie you think does a great job of story-telling and map out how they do it. Borrow and steal.
 
-**2. Get old school on it… Aristotle-style
-**OK. So, Hollywood is still using the techniques of Aristotle. I use this approach the most too. When I’m mapping it out, I do it on one piece of paper.
+\*\*2. Get old school on it… Aristotle-style
+\*\*OK. So, Hollywood is still using the techniques of Aristotle. I use this approach the most too. When I’m mapping it out, I do it on one piece of paper.
 i. The story of your presentation: eg I’m here to introduce you to new technology that can prevent mass-flooding in a matter of minutes (make it more intriguing than that)
 ii. Three acts: use the basic three-act structure as a way to focus your argument (yes, explaining an idea is you putting an argument forward). Perhaps, to build on the flood-prevention idea your three-act structure is:
 a. Show how devastating floods are (perhaps you choose a 3-minute video with infographics, interviews, a soundtrack; perhaps you take your audience to a flooded area)
@@ -278,20 +279,20 @@ b. Show the solution (perhaps you reveal your moment of inventor’s truth where
 c. Your ask (what you want from them, what they’ll get for it, when and how)
 iii. End: a quick but impactful reminder of what they’ve seen then the real ask (salespeople are often trained to ask a question that someone cannot reply to with a ‘yes’ or ‘no’. For example, which of your clients could use this technology?)
 
-**3. Elevator pitch
-**You have 15 seconds to explain your idea.
+\*\*3. Elevator pitch
+\*\*You have 15 seconds to explain your idea.
 i. The you-know-how? problem: “You know how floods destroy farms?”
 ii. The well-I-have-a-solution tease: “Well, I have a widget that can zap the water and move it to drought-stricken areas.”
 iii. The ask: “Want to find out more?”
 
-**4. The visionary
-**With this technique, you go for the emotional jugular.
+\*\*4. The visionary
+\*\*With this technique, you go for the emotional jugular.
 i. Problem-rallying: Imagine if we could solve this (perhaps an emotional video or visit somewhere)
 ii. Solution: Well, we can… and here’s how
 iii. Action: And here is how you can help
 
-**5. Ignite it Pecha Kucha style
-**This is more a format than a structure suggestion. Ignite and Pecha Kucha are fast-paced presentation events where people are given a short amount of time to tell their story, often with Powerpoint — but the slides have to change every 20 seconds.
+\*\*5. Ignite it Pecha Kucha style
+\*\*This is more a format than a structure suggestion. Ignite and Pecha Kucha are fast-paced presentation events where people are given a short amount of time to tell their story, often with Powerpoint — but the slides have to change every 20 seconds.
 
 Using this approach in the business world is great. The time limit will get people more open to hearing from you (I’m going to show you how to do X in 5 minutes; less risk of time wasting). The time limit also implies a risk that makes for a more exciting presentation (what if she forgets or stumbles?). It will energize you and force you to really structure a succinct story.
 
