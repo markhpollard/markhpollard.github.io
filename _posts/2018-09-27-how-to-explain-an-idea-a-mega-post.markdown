@@ -192,32 +192,41 @@ If Old Spice’s business idea is to make men smell classically masculine (I mad
 
 ## First principles of explaining an idea
 
-**1. The idea and how it works are separate; keep it that way**\
+**1. The idea and how it works are separate; keep it that way**
+
 “And then this happens, and you click this and a bird appears on your monitor… and an otter taps at your window. Yes, a real otter… on your window at home. We’ll breed them especially.” Yes, you’ve probably lost them -   the audience, not the otters -  by now if you started here. Keep the idea and how it is made and how people interact with it separate.
 
 **2. Labels stick; use them**
+
 Instead of labeling your idea “Idea 1” or “Direction 1”, give it a creative title. This suggestion might meet with resistance but guess what happens if you don’t label your idea? Your client does. And then the brilliant idea becomes known as the “gorilla idea” when they’re comparing notes in the elevator. The executional element that impacted them the most becomes the idea. Earth Hour  - that’s a good label.
 
 **3. Use a logline**
+
 In 25 words or less, how would you explain the non-executional bits of your idea? Hollywood uses loglines. Earth Hour  -  “We’re going to get the world to turn off their lights for an hour." The best way to get good at this is to pick things you’re familiar with and explain them in a sentence (try movies or apps, try to explain a singer, a company you love).
 
 **4. Show, pause, repeat your way through**
+
 Do not over-speak. Do not speak quickly. Speak less than you think you need to. Take. Your. Time. Repeat a keyword several times through the presentation (they say 7 makes it stick). If possible, show your idea. Show people (customers) implying, anticipating, or explaining the idea. Get out of the way of your idea. It’s not about you. I know, I know: you think it is. It never is.
 
 **5. Let other people finish your sentences**
-Pausing allows people to grasp the idea and process it through their own mental frameworks. You know you’re onto something when someone you’re presenting to says… “And then you could…” That’s what you want. Let them keep talking. Pauses make it happen. Counsellors do it all the time… apparently.
+
+Pausing allows people to grasp the idea and process it through their own mental frameworks. You know you’re onto something when someone you’re presenting to says… “And then you could…” That’s what you want. Let them keep talking. Pauses make it happen. Counselors do it all the time… apparently.
 
 **6. Set it up**
+
 If you really want your idea to happen, think about when, where, and for how long you do it. Smells? Sounds? Senses? Start dark? Start bright? In a home? In a shop?
 
-\*\*7. Don’t let someone change your presentation just before you present
-\*\*… unless it’s terribly bad or wrong. This will throw you. If you did this to me when I was young, guess what? I still remember.
+**7. Don’t let someone change your presentation just before you present**
 
-\*\*8. Care and be confident
-\*\*Both are contagious. Avoid condescension and too much ego.
+Unless it’s terribly bad or wrong. This will throw you. If you did this to me when I was young, guess what? I still remember.
 
-\*\*9. Signposts help you get there and get remembered
-\*\*When you’re presenting, you need to remember that your audience has not lived with your thinking like you have. Signposts not only help you focus, they help the audience process what you’re saying and give the brain direction as well as a break.
+**8. Care and be confident**
+
+Both are contagious. Avoid condescension and too much ego.
+
+**9. Signposts help you get there and get remembered**
+
+When you’re presenting, you need to remember that your audience has not lived with your thinking like you have. Signposts not only help you focus, they help the audience process what you’re saying and give the brain direction as well as a break.
 
 You can tell the audience:
 
@@ -231,23 +240,27 @@ Like this: “Today I’m going to show you how we can get 15-year olds to love 
 
 You can use signposts to end a section of the presentation: “Here’s what I said I was going to tell you, here’s why it’s important, here’s what to do about it.”
 
-You can also use article-writing techniques in a presentation. You can use numbers: “3 things you need to know about X." Numbers tell the brain, “You need to focus on these points now." They also give importance to the information because they imply you’ve sifted through a lot of thinking to get there. You can use lists - if you dislike lists, relax: everything is a listable. You can use snappy Internet headlines. Whatever works.
+You can also use article-writing techniques in a presentation. You can use numbers: “3 things you need to know about X." Numbers tell the brain, “You need to focus on these points now." They also give importance to the information because they imply you’ve sifted through a lot of thinking to get there. You can use lists - if you dislike lists, relax: everything is list-able. You can use snappy Internet headlines. Whatever works.
 
 **10. Make it stick**
+
 As with writing articles, play with counter-intuitive headlines as well as “How to” and “Why” setups. The counter-intuitive approach aims to make people feel curious and start owning your thinking, as well as get your ideas remembered. The “How to” and “Why” approaches cut to the chase by saying, “I have the answers for you; you’re in safe hands.”
 
 The format of your presentation is also something that deserves thoughts. Think about your audience, what they will be comfortable with, and how far you can push them. Powerpoint is obviously the default format but it doesn’t have to be. A combination of screen and off-screen (boards, print-outs) is great as it forces people to shift their attention and it stimulates their senses (see, hear, touch).
 
 If you use Powerpoint or Keynote, keep in mind that it’s not supposed to be a Word document with images. You are the presentation. Everything else is support.
 
-\*\*11. Rehearse
-\*\*Rehearse your spiel. Write it, sharpen it, present it to yourself as you’re walking to work. It needs to feel automatic so that when you’re confronted with the anxiety of actually sharing it with a room of people, it works for you.
+**11. Rehearse**
+
+Rehearse your spiel. Write it, sharpen it, present it to yourself as you’re walking to work. It needs to feel automatic so that when you’re confronted with the anxiety of actually sharing it with a room of people, it works for you.
 
 **12. Apply the Blink test**
+
 I can’t recall an idea being over-explained and being bought. People either get it and are excited about what you’re talking about or they aren’t. Within seconds. You need to make your impact immediately.
 
-\*\*13. Plan it analogue
-\*\*Don’t start planning a presentation in front of a computer. It’s a trap. Focus on your story dynamics, not your fade-ins and fade-outs. Grab a pencil and some paper.
+**13. Plan it analog**
+
+Don’t start planning a presentation in front of a computer. It’s a trap. Focus on your story dynamics, not your fade-ins and fade-outs. Grab a pencil and some paper.
 
 i. Map out whom you’re talking to and any insights you have about them
 ii. Write down the one big thing you want them to understand
@@ -256,13 +269,14 @@ iv. Start macro: write down the 1/3/5 key points that are essential to your argu
 v. Cull: draw a line through anything that’s not necessary or compelling
 vi. Work out what points need theatrical magic
 vii. If you’re nervous, write it longhand
-viii. If you write it longhand, after you’ve practised a bit, take it back to the handful of points you want to make
+viii. If you write it longhand, after you’ve practiced a bit, take it back to the handful of points you want to make
 ix. Try not to take notes or cards into the presentation  -  they will distract you and make you worry about what you’ve missed
 x. Decide whether your presentation starts when you’re in front of the audience  - or before; and then what happens after
 
 ## Five ways to structure your idea explanation
 
 **1. Go Hollywood on it**
+
 It’s really worth grabbing a book on screenwriting and learning how to map out a story Hollywood style. Techniques you can borrow:
 i. High concept: a succinct explanation of the premise
 ii. Precedent: When Harry met Sally meets Avatar
@@ -270,8 +284,9 @@ iii. Characters: introduce characters that represent archetypes, their motivatio
 iv. Plot points: map out key plot points as you take your audience through your story
 Watch a movie you think does a great job of story-telling and map out how they do it. Borrow and steal.
 
-\*\*2. Get old school on it… Aristotle-style
-\*\*OK. So, Hollywood is still using the techniques of Aristotle. I use this approach the most too. When I’m mapping it out, I do it on one piece of paper.
+**2. Get old school on it… Aristotle-style**
+
+OK. So, Hollywood is still using the techniques of Aristotle. I use this approach the most too. When I’m mapping it out, I do it on one piece of paper.
 i. The story of your presentation: eg I’m here to introduce you to new technology that can prevent mass-flooding in a matter of minutes (make it more intriguing than that)
 ii. Three acts: use the basic three-act structure as a way to focus your argument (yes, explaining an idea is you putting an argument forward). Perhaps, to build on the flood-prevention idea your three-act structure is:
 a. Show how devastating floods are (perhaps you choose a 3-minute video with infographics, interviews, a soundtrack; perhaps you take your audience to a flooded area)
@@ -279,20 +294,23 @@ b. Show the solution (perhaps you reveal your moment of inventor’s truth where
 c. Your ask (what you want from them, what they’ll get for it, when and how)
 iii. End: a quick but impactful reminder of what they’ve seen then the real ask (salespeople are often trained to ask a question that someone cannot reply to with a ‘yes’ or ‘no’. For example, which of your clients could use this technology?)
 
-\*\*3. Elevator pitch
-\*\*You have 15 seconds to explain your idea.
+**3. Elevator pitch**
+
+You have 15 seconds to explain your idea.
 i. The you-know-how? problem: “You know how floods destroy farms?”
 ii. The well-I-have-a-solution tease: “Well, I have a widget that can zap the water and move it to drought-stricken areas.”
 iii. The ask: “Want to find out more?”
 
-\*\*4. The visionary
-\*\*With this technique, you go for the emotional jugular.
+**4. The visionary**
+
+With this technique, you go for the emotional jugular.
 i. Problem-rallying: Imagine if we could solve this (perhaps an emotional video or visit somewhere)
 ii. Solution: Well, we can… and here’s how
 iii. Action: And here is how you can help
 
-\*\*5. Ignite it Pecha Kucha style
-\*\*This is more a format than a structure suggestion. Ignite and Pecha Kucha are fast-paced presentation events where people are given a short amount of time to tell their story, often with Powerpoint — but the slides have to change every 20 seconds.
+**5. Ignite it Pecha Kucha style**
+
+This is more a format than a structure suggestion. Ignite and Pecha Kucha are fast-paced presentation events where people are given a short amount of time to tell their story, often with Powerpoint — but the slides have to change every 20 seconds.
 
 Using this approach in the business world is great. The time limit will get people more open to hearing from you (I’m going to show you how to do X in 5 minutes; less risk of time wasting). The time limit also implies a risk that makes for a more exciting presentation (what if she forgets or stumbles?). It will energize you and force you to really structure a succinct story.
 
@@ -303,11 +321,7 @@ All of the above are just yoga poses - available to you when and as you need the
 ## **Now**
 
 1. Please share this article with at least one person
-
 2. Take this sick [brand strategy Skillshare class](http://skl.sh/markpollard)
-
 3. Join my [email newsletter](https://markpollard.us1.list-manage.com/subscribe?u=dfb4c80f84a49d4cfc0d34490&id=c66948a2fc)
-
 4. Come find me on [Twitter](http://www.twitter.com/markpollard), [Instagram](http://www.instagram.com/markpollard), and [LinkedIn](https://www.linkedin.com/in/markpollardstrategist/)
-
 5. Join thousands of strategists in [Sweathead](http://www.sweathead.co) on Facebook
