@@ -16,7 +16,7 @@ summary: Over 90,000 people have read this guide to account planning. It include
 image: "/uploads/strategy-is-an-informed-opinion.jpeg"
 ---
 
-![strategy is an informed opinion](/uploads/strategy-is-an-informed-opinion.jpeg)
+![Strategy is an informed opinion](/uploads/strategy-is-an-informed-opinion.jpeg)
 
 ## Account planning is simple
 
@@ -114,7 +114,7 @@ But I'll let you in on a trick - you can define the word any way you'd like to. 
 
 Here’s a scribble of an account planning process from 2010. You can click the image for the larger version.
 
-![Approach-to-strategy-Mark-Pollard-2010.jpg](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg)
+![How to do approach to account planning](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg)
 
 Many of us squirm at the word "process". We can replace it with a word like "practice" but, whatever. This is how I've approached account planning and creative ideas in the past.
 
@@ -130,7 +130,7 @@ The slow-moving, political companies will want a process that's more difficult a
 
 For these reasons, I tend to focus my thinking on this rubric now.
 
-![Problem-Insight-Adv-Strategy-mark-pollard.jpeg](/uploads/Problem-Insight-Adv-Strategy-mark-pollard.jpeg)
+![A strategy framework](/uploads/Problem-Insight-Adv-Strategy-mark-pollard.jpeg)
 
 This rubric assumes interrogation of the business issue and the audience but it tries to capture four ideas that, when captured, are wonderful forcing functions. Here's what they try to force:
 
@@ -192,21 +192,21 @@ These people are very real to me because I see hundreds of faces flash across th
 
 The challenges with personas are that:
 
-1\. Someone with whom you work read some article on some website that made fun of personas and will now disparage them.
+1. Someone with whom you work read some article on some website that made fun of personas and will now disparage them.
 
-2\. Someone who's into data will mention the phrase: "Well, it's a segment of one."
+2. Someone who's into data will mention the phrase: "Well, it's a segment of one."
 
-3\. The internal consumer insight team will have spent a year developing their own segmentation. Often vague and just like the other segmentations, these aren't always useful but they make great neck weights.
+3. The internal consumer insight team will have spent a year developing their own segmentation. Often vague and just like the other segmentations, these aren't always useful but they make great neck weights.
 
-4\. The media company doesn't want anything to do with any of it because it doesn't match their media segmentation.
+4. The media company doesn't want anything to do with any of it because it doesn't match their media segmentation.
 
-5\. The user experience expert will think the personas are too flimsy and don't contain enough graphs and charts.
+5. The user experience expert will think the personas are too flimsy and don't contain enough graphs and charts.
 
-So, stalemate ensues. But stalemate will only happen if you compete with the personas. Even if you never share personas and you just write a few bullet points for each type of person you're seeing, they'll help you get to more specific thinking.
+So, a stalemate ensues. But a stalemate will only happen if you compete with the personas. Even if you never share personas and you just write a few bullet points for each type of person you're seeing, they'll help you get to more specific thinking.
 
 Having established your personas (some conventions say to use 4-6 but you can have as many as are useful and you can resource against), you may need to pick your most valuable – the sort of customer you wish you had more of. Perfect world, you’d validate that enough of them exist (or could be created) and match your investment against the possible business gain.
 
-If you're building a brand around one of these, you might use the term "perceptual target." This is the persona that anchors your brand, the person for whom you express most empathy, whether or not they are your main buying audience. Often, a perceptual target is someone to whom we'd aspire. It could be a sneaker head in the inner cities for a brand that makes money from kids in the suburbs. It could be a 20-something on a beach in Mexico for a brand that sells beer to middle-aged men trying to drink fewer calories.
+If you're building a brand around one of these, you might use the term "perceptual target." This is the persona that anchors your brand, the person for whom you express most empathy, whether or not they are your main buying audience. Often, a perceptual target is someone to whom we'd aspire. It could be a sneakerhead in the inner cities for a brand that makes money from kids in the suburbs. It could be a 20-something on a beach in Mexico for a brand that sells beer to middle-aged men trying to drink fewer calories.
 
 ## Step 3: Insight
 
@@ -276,7 +276,7 @@ A "flip" is just more jargon for a lateral thought - "It's not X, it's Y." Remem
 
 If you’re putting run-of-the-mill language like "convenience," "quality," and "easy" in here then I don’t believe there’s a need for you. Sorry not sorry.
 
-Of course, if you put in chunky thoughts and the creative teams with whom you work aren’t used to chunky thoughts they may say you’re putting in ideas. You are. That’s the point. But you’re not putting in [Creative Ideas or Advertising Ideas](/how-to-explain-an-idea). They still need to make a whole lot of leaps with your stimulus and take it to an other level.
+Of course, if you put in chunky thoughts and the creative teams with whom you work aren’t used to chunky thoughts they may say you’re putting in ideas. You are. That’s the point. But you’re not putting in [Creative Ideas or Advertising Ideas](/how-to-explain-an-idea). They still need to make a whole lot of leaps with your stimulus and take it to another level.
 
 If you choose to write a strategy statement as well, then it's fine to repeat certain words. I'll often riff on a theme and word through the problem, insight, brand truth, and strategy statement.
 
@@ -327,11 +327,7 @@ Regardless, welcome to your career. There aren't many other careers where you ge
 ## **Now**
 
 1. Please share this article with at least one person
-
 2. Take this sick [brand strategy Skillshare class](http://skl.sh/markpollard)
-
 3. Join my [email newsletter](https://markpollard.us1.list-manage.com/subscribe?u=dfb4c80f84a49d4cfc0d34490&id=c66948a2fc)
-
 4. Come find me on [Twitter](http://www.twitter.com/markpollard), [Instagram](http://www.instagram.com/markpollard), and [LinkedIn](https://www.linkedin.com/in/markpollardstrategist/)
-
 5. Join thousands of strategists in [Sweathead](http://www.sweathead.co) on Facebook
