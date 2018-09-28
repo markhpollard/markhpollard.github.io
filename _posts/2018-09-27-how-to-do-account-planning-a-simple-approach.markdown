@@ -16,7 +16,7 @@ summary: Over 90,000 people have read this guide to account planning. It include
 image: "/uploads/strategy-is-an-informed-opinion.jpeg"
 ---
 
-![Strategy is an informed opinion](/uploads/strategy-is-an-informed-opinion.jpeg "Strategy is an informed opinion")
+![Strategy is an informed opinion](/api/v2/sites/5b96d0a089ac667088e212a8/source/_uploads/strategy-is-an-informed-opinion.jpeg?download "Strategy is an informed opinion")
 
 ## Account planning is simple
 
@@ -114,7 +114,8 @@ But I'll let you in on a trick - you can define the word any way you'd like to. 
 
 Here’s a scribble of an account planning process from 2010. You can click the image for the larger version.
 
-![How to do approach to account planning](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg "How to do account planning")
+[![Approach-to-strategy-Mark-Pollard-2010.jpg](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg "How to do account planning")
+](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg)
 
 Many of us squirm at the word "process". We can replace it with a word like "practice" but, whatever. This is how I've approached account planning and creative ideas in the past.
 
@@ -130,7 +131,7 @@ The slow-moving, political companies will want a process that's more difficult a
 
 For these reasons, I tend to focus my thinking on this rubric now.
 
-![A strategy framework](/uploads/Problem-Insight-Adv-Strategy-mark-pollard.jpeg "A strategy framework")
+![A strategy framework](/api/v2/sites/5b96d0a089ac667088e212a8/source/_uploads/Problem-Insight-Adv-Strategy-mark-pollard.jpeg?download "A strategy framework")
 
 This rubric assumes interrogation of the business issue and the audience but it tries to capture four ideas that, when captured, are wonderful forcing functions. Here's what they try to force:
 
@@ -327,7 +328,11 @@ Regardless, welcome to your career. There aren't many other careers where you ge
 ## **Now**
 
 1. Please share this article with at least one person
+
 2. Take this sick [brand strategy Skillshare class](http://skl.sh/markpollard)
+
 3. Join my [email newsletter](https://markpollard.us1.list-manage.com/subscribe?u=dfb4c80f84a49d4cfc0d34490&id=c66948a2fc)
+
 4. Come find me on [Twitter](http://www.twitter.com/markpollard), [Instagram](http://www.instagram.com/markpollard), and [LinkedIn](https://www.linkedin.com/in/markpollardstrategist/)
+
 5. Join thousands of strategists in [Sweathead](http://www.sweathead.co) on Facebook
