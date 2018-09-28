@@ -4,7 +4,7 @@ date: 2018-09-18 10:40:00 Z
 h1: Strategy Is Your Words
 summary: by Mark Pollard
 layout: index
-image: /uploads/strategy-is-your-words-mp.jpeg
+image: "/uploads/strategy-is-your-words-mp.jpeg"
 ---
 
 Here’s how to get good at strategy: words. Start with words, continue with words, and finish with words. You have one job - get good at words.
