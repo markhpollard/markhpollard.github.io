@@ -5,7 +5,7 @@ h1: About Mark Pollard
 layout: about
 ---
 
-![Mark-Pollard-Sketches-640x400.jpg](/uploads/Mark-Pollard-Sketches-640x400.jpg)
+![Mark-Pollard-Sketches-640x400.jpg](/uploads/Mark-Pollard-Sketches-640x400.jpg "Mark Pollard")
 
 Once upon a time, I lived at least two lives. At the age of 19, I started work in the agency world. This was also the same age I started work on what became Australia’s first full-color hip hop magazine. By day, it was business, and, at all other times, it was hip hop. I didn’t really talk about the hip hop world at work because that was an era when people ridiculed it. Ten years later, they’d go to the festivals headlined by hip hop artists.
 
@@ -22,7 +22,7 @@ I write to work out what I think, to keep myself company, to find my people, and
 Helping people think is my life’s work and it currently happens through the theme of strategy but that is never what it’s really about. I do strategy because when I work closely with clients, I'm often not just solving a business issue - I'm helping them to better understand themselves and then to put that new understanding into the world with fireworks.  And this is what I do at Mighty Jungle in New York City.
 
 You can find [my work history on LinkedIn](https://www.linkedin.com/in/markpollardstrategist/).
-If you need my biography, [click here](biography/).
-And, yes, I’d love to [work with you](/work-with-me/).
+If you need my biography, [click here](/biography).
+And, yes, I’d love to [work with you](/work-with-me).
 
 P.S. [Jarrett Fuller](http://jarrettfuller.com/) made the website and [Lena Nicholson](http://www.lenanicholson.com/) took the photos.
