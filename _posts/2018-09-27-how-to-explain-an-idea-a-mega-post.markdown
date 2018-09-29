@@ -24,7 +24,7 @@ summary: 'What''s an idea? What sorts of ideas are there? And how on Earth do yo
 image: "/uploads/idea-writeup-template.jpeg"
 ---
 
-![How to write an idea](/uploads/idea-writeup-template.jpeg)
+![How to write an idea](/uploads/idea-writeup-template.jpeg "How to write an idea")
 
 ## Ideas are your oxygen
 
@@ -133,7 +133,7 @@ Some agencies keep the planner in the obvious. Words like “easy”, “perform
 
 So, the strategic process is about understanding the issues, the environment, the customers, the insights and then creating an idea about how to shift perspectives. The creative process either solves the problem directly (a non-advertising solution first) or dramatizes the insight and perspective shift.
 
-And… TALK TO EACHOTHER. Define these words and how you work together. Same team, yeah?
+And… TALK TO EACH OTHER. Define these words and how you work together. Same team, yeah?
 
 ## What types of ideas are there?
 
@@ -197,7 +197,7 @@ If Old Spice’s business idea is to make men smell classically masculine (I mad
 
 **1. The idea and how it works are separate; keep it that way**
 
-“And then this happens, and you click this and a bird appears on your monitor… and an otter taps at your window. Yes, a real otter… on your window at home. We’ll breed them especially.” Yes, you’ve probably lost them -   the audience, not the otters -  by now if you started here. Keep the idea and how it is made and how people interact with it separate.
+“And then this happens, and you click this and a bird appears on your monitor… and an otter taps at your window. Yes, a real otter… on your window at home. We’ll breed them especially.” Yes, you’ve probably lost them -   the audience, not the otters -  by now if you started here. Keep apart the idea and how it is made and how people interact with it.
 
 **2. Labels stick; use them**
 
