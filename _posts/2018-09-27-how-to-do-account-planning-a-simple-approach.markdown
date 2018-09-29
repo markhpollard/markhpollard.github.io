@@ -16,7 +16,7 @@ summary: Over 90,000 people have read this guide to account planning. It include
 image: "/uploads/strategy-is-an-informed-opinion.jpeg"
 ---
 
-![strategy-is-an-informed-opinion.jpeg](/api/v2/sites/5b96d0a089ac667088e212a8/source/_uploads/strategy-is-an-informed-opinion.jpeg?download "Strategy is an informed opinion")
+![strategy-is-an-informed-opinion.jpeg](/uploads/strategy-is-an-informed-opinion.jpeg "Strategy is an informed opinion")
 
 ## Account planning is simple
 
