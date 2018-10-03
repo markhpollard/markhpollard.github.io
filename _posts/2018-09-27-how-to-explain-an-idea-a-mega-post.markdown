@@ -121,13 +121,13 @@ You may have seen the old Telstra Bigpond campaign where the father says Emperor
 [![Telstra Bigpond advertisement](http://img.youtube.com/vi/DvlWQyvEI38/0.jpg)](http://www.youtube.com/watch?v=DvlWQyvEI38 "Telstra Bigpond advertisement")
 
 
-This commercial works in three ways. It appeals to parents’ fears of the future leaving behind their children. It makes light of parents' own lack of knowledge and shows a parent who is left behind. And it tries to shift the broadband discussion in the home from technology and not needing it to education and adult success. It suggests that broadband will prevent adult failure.
+This commercial works in three ways. It appeals to parents’ fears of the future leaving behind their children. It makes light of parents' own lack of knowledge and shows a parent who is left behind. As with much comedy, this gives the viewer a sense of superiority but most viewers will see themselves in this situation and feel sympathy. Finally, the commercial tries to shift the broadband discussion in the home from technology and to education and adult success. It suggests that broadband will prevent adult failure.
 
 The commercial is a simple vignette. The “big idea” is in the strategy, whether or not a planner touched it.
 
 Some agencies keep the planner in the obvious. Words like “easy”, “performance”, “authenticity” or “confidence” are common in some briefs. This is not planning. It happens because that’s what planning is supposed to do in the agency or because creatives feel insecure about having part of the problem solved for them. “That’s my job," a senior copywriter once said to me. 
 
-So, the strategic process tries to understand the issues, the environment, the customers, and the insights. Then it create an idea about how to shift perspectives. The creative process either solves the problem with a non-advertising solution first or it dramatizes the insight and perspective shift.
+So, the strategic process tries to understand the issues, the environment, the competition, the customers, and the insights. Then it creates an idea about how to shift perspectives. The creative process either solves the problem with a non-advertising solution first or it dramatizes the insight and perspective shift. 
 
 And… TALK TO EACH OTHER. Define these words and how you work together. Same team, yeah?
 
