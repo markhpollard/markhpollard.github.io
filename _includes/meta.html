@@ -23,9 +23,9 @@
 {% endif %}
 <!-- end of Twitter cards -->
 
-    {% if page.excerpt %}
-    <meta name="description" content="{{ page.excerpt| strip_html }}" />
-    <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+{% if page.excerpt %}
+<meta name="description" content="{{ page.excerpt| strip_html }}" />
+<meta property="og:description" content="{{ page.excerpt| strip_html }}" />
     {% else %}
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}" />
@@ -37,6 +37,21 @@
     <meta property="twitter:title" content="{{ page.title }}" />
     {% endif %}
 
+
+<meta property="og:type" content="article" />
+<meta property="og:title" content="{{ page.title }}" />
+
+{% if page.summary %}
+<meta property="og:description" content="{{ page.summary}}" />
+{% else %}
+<meta property="og:description" content="Mark Pollard - strategy writing, drawing, and talking from the bowels of New York City." />
+{% endif %}
+
+{% if page.image %}
+<meta property="og:image" content="{{ site.url }}{{ page.image }}" />
+{% else %}
+<meta property="og:image" content="{{ site.url }}/images/main_strategy-is-your-words.jpeg" />
+{% endif %}
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-6991341-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];

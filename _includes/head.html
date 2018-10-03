@@ -2,13 +2,21 @@
     <title>{{ page.title }}—Mark Pollard</title>
         <meta name="viewport" content="width=device-width">
         <meta charset="UTF-8">
+
         {% if page.categories %}
         <meta name="keywords" content="{% for categories in post.categories %}{{ categories }}, {% endfor %}"  />
-{% else %}
+        {% else %}
         <meta name="keywords" content="mark pollard, strategy, strategist, ceo, mighty jungle, planner, strategy is your words"  />
-{% endif %}
-        <meta name="author" content="Mark Pollard">
+        {% endif %}
+
+        {% if page.summary %}
+        <meta name="description" content="{{ page.summary}}">
+        {% else %}
         <meta name="description" content="Mark Pollard - strategy writing, drawing, and talking from the bowels of New York City." />
+        {% endif %}
+
+        <meta name="author" content="Mark Pollard">
+
         <link rel="stylesheet" type="text/css" href="/styles.css" />
         <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i" rel="stylesheet">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
