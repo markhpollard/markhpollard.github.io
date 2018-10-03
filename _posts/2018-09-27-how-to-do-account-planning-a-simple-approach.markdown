@@ -16,13 +16,13 @@ summary: Over 90,000 people have read this guide to account planning. It include
 image: "/uploads/strategy-is-an-informed-opinion.jpeg"
 ---
 
-![strategy-is-an-informed-opinion.jpeg](/uploads/strategy-is-an-informed-opinion.jpeg "Strategy is an informed opinion")
+![strategy-is-an-informed-opinion.jpeg](/api/v2/sites/5b96d0a089ac667088e212a8/source/_uploads/strategy-is-an-informed-opinion.jpeg?download "Strategy is an informed opinion")
 
 ## Account planning is simple
 
 If you've ever wondered how to make money, here's the trick: take something that seems magical, make it complex, and then sell yourself as the way to solve the complexity and to get to the magic.
 
-That's what most businesses that sell services do, and the advertising, research, and strategy functions are no different.
+Most businesses that sell services do this. And the advertising, research, and strategy functions are no different.
 
 "There's gold in them there complex hills. Fetch your pans."
 
@@ -34,23 +34,23 @@ If you do account planning, brand planning, strategy, or whatever you want to ca
 
 **[Take my brand strategy class on Skillshare and get two free months](http://skl.sh/markpollard)**
 
-The job of account planning is to find meaning in mess. The act of account planning is simplicity. Yes, it is a messy business but it's complex only in the way that our brains are complex and see patterns everywhere and jump from one thought to another and then settle somewhere if only for a second.
+The job of account planning is to find meaning in mess. The act of account planning is simplicity. Yes, it is a messy business but it's complex in the way that our brains are complex and see patterns everywhere and jump from one thought to another and then settle somewhere if for a second.
 
 This complexity is very different to industrial complexity where a business person takes what is very much an intuitive process and designs it onto a piece of paper to look official and detailed and complicated and expensive.
 
 So, if you're designing account planning with intentional complexity to make money and to take money from dumb money, then you're part of the problem.
 
-However, if you're new to this and are confused by all the techniques and concepts and you are doing the best you can to represent account planning in your agency (which is not an easy feat), then it will seem complex in  the way the first day you walk into a job or a martial arts school seem complex.
+But if you're new to this and are confused by all the techniques and concepts and you are doing the best you can to represent account planning in your agency (which is not an easy feat), then it will seem complex in  the way the first day you walk into a job or a martial arts school seem complex.
 
 Bruce Lee once said, "Before I studied the art, a punch to me was just like a punch, a kick just like a kick. After I learned the art, a punch was no longer a punch, a kick no longer a kick. Now that I’ve understood the art, a punch is just like a punch, a kick just like a kick. The height of cultivation is really nothing special. It is merely simplicity; the ability to express the utmost with the minimum."
 
 Most martial artists go on a journey where they start with the basics, then the tricks seduce them (fancy spinning kicks, for example), and finally they return to the basics now understanding the basics in depth, almost in a spiritual way.
 
-It’s a similar journey for many account planners. Someone (like me) will present the basics to you – then you’ll discover some incredible IP about how to do account planning, it will seem more scientific and justifiable, and then eventually you’ll work out that it’s just a bunch of boxes with a trademark icon and that what we do is – finally – simple.
+It’s a similar journey for many account planners. Someone will present the basics to you – then you’ll discover some incredible IP about how to do account planning, it will seem more scientific and justifiable, and then you’ll work out that it’s a bunch of boxes with a trademark icon and that what we do is – finally – simple.
 
 ## Account planning is art
 
-Account planning is part-science and part-intuition. However, it’s closer to art than it is to economics, closer to absurdism than logic, closer to comedy than business.
+Account planning is part-science and part-intuition. But it’s closer to art than it is to economics, closer to absurdism than logic, closer to comedy than business.
 
 Art helps people see themselves and the worlds in which they live with more truth. An artist will gather information, generate ideas, and then display an idea to which people can choose to catch up and with which they can update their mental operating systems.
 
@@ -60,13 +60,13 @@ The fallback argument is this:
 
 ## Account planning is a creative act
 
-This idea is easy to defend but we need to define the words in order to defend the idea. So here are the words:
+This idea is easy to defend but we need to define the words to defend the idea. So here are the words:
 
 * Creativity is the act of having ideas, and
 
 * Ideas are useful combinations of things that don't usually belong together.
 
-The job of account planning is ideas (more: [How to explain an idea - a mega post](/how-to-explain-an-idea)). If you say to this someone who disagrees, they'll disagree for a few reasons -
+The job of account planning is ideas (more: [How to explain an idea - a mega post](/how-to-explain-an-idea)). If you say this to someone who disagrees, they'll disagree for one of these reasons:
 
 1. It affects their sense of self,
 
@@ -76,7 +76,7 @@ The job of account planning is ideas (more: [How to explain an idea - a mega pos
 
 4. They are using a silent adjective every time they say "idea", or
 
-5. They'll have to see you differently.
+5. They'll have to change how they see you.
 
 This is why "creative strategist" is a tautology. The title appeared to differentiate cool planners from those research types. It's unnecessary. If you're a planner and not doing creative work then you aren't a planner.
 
@@ -114,7 +114,7 @@ But I'll let you in on a trick - you can define the word any way you'd like to. 
 
 Here’s a scribble of an account planning process from 2010. You can click the image for the larger version.
 
-[![Approach-to-strategy-Mark-Pollard-2010.jpg](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg)](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg "One approach to planning")
+![Approach-to-strategy-Mark-Pollard-2010.jpg](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg)
 
 Many of us squirm at the word "process". We can replace it with a word like "practice" but, whatever. This is how I've approached account planning and creative ideas in the past.
 
@@ -122,15 +122,15 @@ Having worked in many different kinds of agencies - advertising, digital, and PR
 
 In fact, this is a difficult way to work in companies and markets that:
 
-1. Want to make everything really complicated and take forever, or
+1. Want to make everything complicated and take forever, or
 
-2. Just want to just execute.
+2. Want to execute and that is all they want.
 
 The slow-moving, political companies will want a process that's more difficult and the executional companies won't want a process at all.
 
 For these reasons, I tend to focus my thinking on this rubric now:
 
-![strategy-framework-mark-pollard.jpg](/uploads/strategy-framework-mark-pollard.jpg "A strategy framework")
+![strategy-framework-mark-pollard.jpg](/api/v2/sites/5b96d0a089ac667088e212a8/source/_uploads/strategy-framework-mark-pollard.jpg?download "A strategy framework")
 
 This rubric assumes interrogation of the business issue and the audience but it tries to capture four ideas that, when captured, are wonderful forcing functions. Here's what they try to force:
 
@@ -152,9 +152,9 @@ This rubric assumes interrogation of the business issue and the audience but it 
 
 ## Step 1: The problem
 
-So you get a brief from the client. Hopefully, they will have worked out their key business challenges and know what success looks like. Often the annual communications budget will be a nice round number and a % of the annual revenue target (typically 5-10%).
+So you get a brief from the client. If you're fortunate, they will have worked out their key business challenges and know what success looks like. Often the annual communications budget will be a nice round number and a % of the annual revenue target (often 5-10%).
 
-You can make your first impact here by trying to work out the [customer lifetime value](https://hbswk.hbs.edu/archive/hbs-toolkit-lifetime-customer-value-calculator) of the client’s customers and establish whether their budget makes any sense from the bottom up. There’s often little rhyme or reason to where these budgets come from – they’re typically just rules of thumb that businesses have applied for years. Push to get clarity on this before you do anything else because it can swing your entire approach.
+You can make your first impact here by trying to work out the [customer lifetime value](https://hbswk.hbs.edu/archive/hbs-toolkit-lifetime-customer-value-calculator) of the client’s customers and establish whether their budget makes any sense from the bottom up. There’s often little rhyme or reason to where these budgets come from – they’re rules of thumb that businesses have applied for years. Push to get clarity on this before you do anything else because it can swing your entire approach.
 
 It will take a few attempts to decide the problem. You'll need to hunt: qualitative, quantitative, keyword, website, social research. Maybe you’ll dig up some behavioral economics, social sciences or psychology papers (befriend [Google Scholar](https://scholar.google.com/)). Whatever your inputs, make the problem provocative. Couch the problem in a customer’s – not a business’s – point of view. Awareness, relevance, salience, and conversion are boring problems - they are table-stakes.
 
@@ -164,7 +164,7 @@ Make it provocative, say it short, say it in a picture or drawing.
 
 Personas come in and out of fashion. They are a sort of customer segmentation - they're fictional representations of your client’s customers based on research.
 
-Not only are there conflicting thoughts about whether personas are useful but there are conflicting thoughts about how to do them. Some people argue against creative labels. Instead of calling a group The Lonewolf Planners, some would argue you should note them as "John, he’s really into planning and thinking about planning. He should get a life."
+Not only are there conflicting thoughts about whether personas are useful but there are conflicting thoughts about how to do them. Some people argue against creative labels. Instead of calling a group The Lonewolf Planners, some would argue you should note them as "John, he’s into planning and thinking about planning. He should get a life."
 
 Take your own stance. Our brains apply these labels regardless of what’s written on the piece of paper anyway.
 
@@ -184,7 +184,7 @@ The basic info to think through are:
 
 I used to make a rap magazine and run an online message board so I like personas because they have helped me with editorial ideas. Around the year 2000, as people discovered the Internet, two personas popped into my world:
 
-1. The young guy who was possibly the only guy in his peer group or suburb or town and who was into underground hip hop culture. His goal was to find his people and he'd use obscure knowledge to compete for attention and to make his way up the hierarchy. Knowledge got him into the circle. If I was at an event at 10pm on a Friday night, this guy would want to talk about a sample on the third track on the B-side of a white-label vinyl.
+1. The young guy who was the only guy in his peer group or suburb or town and who was into underground hip hop culture. His goal was to find his people and he'd use obscure knowledge to compete for attention and to make his way up the hierarchy. Knowledge got him into the circle. If I was at an event at 10pm on a Friday night, this guy would want to talk about a sample on the third track on the B-side of a white-label vinyl.
 
 2. Then there was an older crowd who were the superheroes of the 1980s - the early breakdancers, graffiti artists, rappers, DJs, magazine makers, and event promoters. I make these observations with love - not criticism - but, within this group, were people whose goal it was to reclaim their place in the hierarchy. They wanted to reclaim their fame. They'd share rare photos, ask for contact details of people with whom they hung as teenagers, discuss who'd passed away and how. They wanted to keep memories alive and make sure others revered the memories.
 
@@ -196,13 +196,13 @@ The challenges with personas are that:
 
 2. Someone who's into data will mention the phrase: "Well, it's a segment of one."
 
-3. The internal consumer insight team will have spent a year developing their own segmentation. Often vague and just like the other segmentations, these aren't always useful but they make great neck weights.
+3. The internal consumer insight team will have spent a year developing their own segmentation. Often vague and like the other segmentations, these aren't always useful but they make great neck weights.
 
 4. The media company doesn't want anything to do with any of it because it doesn't match their media segmentation.
 
 5. The user experience expert will think the personas are too flimsy and don't contain enough graphs and charts.
 
-So, a stalemate ensues. But a stalemate will only happen if you compete with the personas. Even if you never share personas and you just write a few bullet points for each type of person you're seeing, they'll help you get to more specific thinking.
+So, a stalemate ensues. But a stalemate will only happen if you make the personas compete. Even if you never share personas and the personas are a few bullet points for each type of person you're seeing, you'll reach more specific thinking.
 
 Having established your personas (some conventions say to use 4-6 but you can have as many as are useful and you can resource against), you may need to pick your most valuable – the sort of customer you wish you had more of. Perfect world, you’d validate that enough of them exist (or could be created) and match your investment against the possible business gain.
 
@@ -216,9 +216,9 @@ Insights are unspoken human truths, truths the subconscious recognizes when it s
 
 One of the best ways to find them? Start with something that seems obvious and keep asking "Why?" and "What if?."
 
-I keep a book of observations and what comedians call premises. I do this because I like writing and I believe that to get good at any of this, we must practice. So, I capture tens of thoughts every day and then riff. For instance:
+I keep a book of observations and what comedians call premises. I do this because I like writing and to get good at any of this, we must practice. So, I capture tens of thoughts every day and then riff. For instance:
 
-* A mid-life crisis is just death asking if you're ready
+* A mid-life crisis is death asking if you're ready
 
 * A mid-life crisis is life telling you to pay attention
 
@@ -232,7 +232,7 @@ Account planning is a search for truth. You can always pull words and themes bac
 
 ## Step 4: Brand or product truth
 
-Your goal here is to find a truth about the brand or product that is both unique and motivating to its customers. A lot of established brands have been around for a long time. This may be unique against their competitors but rarely is it highly motivating.
+Your goal here is to find a truth about the brand or product that is both unique and motivating to its customers. A lot of established brands have been around for a long time. This may be unique against their competitors but it is unlikely to motivate people.
 
 You can start by listing things that come to mind, words from a brand spider, marketing words, and then go through your qualitative research (interviews, customer reviews, expert reviews), and use normal language.
 
@@ -242,11 +242,11 @@ With an army of words in front of you, you can stay literal or you can act like 
 
 A brand spider from a research company will include language that nobody uses outside meeting rooms. This is not useful language. Words like "performance," "durability," "dependability," and "ease of use" aren't very useful. When reviews of a product that helps babies with explosive vomiting say that the product led to "amazing turnarounds" then this is something to investigate.
 
-Also look for what you don’t have that others do – sometimes there’s something unique and motivating there. For example, one pet product I worked on wasn’t a scheduled poison – it was really the only thing unique and motivating about it. We couldn’t claim it publicly but the absence of something led to our brand idea.
+Also look for what you don’t have that others do – sometimes there’s something unique and motivating there. For example, one pet product I worked on wasn’t a scheduled poison – it was the only thing unique and motivating about it. We couldn’t claim it in public but the absence of something led to our brand idea.
 
 ## Step 5: Strategy statement
 
-A lot of "strategic thinking" doesn’t have a strategy. It has some observations (mis-called "insights") and a clunky single-minded proposition slightly connected to some of the observations. But ultimately, a concise strategy statement is a useful way to ground your proposition and creative idea.
+A lot of "strategic thinking" doesn’t have a strategy. It has some observations (mis-called "insights") and a clunky single-minded proposition slightly connected to some of the observations. But a concise strategy statement is a useful way to ground your proposition and creative idea.
 
 Common structures include:
 
@@ -260,7 +260,7 @@ I like to write a sentence in this format:
 
 Examples:
 
-* Show that a mid-life crisis is just a wake-up call
+* Show that a mid-life crisis is a wake-up call
 
 * Show that the New York Knicks are great anger management
 
@@ -272,7 +272,7 @@ This format is clean. It groups two thoughts into an idea. It doesn't impersonat
 
 Whatever you want to call this thing, it’s the guts of your strategy. It links and evolves the insight and brand truth in an interesting way. It’s a handful of words. There’s no role for an account planner unless they can flip the perspective on a problem/opportunity/brand/person.
 
-A "flip" is just more jargon for a lateral thought - "It's not X, it's Y." Remember how good non-fiction writers lace their paragraphs with lateral thoughts. And remember this is what you do.
+A "flip" is more jargon for a lateral thought - "It's not X, it's Y." Remember how good non-fiction writers lace their paragraphs with lateral thoughts. And remember this is what you do.
 
 If you’re putting run-of-the-mill language like "convenience," "quality," and "easy" in here then I don’t believe there’s a need for you. Sorry not sorry.
 
@@ -280,7 +280,7 @@ Of course, if you put in chunky thoughts and the creative teams with whom you wo
 
 If you choose to write a strategy statement as well, then it's fine to repeat certain words. I'll often riff on a theme and word through the problem, insight, brand truth, and strategy statement.
 
-If you wrote a strategy statement for a mid-life crisis like the one above - "Show that a mid-life crisis is just a wake-up call" - it works fine as it is. You could also write a proposition from it:
+If you wrote a strategy statement for a mid-life crisis like the one above - "Show that a mid-life crisis is a wake-up call" - it works fine as it is. You could also write a proposition from it:
 
 * A mid-life crisis is a wake-up call
 
@@ -290,7 +290,7 @@ If you wrote a strategy statement for a mid-life crisis like the one above - "Sh
 
 You choose.
 
-Now, for your thinking to really stick, it's good to have other minds leave fingerprints on it. Walk the proposition around the office before you make it official. Email a very short write-up about it to people. Hope that someone makes it better. The point is what gets done with it – not who does it. Oh, and don’t try to write taglines here.
+Now, for your thinking to stick, it's good to have other minds leave fingerprints on it. Walk the proposition around the office before you make it official. Email a very short write-up about it to people. Hope that someone makes it better. The point is what gets done with it – not who does it. Oh, and don’t try to write taglines here.
 
 ## Step 7: The experience
 
@@ -306,15 +306,15 @@ You can create an experience model or map against different personas. At a high 
 
 * The content needed to make a decision,
 
-...you can quickly map out a pretty solid plan. However, approach these with two distinct mindsets - one is to map the natural behavior (the map) and the other is to put ideas against that behavior (the plan).
+...you can map out a pretty solid plan. But approach these with two distinct mindsets - one is to map the natural behavior (the map) and the other is to put ideas against that behavior (the plan).
 
 ## Step 8: Ideas
 
-In 2010, when I originally wrote this article, I thought the industry would quickly and as a whole move into what I saw as non-advertising ideas - it would use its brains to create products, communities, content, tools, to solve problems for brands that also solved problems for people. And then advertise those things.
+In 2010, when I wrote this article, I thought the industry would move into what I saw as non-advertising ideas - it would use its brains to create products, communities, content, tools, to solve problems for brands that also solved problems for people. And then advertise those things.
 
 If anything, advertising has become more advertising and those of us who had those fancy notions are more on the outskirts, pushed there by frenzied social media calendars, banal stock photos, a rapid news cycle, growth hacking, a resentment of thinking, and people who use numbers and process in spite of creativity - not for creativity.
 
-Wherever you work, define what you mean when you use the word "idea" and use it specifically and know that ideas can come from anywhere but that the majority of us are mediocre at ideas, that because many of us can come up with ideas doesn't mean we shouldn't respect people who are truly talented at ideas, and that all our jobs are the mischief of ideas.
+Wherever you work, define what you mean when you use the word "idea" and use it with intention and know that ideas can come from anywhere but that the majority of us are mediocre at ideas, that because many of us can come up with ideas doesn't mean we shouldn't respect people who are talented at ideas, and that all our jobs are the mischief of ideas.
 
 Also, remember that being good at ideas doesn't mean you get to be an asshole.
 
