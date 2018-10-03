@@ -1,8 +1,11 @@
 ---
 title: Articles
 permalink: "/strategy-articles"
-layout: archive
+summary: How do you do planning? What’s an insight? Where do ideas come from? Who
+  am I? Words here.
+categories: strategy articles, strategy article, articles on strategy
 h1: Strategy Articles
+layout: archive
 ---
 
 <main class="preview" id="all-container">
