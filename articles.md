@@ -1,6 +1,6 @@
 ---
 title: Articles
-permalink: "/strategy-articles/"
+permalink: /strategy-articles/
 summary: How do you do planning? What’s an insight? Where do ideas come from? Who
   am I? Words here.
 categories: strategy articles, strategy article, articles on strategy
