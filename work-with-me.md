@@ -1,5 +1,5 @@
 ---
-title: Work With Mark Pollard
+title: "Work with Mark Pollard - talks, training, research, strategy, and words "
 permalink: "/work-with-me/"
 h1: Work With Me
 layout: about

@@ -1,5 +1,5 @@
 ---
-title: About Mark Pollard
+title: What is a Mark Pollard anyway?
 permalink: "/about-mark-pollard/"
 h1: About Mark Pollard
 Image: "/uploads/Mark-Pollard-Sketches-640x400.jpg"

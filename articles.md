@@ -1,5 +1,5 @@
 ---
-title: Articles
+title: Strategy articles for a sick strategy life
 permalink: "/strategy-articles/"
 summary: How do you do planning? What’s an insight? Where do ideas come from? Who
   am I? Words here.

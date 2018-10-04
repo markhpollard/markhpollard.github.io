@@ -1,5 +1,5 @@
 ---
-title: Biography
+title: A biography for Mark Pollard written in the third person
 permalink: "/mark-pollard-biography/"
 layout: about
 ---

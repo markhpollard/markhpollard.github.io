@@ -1,5 +1,5 @@
 ---
-title: That Felt Good, Real Good
+title: "Your Internet e-message has been i-sent to the intended recipient."
 permalink: "/contact-made.html"
 h1: Contact Made
 layout: about
