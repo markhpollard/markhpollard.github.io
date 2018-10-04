@@ -1,6 +1,6 @@
 ---
 title: Biography
-permalink: /mark-pollard-biography/
+permalink: "/mark-pollard-biography/"
 layout: about
 ---
 

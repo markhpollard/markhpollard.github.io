@@ -1,6 +1,6 @@
 ---
 title: About Mark Pollard
-permalink: /about-mark-pollard/
+permalink: "/about-mark-pollard/"
 h1: About Mark Pollard
 Image: "/uploads/Mark-Pollard-Sketches-640x400.jpg"
 layout: about

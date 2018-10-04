@@ -1,6 +1,6 @@
 ---
 title: Sweathead
-permalink: /sweathead-podcast/
+permalink: "/sweathead-podcast/"
 h1: 'Sweathead: You Take Practice'
 description: This is Sweathead with Mark Pollard, a podcast where we discuss strategy
   and ideas - what these things are, how to get good at them, and how to earn money

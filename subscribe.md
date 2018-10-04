@@ -1,6 +1,6 @@
 ---
 title: Subscribe
-permalink: /email-newsletter/
+permalink: "/email-newsletter/"
 layout: about
 ---
 
