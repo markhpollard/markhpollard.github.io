@@ -1,5 +1,5 @@
 ---
-title: "Contact Mark Pollard and he might return the favor. Also, he might not."
+title: Contact Mark Pollard and he might return the favor. Also, he might not.
 permalink: "/contact/"
 h1: Contact
 layout: about

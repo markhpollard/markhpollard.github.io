@@ -1,5 +1,5 @@
 ---
-title: "Sweathead by Mark Pollard - life support for the ears of independent thinkers "
+title: 'Sweathead by Mark Pollard - life support for the ears of independent thinkers '
 permalink: "/sweathead-podcast/"
 h1: 'Sweathead: You Take Practice'
 description: This is Sweathead with Mark Pollard, a podcast where we discuss strategy
