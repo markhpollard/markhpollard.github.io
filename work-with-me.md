@@ -1,6 +1,6 @@
 ---
 title: Work With Mark Pollard
-permalink: /work-with-me
+permalink: /work-with-me/
 h1: Work With Me
 layout: about
 ---

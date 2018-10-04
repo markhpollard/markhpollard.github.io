@@ -1,6 +1,6 @@
 ---
 title: Terms and conditions
-permalink: "/terms-and-conditions"
+permalink: /terms-and-conditions/
 layout: page
 ---
 
