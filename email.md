@@ -1,6 +1,6 @@
 ---
 title: Email page
-permalink: /subscribe-email/
+permalink: "/subscribe-email/"
 layout: email
 ---
 

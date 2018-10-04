@@ -1,6 +1,6 @@
 ---
 title: Contact
-permalink: /contact/
+permalink: "/contact/"
 h1: Contact
 layout: about
 ---
