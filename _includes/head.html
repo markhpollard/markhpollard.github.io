@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
 
         {% if page.categories %}
-        <meta name="keywords" content="{% for categories in post.categories %}{{ categories }}, {% endfor %}"  />
+        <meta name="keywords" content="{% for categories in page.categories %}{{ categories }}, {% endfor %}"  />
         {% else %}
         <meta name="keywords" content="mark pollard, strategy, strategist, ceo, mighty jungle, planner, strategy is your words"  />
         {% endif %}
