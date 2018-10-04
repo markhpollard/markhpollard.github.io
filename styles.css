@@ -704,6 +704,9 @@ footer .fa-linkedin:hover {
     width: 25%;
     padding-right: 25px;
 }
+.footer-nav-block:hover {
+    text-decoration: underline;
+}
 .footer-nav-block img {
     height: 30px;
 }
