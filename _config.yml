@@ -23,28 +23,28 @@ defaults:
     type: posts
   values:
     layout: article
-    summary:
-    image:
+    summary: 
+    image: 
 - scope:
     path: ''
     type: resources
   values:
     layout: article
-    summary:
-    image:
+    summary: 
+    image: 
 - scope:
     path: ''
     type: pages
   values:
-    summary:
-    image:
-    categories:
+    summary: 
+    image: 
+    categories: 
 name: Mark Pollard
 description: Strategy is Your Words
 google_analytics: UA-6991341-1
 repository: markhpollard/markhpollard.github.io
-url:
-baseurl:
+url: 
+baseurl: 
 highlighter: rouge
 permalink: "/:title/"
 version: v1.1.0
