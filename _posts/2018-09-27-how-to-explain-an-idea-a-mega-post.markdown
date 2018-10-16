@@ -24,7 +24,7 @@ summary: 'What''s an idea? What sorts of ideas are there? And how on Earth do yo
 image: "/uploads/idea-writeup-template.jpeg"
 ---
 
-![How to write an idea](/uploads/idea-writeup-template.jpeg "How to write an idea")
+![idea-writeup-template.jpeg](/uploads/idea-writeup-template.jpeg "How to write an idea")
 
 ## Ideas are your oxygen
 
@@ -70,10 +70,15 @@ When I’m training people in lateral thinking, I point out how adding mischief 
 Yes, it’s complicated because humans complicate things. And what complicates all of this is that, as far as “ideas as novel concepts” go, in agency world, there are:
 
 * Business ideas
+
 * Advertising ideas
+
 * Brand ideas
+
 * Campaign ideas
+
 * Content ideas
+
 * New product ideas
 
 Oh, and strategies (which are also ideas  —  even though the monopoly on the use of the word “idea” in an agency belongs to the creative department).
@@ -118,16 +123,18 @@ First, the context of this agreement was advertising but it relates to non-adver
 
 You may have seen the old Telstra Bigpond campaign where the father says Emperor Nasi Goreng built the Great Wall of China to keep the rabbits out. If you have, you realize this is from a bygone era. But what is the idea?
 
-[![Telstra Bigpond advertisement](http://img.youtube.com/vi/DvlWQyvEI38/0.jpg)](http://www.youtube.com/watch?v=DvlWQyvEI38 "Telstra Bigpond advertisement")
-
+<div class="responsive-container">
+<iframe src="https://www.youtube.com/embed/DvlWQyvEI38?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen="">
+</iframe>
+</div>
 
 This commercial works in three ways. It appeals to parents’ fears of the future leaving behind their children. It makes light of parents' own lack of knowledge and shows a parent who is left behind. As with much comedy, this gives the viewer a sense of superiority but most viewers will see themselves in this situation and feel sympathy. Finally, the commercial tries to shift the broadband discussion in the home from technology and to education and adult success. It suggests that broadband will prevent adult failure.
 
 The commercial is a simple vignette. The “big idea” is in the strategy, whether or not a planner touched it.
 
-Some agencies keep the planner in the obvious. Words like “easy”, “performance”, “authenticity” or “confidence” are common in some briefs. This is not planning. It happens because that’s what planning is supposed to do in the agency or because creatives feel insecure about having part of the problem solved for them. “That’s my job," a senior copywriter once said to me. 
+Some agencies keep the planner in the obvious. Words like “easy”, “performance”, “authenticity” or “confidence” are common in some briefs. This is not planning. It happens because that’s what planning is supposed to do in the agency or because creatives feel insecure about having part of the problem solved for them. “That’s my job," a senior copywriter once said to me.
 
-So, the strategic process tries to understand the issues, the environment, the competition, the customers, and the insights. Then it creates an idea about how to shift perspectives. The creative process either solves the problem with a non-advertising solution first or it dramatizes the insight and perspective shift. 
+So, the strategic process tries to understand the issues, the environment, the competition, the customers, and the insights. Then it creates an idea about how to shift perspectives. The creative process either solves the problem with a non-advertising solution first or it dramatizes the insight and perspective shift.
 
 And… TALK TO EACH OTHER. Define these words and how you work together. Same team, yeah?
 
@@ -243,7 +250,7 @@ You can also use article-writing techniques in a presentation. You can use numbe
 
 **10. Make it stick**
 
-Play with counter-intuitive headlines as well as “How to” and “Why” setups. Counter-intuitive headlines make people curious. They open a hole through which your ideas can burts. The “How to” and “Why” approaches cut to the chase by saying, “I have the answers for you; you’re in safe hands.”
+Play with counter-intuitive headlines as well as “How to” and “Why” setups. Counter-intuitive headlines make people curious. They open a hole through which your ideas can burst. The “How to” and “Why” approaches cut to the chase by saying, “I have the answers for you; you’re in safe hands.”
 
 The format of your presentation is also something that deserves thoughts. Think about your audience, what they will be comfortable with, and how far you can push them. Powerpoint is one default format but it doesn’t have to be. A combination of screen and analog entices people to shift their attention and it stimulates their senses (see, hear, touch).
 
@@ -304,13 +311,13 @@ iii. The ask: “Want to find out more?”
 **4. The visionary**
 
 With this technique, you go for the emotional jugular.
-i. Problem-rallying: "Imagine if we could solve this." You showan emotional video.
+i. Problem-rallying: "Imagine if we could solve this." You show an emotional video.
 ii. Solution: "Well, we can… and here’s how."
 iii. Action: "And here is how you can help."
 
 **5. Ignite it Pecha Kucha style**
 
-This is more a format than a structure suggestion. Ignite and Pecha Kucha are fast-paced presentation events where people have a few minutes to a story. 
+This is more a format than a structure suggestion. Ignite and Pecha Kucha are fast-paced presentation events where people have a few minutes to a story.
 
 In the business world, this approach will add drama. The time limit will open people to hearing from you. See: "I’m going to show you how to do X in 5 minutes." The time limit also implies a risk that makes for a more exciting presentation - "What if she forgets or stumbles?" It will energize you and force you to structure a succinct story.
 
@@ -321,7 +328,11 @@ These techniques are yoga poses. They are available to you when you need them. D
 ## **Now**
 
 1. Please share this article with at least one person
+
 2. Take this sick [brand strategy Skillshare class](http://skl.sh/markpollard)
+
 3. Join my [email newsletter](https://markpollard.us1.list-manage.com/subscribe?u=dfb4c80f84a49d4cfc0d34490&id=c66948a2fc)
+
 4. Come find me on [Twitter](http://www.twitter.com/markpollard), [Instagram](http://www.instagram.com/markpollard), and [LinkedIn](https://www.linkedin.com/in/markpollardstrategist/)
+
 5. Join thousands of strategists in [Sweathead](http://www.sweathead.co) on Facebook
