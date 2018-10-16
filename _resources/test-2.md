@@ -23,6 +23,8 @@ When somebody asks, "What are the best books on strategy?" feel free to play thi
 
 There are beautiful books on strategy and I'll list them soon. They'll help you get to what researchers call the "edge of your domain" and understand the zeitgeist of the strategy world.
 
+{% include promo.html %}
+
 However, an account planner's job is very close to a writer's reason for existence. A writer must notice new things about the world and express what she notices in compelling ways to stand a chance of her writing reaching a reader.
 
 So, feel free to get as clever as your ego requires with books on strategy, behavioral economics, neuroscience, psychology, history, and everything in the social sciences. These are useful and important. But always keep one eye on the writing world because, when all is said and done, that is also your world.
