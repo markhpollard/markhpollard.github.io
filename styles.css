@@ -547,6 +547,17 @@ hr {
 .podcast-list li:hover {
     text-decoration: underline;
 }
+.article-promo {
+    width: 80%;
+    margin: auto;
+    background-color: lightgrey;
+    border: 2px solid grey;
+    margin-bottom: 15px;
+}
+.article-promo p {
+    padding: 10px;
+    font-size: 20px;
+}
 
 
 /*----------- RESPONSIVE VIDEO --------------*/
