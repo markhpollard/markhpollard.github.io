@@ -32,7 +32,7 @@ If you do account planning, brand planning, strategy, or whatever you want to ca
 
 2. Incompetent
 
-**[Take my brand strategy class on Skillshare and get two free months](http://skl.sh/markpollard)**
+{% include promo.html %}
 
 The job of account planning is to find meaning in mess. The act of account planning is simplicity. Yes, it is a messy business but it's complex in the way that our brains are complex and see patterns everywhere and jump from one thought to another and then settle somewhere if for a second.
 
