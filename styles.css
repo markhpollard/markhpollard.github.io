@@ -317,6 +317,15 @@ hr {
     margin: auto;
     float: none;
 }
+.essay ul {
+    list-style: disc;
+    list-style-position: outside;
+    padding-left: 25px;
+}
+.essay li {
+        padding-bottom: 0px;
+    padding-left: -25px;
+}
 .about-footer {
     padding-top: 50px;
     padding-bottom: 25px;
