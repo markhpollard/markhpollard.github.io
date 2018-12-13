@@ -45,7 +45,7 @@ Don’t play games. When people know how decisions happen they can prepare for i
 Good talent flees team sprawl or they send people to sit and take the mess in the face while they stay in the office.
 
 **5. Bring the right people into the room.**
-If people who don’t do the work aren’t in the room it’s because your meetings aren’t useful or the agency is keeping people out.
+If people who do the work aren’t in the room it’s because your meetings aren’t useful or the agency is keeping people out.
 
 **6. Learn your team.**
 Take an interest in their side projects. Understand what they’re into. Invite them to bring it into their work for you.
