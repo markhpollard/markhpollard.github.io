@@ -12,6 +12,7 @@ tags:
 - Teamwork
 summary: It isn't easy for marketers to work with agencies. But these ten tips will
   help build a powerful relationship.
+image: "/uploads/Why-marketers-dont-get-better-work.jpg"
 ---
 
 The four main reasons marketers don’t get better work from their agencies:
@@ -27,6 +28,8 @@ The four main reasons marketers don’t get better work from their agencies:
 \[[Share this Tweet](https://twitter.com/markpollard/status/1072668809058795520)\]
 
 Marketers miss the point when they seek obedience from agencies they try to dominate. This is operating from a place of insecurity. Yes, there’s a transaction but the people doing the work are trying to do significant work. Meet them there. Don’t beat them there. \[[Share this Tweet](https://twitter.com/markpollard/status/1072845780422135809)\]
+
+{% include promo.html %}
 
 It isn't easy to do marketing or work in an agency right now. Perhaps it never was. The following ten points might help.
 
