@@ -29,34 +29,34 @@ It isn't easy to do marketing or work in an agency right now. Perhaps it never w
 You can download this as a [PDF](http://www.markpollard.net/uploads/How-to-get-better-creative-work.pdf) or [jpeg](http://www.markpollard.net/uploads/How-to-get-better-creative-work.jpeg). You can find it on [Instagram](https://www.instagram.com/p/BrS480ChXkT/) and [share in on Twitter](https://twitter.com/markpollard/status/1072938399097589760), too.	
 
 
-**1. Tame the Crazymakers. **
+**1. Tame the Crazymakers.**
 Julia Cameron’s word. Each company has them. Self-important Tasmanian devils who frenzy into rooms, thrust their status at people, and leave.
 
-**2. Don’t brief and run. **
+**2. Don’t brief and run.**
 Don’t phone in a brief. Don’t brief and then disappear for two weeks. Think. Take responsibility. Or write the brief with your agency.
 
-**3. Reveal the decision-makers. **
+**3. Reveal the decision-makers.**
 Don’t play games. When people know how decisions happen they can prepare for it. And work with the decision-makers. 
 
 **4. Avoid team sprawl.** 
 Good talent flees team sprawl or they send people to sit and take the mess in the face while they stay in the office. 
 
-**5. Bring the right people into the room. **
+**5. Bring the right people into the room.**
 If people who don’t do the work aren’t in the room it’s because your meetings aren’t useful or the agency is keeping people out.
 
-**6. Learn your team. **
+**6. Learn your team.**
 Take an interest in their side projects. Understand what they’re into. Invite them to bring it into their work for you.
 
-**7. Reduce the drama. **
+**7. Reduce the drama.**
 People who do the work and spend their late nights and weekends thinking about it don’t need to waste time in meetings. Keep interactions straight-forward.
 
-**8. Study “great work”. **
+**8. Study “great work”.**
 Read case studies. Have more than “that one thing I did ten years ago” to refer to. Share examples of work you want people to beat.
 
 **9. Keep feedback short.** 
 You don’t need to share every brain fart. Share feedback in one paragraph. Perhaps, answer: “What needs to happen to make this even better?
 
-**10. Don’t bore people. **
+**10. Don’t bore people.**
 Most marketing plans start as copy-and-paste from last time. They are difficult to get signed off. We empathize. But keep briefings short
 
 
