@@ -15,6 +15,8 @@ summary: It isn't easy for marketers to work with agencies. But these ten tips w
 image: "/uploads/Why-marketers-dont-get-better-work.jpg"
 ---
 
+![Why-marketers-dont-get-better-work.jpg](/uploads/Why-marketers-dont-get-better-work.jpg)
+
 The four main reasons marketers don’t get better work from their agencies:
 
 1. They don’t really want it
