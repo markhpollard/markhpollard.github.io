@@ -28,6 +28,7 @@ It isn't easy to do marketing or work in an agency right now. Perhaps it never w
 
 You can download this as a [PDF](http://www.markpollard.net/uploads/How-to-get-better-creative-work.pdf) or [jpeg](http://www.markpollard.net/uploads/How-to-get-better-creative-work.jpeg). You can find it on [Instagram](https://www.instagram.com/p/BrS480ChXkT/) and [share in on Twitter](https://twitter.com/markpollard/status/1072938399097589760), too.	
 
+![How-to-get-better-creative-work.jpeg](/uploads/How-to-get-better-creative-work.jpeg)
 
 **1. Tame the Crazymakers.**
 Julia Cameron’s word. Each company has them. Self-important Tasmanian devils who frenzy into rooms, thrust their status at people, and leave.
