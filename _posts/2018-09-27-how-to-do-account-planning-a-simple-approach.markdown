@@ -18,6 +18,9 @@ image: "/uploads/strategy-is-an-informed-opinion.jpeg"
 
 ![strategy-is-an-informed-opinion.jpeg](/uploads/strategy-is-an-informed-opinion.jpeg "Strategy is an informed opinion")
 
+<iframe src="https://anchor.fm/sweathead-with-mark-pollard/embed/episodes/How-To-Do-Account-Planning-e1l427" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<audio>https://anchor.fm/sweathead-with-mark-pollard/embed/episodes/How-To-Do-Account-Planning-e1l427 </audio>
+
 ## Account planning is simple
 
 If you've ever wondered how to make money, here's the trick: take something that seems magical, make it complex, and then sell yourself as the way to solve the complexity and to get to the magic.
