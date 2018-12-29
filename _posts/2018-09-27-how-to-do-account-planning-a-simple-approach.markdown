@@ -18,7 +18,7 @@ image: "/uploads/strategy-is-an-informed-opinion.jpeg"
 
 ![strategy-is-an-informed-opinion.jpeg](/uploads/strategy-is-an-informed-opinion.jpeg "Strategy is an informed opinion")
 
-> Hey, [you can listen to this article](https://anchor.fm/sweathead-with-mark-pollard/episodes/How-To-Do-Account-Planning-e1l427/a-a40f36), too.
+> Hey, [you can listen to this article](https://anchor.fm/sweathead-with-mark-pollard/episodes/How-To-Do-Account-Planning-e1l427/a-a40f36 target="_blank"), too.
 
 ## Account planning is simple
 
