@@ -118,6 +118,8 @@ Here’s a scribble of an account planning process from 2010. You can click the 
 
 [![Approach-to-strategy-Mark-Pollard-2010.jpg](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg "An approach to account planning - in a drawing")](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg)
 
+[You can also find it on Instagram](https://www.instagram.com/p/BsOiULahSdE/) and ask questions about it or share it there.
+
 Many of us squirm at the word "process". We can replace it with a word like "practice" but, whatever. This is how I've approached account planning and creative ideas in the past.
 
 Having worked in many different kinds of agencies - advertising, digital, and PR, as well as a dot-com - and having published a magazine, hosted a radio show, promoted music events, all this diagram ever attempted to do was to get me to get my thoughts together about how I worked. It isn't dogma.
