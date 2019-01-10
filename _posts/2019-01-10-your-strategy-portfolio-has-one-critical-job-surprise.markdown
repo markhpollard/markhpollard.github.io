@@ -26,14 +26,13 @@ For a second, let's try empathy. Assuming you make your way through the young re
  
 Also, strategy is an informed opinion about how to win. So have an opinion. Otherwise, try a different career.
 
-[Opinion]
 ![strategy-is-an-informed-opinion.jpeg](/uploads/strategy-is-an-informed-opinion.jpeg)
 
 If you're new to the industry and you're applying to a place that is good at account planning (and there are many places with account planners that don't do much account planning), you have this riddle to solve:
 * You need to look legit. You need to look like you have a sense of the history of your industry, the basic language and concepts, a way with research, and a way with words.
 * You need to look like you have a brain and your brain needs to look like it has an edge. It needs to look like there is something sexy and unpredictable going on in there.
 * You need to look bigger than your CV. Everyone has a CV. Most people have a portfolio. How can you look bigger? How can you weave in other things in which you're an original gangster? The rest of you.
- 
+<br>
 The lazy way to do a strategy portfolio is to treat it like a high school assignment, where you get a bunch of your work, and write about it without giving a shit about the person reading it. Blah blah blah. When you take someone who knows what they’re doing through this kind of portfolio you’ll hear “Uh-huh Uh-huh Uh-huh” but the person is saying “Next, next, next. Hurry up and get to a point, any point.”
  
 **A lazy case study does this:**
@@ -43,7 +42,7 @@ The lazy way to do a strategy portfolio is to treat it like a high school assign
 * It lumbers from one long word to another with generic statistics thrown in.
 * It shows boring work.
 * It lacks a point of view.
- 
+<br>
 **A solid case study will cover these things:**
 * The brief as you received it
 * The research you did
@@ -55,7 +54,7 @@ The lazy way to do a strategy portfolio is to treat it like a high school assign
 * A new way of thinking about the product or brand
 * The work the brief inspired
 * Whether the work worked
- 
+<br> 
 Imagine this diagram is a dart board and try to hit at least two of these things. These are ideas so if you hit two ideas per case study, you’ll have a good conversation, which is what a good interview is.
  
 ![strategy-framework-mark-pollard.jpg](/uploads/strategy-framework-mark-pollard.jpg)
@@ -79,12 +78,14 @@ It's primal.
 And if you share your strategy portfolio with an account planner who doesn't want this and they hire you anyway, good luck doing good planning with them. Your presentations will be tidy and full of bullet points and highly agreeable unlike you when you were in your Terrible Twos.
 
 
+## **Now**
+
 1. Please share this article with at least one person
-</br>
+
 2. Take this sick [brand strategy Skillshare class](http://skl.sh/markpollard)
-</br>
+
 3. Join my [email newsletter](https://markpollard.us1.list-manage.com/subscribe?u=dfb4c80f84a49d4cfc0d34490&id=c66948a2fc)
-</br>
+
 4. Come find me on [Twitter](http://www.twitter.com/markpollard), [Instagram](http://www.instagram.com/markpollard), and [LinkedIn](https://www.linkedin.com/in/markpollardstrategist/)
-</br>
+
 5. Join thousands of strategists in [Sweathead](http://www.sweathead.co) on Facebook
