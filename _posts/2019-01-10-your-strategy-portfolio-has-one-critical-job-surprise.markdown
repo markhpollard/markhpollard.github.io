@@ -9,8 +9,8 @@ categories:
 - account planning portfolio
 tags:
 - Careers
-summary: A portfolio is not an excuse to gather together a bunch of stuff. It is an
-  act of brinkmanship.
+summary: A strategy portfolio is not an excuse to gather together a bunch of stuff.
+  It is an act of brinkmanship.
 image: "/uploads/you-can-get-it-dull.jpg"
 ---
 
