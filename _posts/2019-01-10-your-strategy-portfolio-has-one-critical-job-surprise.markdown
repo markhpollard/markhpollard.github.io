@@ -14,7 +14,7 @@ summary: A strategy portfolio is not an excuse to gather together a bunch of stu
 image: "/uploads/you-can-get-it-dull.jpg"
 ---
 
-Strategy portfolios aren't difficult. The Terrible Twos are difficult. The Terrible Twos are the third year of our lives, a year in which we become hooligans in the home. This is a state to which we all return decades later. No, strategy portfolios aren't like this  - strategy  portfolios are dainty.
+Strategy portfolios aren't difficult. The Terrible Twos are difficult. The Terrible Twos are the third years of our lives, a year in which we become hooligans in the home. This is a state to which we all return decades later. No, strategy portfolios aren't like this  - strategy  portfolios are dainty.
  
 Flower arrangements are dainty. You diagnose your mood and creative appetite, you peruse your flower shop, then you select, cut, and arrange, and make someone happy or less sad. This is also what a strategy portfolio must do - make someone happy or less sad.
  
