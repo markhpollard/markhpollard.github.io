@@ -32,11 +32,11 @@ Also, strategy is an informed opinion about how to win. So have an opinion. Othe
 
 If you're new to the industry and you're applying to a place that is good at account planning (and there are many places with account planners that don't do much account planning), you have this riddle to solve:
 
-1\. You need to look legit. You need to look like you have a sense of the history of your industry, the basic language and concepts, a way with research, and a way with words.
+**1. You need to look legit.** You need to look like you have a sense of the history of your industry, the basic language and concepts, a way with research, and a way with words.
 
-2\. You need to look like you have a brain and your brain needs to look like it has an edge. It needs to look like there is something sexy and unpredictable going on in there.
+**2. You need to look like you have a brain.** And your brain needs to look like it has an edge. It needs to look like there is something sexy and unpredictable going on in there.
 
-3\. You need to look bigger than your CV. Everyone has a CV. Most people have a portfolio. How can you look bigger? How can you weave in other things in which you're an original gangster? The rest of you.
+**3. You need to look bigger than your CV.** Everyone has a CV. Most people have a portfolio. How can you look bigger? How can you weave in other things in which you're an original gangster? The rest of you.
 
 The lazy way to do a strategy portfolio is to treat it like a high school assignment, where you get a bunch of your work, and write about it without giving a shit about the person reading it. Blah blah blah. When you take someone who knows what they’re doing through this kind of portfolio you’ll hear “Uh-huh Uh-huh Uh-huh” but the person is saying “Next, next, next. Hurry up and get to a point, any point.”
 
