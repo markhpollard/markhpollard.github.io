@@ -18,6 +18,8 @@ Strategy portfolios aren't difficult. The Terrible Twos are difficult. The Terri
  
 Flower arrangements are dainty. You diagnose your mood and creative appetite, you peruse your flower shop, then you select, cut, and arrange, and make someone happy or less sad. This is also what a strategy portfolio must do - make someone happy or less sad.
  
+{% include promo.html %}
+
 Like [account planning](https://www.markpollard.net/how-to-do-account-planning-a-simple-approach/), you can't really get a strategy portfolio wrong but you can get it dull. A dull portfolio contains boring work, long words, and it looks like it was made simply because that's the thing one does nowadays, isn't it?
  
 For a second, let's try empathy. Assuming you make your way through the young recruiters who may or may not know much about what you do or want to do but they know they have a seat to fill, the person reviewing your portfolio online or in person has probably contemplated and contributed to hundreds of projects. Your strategy portfolio needs to smell like one of these. 
