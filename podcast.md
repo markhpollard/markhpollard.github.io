@@ -8,11 +8,11 @@ featured: https://anchor.fm/sweathead-with-mark-pollard/episodes/Applying-Strate
 layout: podcast
 ---
 
-*1. [Applying Strategy To Life](https://anchor.fm/sweathead-with-mark-pollard/episodes/Applying-Strategy-To-Life---Heather-LeFevre--Strategist--Author-e2splb)- Heather LeFevre
+# 1. [Applying Strategy To Life](https://anchor.fm/sweathead-with-mark-pollard/episodes/Applying-Strategy-To-Life---Heather-LeFevre--Strategist--Author-e2splb)- Heather LeFevre
 
-*2. [Take Creative Risks Or Else](https://anchor.fm/sweathead-with-mark-pollard/episodes/Take-Creative-Risks-Or-Else---Suzy-Batiz--Poo-Pourri-e2thoj) - Suzy Batiz, Poo-Pourri
+2. [Take Creative Risks Or Else](https://anchor.fm/sweathead-with-mark-pollard/episodes/Take-Creative-Risks-Or-Else---Suzy-Batiz--Poo-Pourri-e2thoj) - Suzy Batiz, Poo-Pourri
 
-*3. [It's Noisy In My Head](https://anchor.fm/sweathead-with-mark-pollard/episodes/Its-Noisy-In-My-Head---Natalie-Tran--National-Treasure-e2pnfp) - Natalie Tran, National Treasure
+3. [It's Noisy In My Head](https://anchor.fm/sweathead-with-mark-pollard/episodes/Its-Noisy-In-My-Head---Natalie-Tran--National-Treasure-e2pnfp) - Natalie Tran, National Treasure
 
 4. [What Am I Doing With My Life?](https://anchor.fm/sweathead-with-mark-pollard/episodes/What-Am-I-Doing-With-My-Life----Sam-Hammington--Actor-e2oor8) - Sam Hammington, Actor
 
