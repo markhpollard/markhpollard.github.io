@@ -1,5 +1,5 @@
 ---
-title: 'Sweathead by Mark Pollard - life support for the ears of independent thinkers '
+title: Sweathead by Mark Pollard - life support for the ears of independent thinkers
 permalink: "/sweathead-podcast/"
 h1: 'Sweathead: You Take Practice'
 description: This is Sweathead with Mark Pollard, a podcast where we discuss strategy
@@ -9,10 +9,32 @@ featured: https://anchor.fm/sweathead-with-mark-pollard/embed/episodes/The-Searc
 layout: podcast
 ---
 
-1. [What Makes People Buy Things - Richard Shotton](https://anchor.fm/sweathead-with-mark-pollard/episodes/What-Makes-People-Buy-Things---Richard-Shotton-e1af1i)
-2. [Strategy Jobs. What's Going On? - Erin Noel](https://anchor.fm/sweathead-with-mark-pollard/episodes/Strategy-Jobs--Whats-Going-On----Erin-Noel-e1dcup)
-3. [An Executive Strategy Director Who Grew Up Digital - Rachel Mercer](https://anchor.fm/sweathead-with-mark-pollard/episodes/An-Executive-Strategy-Director-Who-Grew-Up-Digital---Rachel-Mercer-e1g3qa)
-4. [Run, Strategy Department, Run! - Agathe Guerrier](https://anchor.fm/sweathead-with-mark-pollard/episodes/Run--Strategy-Department--Run----Agathe-Guerrier-e1o81s/a-a48720)
-5. [Planning Is For Punks - Gareth Kay](https://anchor.fm/sweathead-with-mark-pollard/episodes/Planning-Is-For-Punks---Gareth-Kay-e1im3e)
-6. [Is Advertising For You Anymore? - Jocelyn Lai](https://anchor.fm/sweathead-with-mark-pollard/episodes/Is-Advertising-For-You-Anymore----Jocelyn-Lai-e1h5cs)
-7. [The Philosophy of Strategy - Rob Estreitinho](https://anchor.fm/sweathead-with-mark-pollard/episodes/The-Philosophy-of-Strategy---Rob-Estreitinho-e1b413)
+ 1. [Applying Strategy To Life](https://anchor.fm/sweathead-with-mark-pollard/episodes/Applying-Strategy-To-Life---Heather-LeFevre--Strategist--Author-e2splb) - Heather LeFevre, Author & Strategist
+
+ 2. [Take Creative Risks Or Else](https://anchor.fm/sweathead-with-mark-pollard/episodes/Take-Creative-Risks-Or-Else---Suzy-Batiz--Poo-Pourri-e2thoj) - Suzy Batiz, Poo-Pourri
+
+ 3. [It's Noisy In My Head](https://anchor.fm/sweathead-with-mark-pollard/episodes/Its-Noisy-In-My-Head---Natalie-Tran--National-Treasure-e2pnfp) - Natalie Tran, National Treasure
+
+ 4. [What Am I Doing With My Life?](https://anchor.fm/sweathead-with-mark-pollard/episodes/What-Am-I-Doing-With-My-Life----Sam-Hammington--Actor-e2oor8) - Sam Hammington, Actor
+
+ 5. [Freelance Strategy For Life. Or Is It?](https://anchor.fm/sweathead-with-mark-pollard/episodes/Freelance-Strategy-For-Life--Or-Is-It----Camilla-Grey-Petty--Freelance-Strategist-e2kenc) - Camilla Grey Petty
+
+ 6. [What If Strategy Were Stand-up Comedy?](https://anchor.fm/sweathead-with-mark-pollard/episodes/What-If-Strategy-Were-Stand-up-Comedy----Fanny-RK--Strategist-e2hvvq) - Fanny RK, Strategist
+
+ 7. [The Strategy and Planning Scrapbook](https://anchor.fm/sweathead-with-mark-pollard/episodes/The-Strategy-and-Planning-Scrapbook---Alex-Morris--Strategist-e2fjp4) - Alex Morris, Strategist
+
+ 8. [Get Your Head Into Words](https://anchor.fm/sweathead-with-mark-pollard/episodes/Get-Your-Head-Into-Words---Justine-Bloome--CSO-e2iiqk) - Justine Bloome, CSO
+
+ 9. [What Makes People Buy Things - Richard Shotton](https://anchor.fm/sweathead-with-mark-pollard/episodes/What-Makes-People-Buy-Things---Richard-Shotton-e1af1i)
+
+10. [Strategy Jobs. What's Going On? - Erin Noel](https://anchor.fm/sweathead-with-mark-pollard/episodes/Strategy-Jobs--Whats-Going-On----Erin-Noel-e1dcup)
+
+11. [An Executive Strategy Director Who Grew Up Digital - Rachel Mercer](https://anchor.fm/sweathead-with-mark-pollard/episodes/An-Executive-Strategy-Director-Who-Grew-Up-Digital---Rachel-Mercer-e1g3qa)
+
+12. [Run, Strategy Department, Run! - Agathe Guerrier](https://anchor.fm/sweathead-with-mark-pollard/episodes/Run--Strategy-Department--Run----Agathe-Guerrier-e1o81s/a-a48720)
+
+13. [Planning Is For Punks - Gareth Kay](https://anchor.fm/sweathead-with-mark-pollard/episodes/Planning-Is-For-Punks---Gareth-Kay-e1im3e)
+
+14. [Is Advertising For You Anymore? - Jocelyn Lai](https://anchor.fm/sweathead-with-mark-pollard/episodes/Is-Advertising-For-You-Anymore----Jocelyn-Lai-e1h5cs)
+
+15. [The Philosophy of Strategy - Rob Estreitinho](https://anchor.fm/sweathead-with-mark-pollard/episodes/The-Philosophy-of-Strategy---Rob-Estreitinho-e1b413)
