@@ -16,8 +16,3 @@ layout: podcast
 
 4. [What Am I Doing With My Life?](https://anchor.fm/sweathead-with-mark-pollard/episodes/What-Am-I-Doing-With-My-Life----Sam-Hammington--Actor-e2oor8) - Sam Hammington, Actor
 
-5. [Freelance Strategy For Life. Or Is It?](https://anchor.fm/sweathead-with-mark-pollard/episodes/Freelance-Strategy-For-Life--Or-Is-It----Camilla-Grey-Petty--Freelance-Strategist-e2kenc) - Camilla Grey Petty
-
-6. [What If Strategy Were Stand-up Comedy?](https://anchor.fm/sweathead-with-mark-pollard/episodes/What-If-Strategy-Were-Stand-up-Comedy----Fanny-RK--Strategist-e2hvvq) - Fanny RK, Strategist
-
-7. [The Strategy and Planning Scrapbook](https://anchor.fm/sweathead-with-mark-pollard/episodes/The-Strategy-and-Planning-Scrapbook---Alex-Morris--Strategist-e2fjp4) - Alex Morris, Strategist
