@@ -116,7 +116,7 @@ But I'll let you in on a trick - you can define the word any way you'd like to. 
 
 Here’s a scribble of an account planning process from 2010. You can click the image for the larger version.
 
-![Approach-to-strategy-Mark-Pollard-2010.jpg](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg "An approach to account planning - in a drawing")
+[![Approach-to-strategy-Mark-Pollard-2010.jpg](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg "An approach to account planning - in a drawing")](http://www.markpollard.net/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg)
 
 [You can also find it on Instagram](https://www.instagram.com/p/BsOiULahSdE/) and ask questions about it or share it there.
 
@@ -331,7 +331,11 @@ Regardless, welcome to your career. There aren't many other careers where you ge
 ## **Now**
 
 1. Please share this article with at least one person
+
 2. Take this sick [brand strategy Skillshare class](http://skl.sh/markpollard)
+
 3. Join my [email newsletter](https://markpollard.us1.list-manage.com/subscribe?u=dfb4c80f84a49d4cfc0d34490&id=c66948a2fc)
+
 4. Come find me on [Twitter](http://www.twitter.com/markpollard), [Instagram](http://www.instagram.com/markpollard), and [LinkedIn](https://www.linkedin.com/in/markpollardstrategist/)
+
 5. Join thousands of strategists in [Sweathead](http://www.sweathead.co) on Facebook
