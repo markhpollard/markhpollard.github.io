@@ -22,15 +22,3 @@ layout: podcast
  6. [What If Strategy Were Stand-up Comedy?](https://anchor.fm/sweathead-with-mark-pollard/episodes/What-If-Strategy-Were-Stand-up-Comedy----Fanny-RK--Strategist-e2hvvq) - Fanny RK, Strategist
 
  7. [The Strategy and Planning Scrapbook](https://anchor.fm/sweathead-with-mark-pollard/episodes/The-Strategy-and-Planning-Scrapbook---Alex-Morris--Strategist-e2fjp4) - Alex Morris, Strategist
-
- 8. [Get Your Head Into Words](https://anchor.fm/sweathead-with-mark-pollard/episodes/Get-Your-Head-Into-Words---Justine-Bloome--CSO-e2iiqk) - Justine Bloome, CSO
-
- 9. [What Makes People Buy Things - Richard Shotton](https://anchor.fm/sweathead-with-mark-pollard/episodes/What-Makes-People-Buy-Things---Richard-Shotton-e1af1i)
-
-10. [Strategy Jobs. What's Going On? - Erin Noel](https://anchor.fm/sweathead-with-mark-pollard/episodes/Strategy-Jobs--Whats-Going-On----Erin-Noel-e1dcup)
-
-11. [An Executive Strategy Director Who Grew Up Digital - Rachel Mercer](https://anchor.fm/sweathead-with-mark-pollard/episodes/An-Executive-Strategy-Director-Who-Grew-Up-Digital---Rachel-Mercer-e1g3qa)
-
-12. [Run, Strategy Department, Run! - Agathe Guerrier](https://anchor.fm/sweathead-with-mark-pollard/episodes/Run--Strategy-Department--Run----Agathe-Guerrier-e1o81s/a-a48720)
-
-13. [Planning Is For Punks - Gareth Kay](https://anchor.fm/sweathead-with-mark-pollard/episodes/Planning-Is-For-Punks---Gareth-Kay-e1im3e)
