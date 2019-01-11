@@ -9,18 +9,14 @@ categories:
 - account planning portfolio
 tags:
 - Careers
-summary: A strategy portfolio is not an excuse to gather together a bunch of stuff.
-  It is an act of brinkmanship.
+summary: A portfolio is not an excuse to gather together a bunch of stuff. It is an
+  act of brinkmanship.
 image: "/uploads/you-can-get-it-dull.jpg"
 ---
 
-Strategy portfolios aren't difficult. The Terrible Twos are difficult. The Terrible Twos are the third years of our lives, a year in which we become hooligans in the home. This is a state to which we all return decades later. No, strategy portfolios aren't like this  - strategy  portfolios are dainty.
+Strategy portfolios aren't difficult. The Terrible Twos are difficult. The Terrible Twos are the third year of our lives, a year in which we become hooligans in the home. This is a state to which we all return decades later. No, strategy portfolios aren't like this  - strategy  portfolios are dainty.
 
 Flower arrangements are dainty. You diagnose your mood and creative appetite, you peruse your flower shop, then you select, cut, and arrange, and make someone happy or less sad. This is also what a strategy portfolio must do - make someone happy or less sad.
-
-{% include promo.html %}
-
-![you-can-get-it-dull.jpg](/uploads/you-can-get-it-dull.jpg)
 
 Like [account planning](https://www.markpollard.net/how-to-do-account-planning-a-simple-approach/), you can't really get a strategy portfolio wrong but you can get it dull. A dull portfolio contains boring work, long words, and it looks like it was made simply because that's the thing one does nowadays, isn't it?
 
@@ -28,56 +24,56 @@ For a second, let's try empathy. Assuming you make your way through the young re
 
 Also, strategy is an informed opinion about how to win. So have an opinion. Otherwise, try a different career.
 
+\[Opinion\]
 ![strategy-is-an-informed-opinion.jpeg](/uploads/strategy-is-an-informed-opinion.jpeg)
 
 If you're new to the industry and you're applying to a place that is good at account planning (and there are many places with account planners that don't do much account planning), you have this riddle to solve:
 
-**1. You need to look legit.** You need to look like you have a sense of the history of your industry, the basic language and concepts, a way with research, and a way with words.
+* You need to look legit. You need to look like you have a sense of the history of your industry, the basic language and concepts, a way with research, and a way with words.
 
-**2. You need to look like you have a brain.** And your brain needs to look like it has an edge. It needs to look like there is something sexy and unpredictable going on in there.
+* You need to look like you have a brain and your brain needs to look like it has an edge. It needs to look like there is something sexy and unpredictable going on in there.
 
-**3. You need to look bigger than your CV.** Everyone has a CV. Most people have a portfolio. How can you look bigger? How can you weave in other things in which you're an original gangster? The rest of you.
+* You need to look bigger than your CV. Everyone has a CV. Most people have a portfolio. How can you look bigger? How can you weave in other things in which you're an original gangster? The rest of you.
 
 The lazy way to do a strategy portfolio is to treat it like a high school assignment, where you get a bunch of your work, and write about it without giving a shit about the person reading it. Blah blah blah. When you take someone who knows what they’re doing through this kind of portfolio you’ll hear “Uh-huh Uh-huh Uh-huh” but the person is saying “Next, next, next. Hurry up and get to a point, any point.”
 
 **A lazy case study does this:**
 
-1\. It features a boring, shallow definition of the business or brand problem.
+* It features a boring, shallow definition of the business or brand problem.
 
-2\. It takes the original problem at face value.
+* It takes the original problem at face value.
 
-3\. It talks about awareness or relevance issues as the things to solve - yawn.
+* It talks about awareness or relevance issues as the things to solve - yawn.
 
-4\. It lumbers from one long word to another with generic statistics thrown in.
+* It lumbers from one long word to another with generic statistics thrown in.
 
-5\. It shows boring work.
+* It shows boring work.
 
-6\. It lacks a point of view.
+* It lacks a point of view.
 
 **A solid case study will cover these things:**
 
-1\. The brief as you received it
+* The brief as you received it
 
-2\. The research you did
+* The research you did
 
-3\. How you re-framed the brief
+* How you re-framed the brief
 
-4\. A sharpened or different audience definition
+* A sharpened or different audience definition
 
-5\. The problem you identified and proof it was the problem
+* The problem you identified and proof it was the problem
 
-6\. An insight that sheds new light on the problem
+* An insight that sheds new light on the problem
 
-7\. A new way of thinking about the competition or culture
+* A new way of thinking about the competition or culture
 
-8\. A new way of thinking about the product or brand
+* A new way of thinking about the product or brand
 
-9\. The work the brief inspired
+* The work the brief inspired
 
-10\. Whether the work worked
+* Whether the work worked
 
-
-Imagine this diagram below is a dart board. Try to hit at least two of these things. These are ideas so if you hit two ideas per case study, you’ll have a good conversation, which is what a good interview is.
+Imagine this diagram is a dart board and try to hit at least two of these things. These are ideas (and here's [how to explain an idea](https://www.markpollard.net/how-to-explain-an-idea/) are) so if you hit two ideas per case study, you’ll have a good conversation. This is what a good interview is.
 
 ![strategy-framework-mark-pollard.jpg](/uploads/strategy-framework-mark-pollard.jpg)
 
@@ -99,14 +95,16 @@ It's primal.
 
 And if you share your strategy portfolio with an account planner who doesn't want this and they hire you anyway, good luck doing good planning with them. Your presentations will be tidy and full of bullet points and highly agreeable unlike you when you were in your Terrible Twos.
 
-## **Now**
-
 1. Please share this article with at least one person
+   </br>
 
 2. Take this sick [brand strategy Skillshare class](http://skl.sh/markpollard)
+   </br>
 
 3. Join my [email newsletter](https://markpollard.us1.list-manage.com/subscribe?u=dfb4c80f84a49d4cfc0d34490&id=c66948a2fc)
+   </br>
 
 4. Come find me on [Twitter](http://www.twitter.com/markpollard), [Instagram](http://www.instagram.com/markpollard), and [LinkedIn](https://www.linkedin.com/in/markpollardstrategist/)
+   </br>
 
 5. Join thousands of strategists in [Sweathead](http://www.sweathead.co) on Facebook
