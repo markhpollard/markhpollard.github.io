@@ -2,10 +2,9 @@
 title: Sweathead by Mark Pollard - a strategy podcast
 permalink: "/sweathead-podcast/"
 h1: 'Sweathead: You Take Practice'
-description: This is Sweathead with Mark Pollard, a podcast where we discuss strategy
-  and ideas - what these things are, how to get good at them, and how to earn money
-  from being good at them.
-featured: https://anchor.fm/sweathead-with-mark-pollard/embed/episodes/The-Search-Of-Strategy---Michael-King-e1nral/a-a475ic
+description: Sweathead is a podcast where we discuss strategy and ideas - what these
+  things are, how to get good at them, and how to earn money from being good at them.
+featured: https://anchor.fm/sweathead-with-mark-pollard/episodes/Applying-Strategy-To-Life---Heather-LeFevre--Strategist--Author-e2splb
 layout: podcast
 ---
 
