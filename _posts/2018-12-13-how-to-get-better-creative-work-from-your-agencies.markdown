@@ -27,15 +27,13 @@ The four main reasons marketers don’t get better work from their agencies:
 
 4. They want process for the sake of process
 
-\[[Share this Tweet](https://twitter.com/markpollard/status/1072668809058795520)\]
-
-Marketers miss the point when they seek obedience from agencies they try to dominate. This is operating from a place of insecurity. Yes, there’s a transaction but the people doing the work are trying to do significant work. Meet them there. Don’t beat them there. \[[Share this Tweet](https://twitter.com/markpollard/status/1072845780422135809)\]
+Marketers miss the point when they seek obedience from agencies they try to dominate. This is operating from a place of insecurity. Yes, there’s a transaction but the people doing the work are trying to do significant work. Meet them there. Don’t beat them there.
 
 {% include promo.html %}
 
 It isn't easy to do marketing or work in an agency right now. Perhaps it never was. The following ten points might help.
 
-You can download this as a [PDF](http://www.markpollard.net/uploads/How-to-get-better-creative-work.pdf) or [jpeg](http://www.markpollard.net/uploads/How-to-get-better-creative-work.jpeg). You can find it on [Instagram](https://www.instagram.com/p/BrS480ChXkT/) and [share in on Twitter](https://twitter.com/markpollard/status/1072938399097589760), too.
+You can download this as a [PDF](http://www.markpollard.net/uploads/How-to-get-better-creative-work.pdf) or [jpeg](http://www.markpollard.net/uploads/How-to-get-better-creative-work.jpeg). You can find it on [Instagram](https://www.instagram.com/p/BrS480ChXkT/), too.
 
 **1. Tame the Crazymakers.**
 Julia Cameron’s word. Each company has them. Self-important Tasmanian devils who frenzy into rooms, thrust their status at people, and leave.
