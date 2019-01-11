@@ -16,9 +16,9 @@ summary: Over 90,000 people have read this guide to account planning. It include
 image: "/uploads/strategy-is-an-informed-opinion.jpeg"
 ---
 
-![strategy-is-an-informed-opinion.jpeg](/api/v2/sites/5b96d0a089ac667088e212a8/source/_uploads/strategy-is-an-informed-opinion.jpeg?download "Strategy is an informed opinion")
+![strategy-is-an-informed-opinion.jpeg](/uploads/strategy-is-an-informed-opinion.jpeg "Strategy is an informed opinion")
 
-> Hey, [you can listen to this article](https://anchor.fm/sweathead-with-mark-pollard/episodes/How-To-Do-Account-Planning-e1l427/a-a40f36), too.
+--> Hey, [you can listen to this article](https://anchor.fm/sweathead-with-mark-pollard/episodes/How-To-Do-Account-Planning-e1l427/a-a40f36), too.
 
 ## Account planning is simple
 
@@ -56,7 +56,7 @@ Account planning is part-science and part-intuition. But it’s closer to art th
 
 Art helps people see themselves and the worlds in which they live with more truth. An artist will gather information, generate ideas, and then display an idea to which people can choose to catch up and with which they can update their mental operating systems.
 
-That account planning is art is a dangerous idea only if you are dogmatic with the idea. Some people will need to front-load the word "art" with an adjective such as "commercial" for accuracy; other people will relish their disgust at the statement because it places planning far from the idea of planning as a marketing science and they'll fear it will lead to reckless planning, but here's the thing: planning is better when it starts reckless.
+That account planning is art is a dangerous idea only if you are dogmatic with the idea. Some people will need to front-load the word "art" with an adjective such as "commercial" for accuracy; other people will relish their disgust at the statement because it places planning far from the idea of planning as a marketing science and they'll fear it will lead to reckless planning, but here's the thing: planning is better when it starts wreckless.
 
 The fallback argument is this:
 
@@ -116,7 +116,7 @@ But I'll let you in on a trick - you can define the word any way you'd like to. 
 
 Here’s a scribble of an account planning process from 2010. You can click the image for the larger version.
 
-![Approach-to-strategy-Mark-Pollard-2010.jpg](/api/v2/sites/5b96d0a089ac667088e212a8/source/_uploads/Approach-to-strategy-Mark-Pollard-2010.jpg?download "An approach to account planning - in a drawing")
+![Approach-to-strategy-Mark-Pollard-2010.jpg](/uploads/Approach-to-strategy-Mark-Pollard-2010.jpg "An approach to account planning - in a drawing")
 
 [You can also find it on Instagram](https://www.instagram.com/p/BsOiULahSdE/) and ask questions about it or share it there.
 
@@ -134,7 +134,7 @@ The slow-moving, political companies will want a process that's more difficult a
 
 For these reasons, I tend to focus my thinking on this rubric now:
 
-![strategy-framework-mark-pollard.jpg](/api/v2/sites/5b96d0a089ac667088e212a8/source/_uploads/strategy-framework-mark-pollard.jpg?download "A strategy framework")
+![strategy-framework-mark-pollard.jpg](/uploads/strategy-framework-mark-pollard.jpg "A strategy framework")
 
 This rubric assumes interrogation of the business issue and the audience but it tries to capture four ideas that, when captured, are wonderful forcing functions. Here's what they try to force:
 
@@ -196,7 +196,7 @@ These people are very real to me because I see hundreds of faces flash across th
 
 The challenges with personas are that:
 
-1. Someone with whom you work read some article on some website that made fun of personas and will now disparage them.
+1. Someone with whom you work reads some article on some website that made fun of personas and will now disparage them.
 
 2. Someone who's into data will mention the phrase: "Well, it's a segment of one."
 
@@ -331,11 +331,7 @@ Regardless, welcome to your career. There aren't many other careers where you ge
 ## **Now**
 
 1. Please share this article with at least one person
-
 2. Take this sick [brand strategy Skillshare class](http://skl.sh/markpollard)
-
 3. Join my [email newsletter](https://markpollard.us1.list-manage.com/subscribe?u=dfb4c80f84a49d4cfc0d34490&id=c66948a2fc)
-
 4. Come find me on [Twitter](http://www.twitter.com/markpollard), [Instagram](http://www.instagram.com/markpollard), and [LinkedIn](https://www.linkedin.com/in/markpollardstrategist/)
-
 5. Join thousands of strategists in [Sweathead](http://www.sweathead.co) on Facebook
