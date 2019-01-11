@@ -8,7 +8,7 @@ featured: https://anchor.fm/sweathead-with-mark-pollard/episodes/Applying-Strate
 layout: podcast
 ---
 
-
+# 
 1. [Applying Strategy To Life - Heather LeFevre](https://anchor.fm/sweathead-with-mark-pollard/episodes/Applying-Strategy-To-Life---Heather-LeFevre--Strategist--Author-e2splb) 
 
 2. [Take Creative Risks Or Else - Suzy Batiz, Poo-Pourri](https://anchor.fm/sweathead-with-mark-pollard/episodes/Take-Creative-Risks-Or-Else---Suzy-Batiz--Poo-Pourri-e2thoj)
