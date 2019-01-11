@@ -34,7 +34,3 @@ layout: podcast
 12. [Run, Strategy Department, Run! - Agathe Guerrier](https://anchor.fm/sweathead-with-mark-pollard/episodes/Run--Strategy-Department--Run----Agathe-Guerrier-e1o81s/a-a48720)
 
 13. [Planning Is For Punks - Gareth Kay](https://anchor.fm/sweathead-with-mark-pollard/episodes/Planning-Is-For-Punks---Gareth-Kay-e1im3e)
-
-14. [Is Advertising For You Anymore? - Jocelyn Lai](https://anchor.fm/sweathead-with-mark-pollard/episodes/Is-Advertising-For-You-Anymore----Jocelyn-Lai-e1h5cs)
-
-15. [The Philosophy of Strategy - Rob Estreitinho](https://anchor.fm/sweathead-with-mark-pollard/episodes/The-Philosophy-of-Strategy---Rob-Estreitinho-e1b413)
