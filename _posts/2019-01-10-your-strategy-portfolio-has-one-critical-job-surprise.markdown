@@ -26,7 +26,6 @@ For a second, let's try empathy. Assuming you make your way through the young re
 
 Also, strategy is an informed opinion about how to win. So have an opinion. Otherwise, try a different career.
 
-\[Opinion\]
 ![strategy-is-an-informed-opinion.jpeg](/uploads/strategy-is-an-informed-opinion.jpeg)
 
 If you're new to the industry and you're applying to a place that is good at account planning (and there are many places with account planners that don't do much account planning), you have this riddle to solve:
