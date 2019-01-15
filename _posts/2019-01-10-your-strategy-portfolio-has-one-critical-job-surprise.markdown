@@ -90,22 +90,15 @@ And don't forget the second part of the challenge: to get and keep the attention
 
 Like flower arrangements, your job is to make this person happy or less sad, or maybe even jealous.
 
-What you're trying to do is poke the person in the brains and think, "Whoa, I didn't see that coming." You want to give the person a sense of intellectual danger, to want you, to want to go into battle next to you.
+You're trying to poke the person in the brains and make them think, "Whoa, I didn't see that coming." You want to give the person a sense of intellectual danger, to want you, to want to go into battle next to you.
 
 It's primal.
 
 And if you share your strategy portfolio with an account planner who doesn't want this and they hire you anyway, good luck doing good planning with them. Your presentations will be tidy and full of bullet points and highly agreeable unlike you when you were in your Terrible Twos.
 
+##Now
 1. Please share this article with at least one person
-   
-
 2. Take this sick [brand strategy Skillshare class](http://skl.sh/markpollard)
-   
-
-3. Join my [email newsletter](https://markpollard.us1.list-manage.com/subscribe?u=dfb4c80f84a49d4cfc0d34490&id=c66948a2fc)
-   
-
+3. Join my [email newsletter](https://markpollard.us1.list-manage.com/subscribe?u=dfb4c80f84a49d4cfc0d34490&id=c66948a2fc) 
 4. Come find me on [Twitter](http://www.twitter.com/markpollard), [Instagram](http://www.instagram.com/markpollard), and [LinkedIn](https://www.linkedin.com/in/markpollardstrategist/)
-   
-
 5. Join thousands of strategists in [Sweathead](http://www.sweathead.co) on Facebook
