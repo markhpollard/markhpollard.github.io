@@ -96,7 +96,7 @@ It's primal.
 
 And if you share your strategy portfolio with an account planner who doesn't want this and they hire you anyway, good luck doing good planning with them. Your presentations will be tidy and full of bullet points and highly agreeable unlike you when you were in your Terrible Twos.
 
-#Now
+**Now**
 1. Please share this article with at least one person
 2. Take this sick [brand strategy Skillshare class](http://skl.sh/markpollard)
 3. Join my [email newsletter](https://markpollard.us1.list-manage.com/subscribe?u=dfb4c80f84a49d4cfc0d34490&id=c66948a2fc) 
