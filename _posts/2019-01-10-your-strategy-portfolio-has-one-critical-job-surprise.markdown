@@ -78,7 +78,7 @@ Imagine this diagram is a dart board and try to hit at least two of these things
 
 ![strategy-framework-mark-pollard.jpg](/uploads/strategy-framework-mark-pollard.jpg)
 
-Read [How to do account planning - a simple approach](https://www.markpollard.net/how-to-do-account-planning-a-simple-approach/) for details.
+Read [How to do account planning - a simple approach](https://www.markpollard.net/how-to-do-account-planning-a-simple-approach/) for details about this diagram.
 
 Yes, there's room for a lot of other information but you want to be able to get the guts of the story across in a minute or less (or 200 words or less).
 
