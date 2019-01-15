@@ -82,9 +82,9 @@ Read [How to do account planning - a simple approach](https://www.markpollard.ne
 
 Yes, there's room for a lot of other information but you want to be able to get the guts of the story across in a minute or less (or 200 words or less).
 
-Yes, you need to consider what to do if your strategy work was good but it didn't lead to creative output, if the work is confidential, and if what you did was a standalone strategy deliverable.
+Yes, you need to consider what to do if your strategy work was good but it didn't lead to good creative output, if the work is confidential, or if what you did was a standalone strategy deliverable and it didn't lead to any creative output.
 
-And you need to present your thinking without backing out of it when asked, “Why did you do that?” or “How did you find that out?” Keep in the portfolio and project without going into excuses about your colleagues or peers at college or portfolio school. You’ll waste time and energy and distract yourself from your goal: land at least one unexpected and defensible idea per case study. That’s it. Simple, right?
+And you need to present your thinking without backing out of it when someone asks, “Why did you do that?” or “How did you find that out?” Keep in the portfolio and project without going into excuses about your colleagues or peers at college or portfolio school. You’ll waste time and energy and distract yourself from your goal: land at least one unexpected and defensible idea per case study. That’s it. Simple, right?
 
 And don't forget the second part of the challenge: to get and keep the attention and memory of the people reading your portfolio when you're not with your portfolio.
 
