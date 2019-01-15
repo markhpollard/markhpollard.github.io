@@ -74,7 +74,7 @@ The lazy way to do a strategy portfolio is to treat it like a high school assign
 
 * Whether the work worked
 
-Imagine this diagram is a dart board and try to hit at least two of these things. These are ideas (and here's [how to explain an idea](https://www.markpollard.net/how-to-explain-an-idea/) ) so if you hit two ideas per case study, you’ll have a good conversation. A good conversation is what a good interview is. If an interviewer talks at you the whole time, they are either nervous or a narcissit or struggling to hire people. You can diagnose this after you accept the job offer.
+Imagine this diagram is a dart board and try to hit at least two of these things. These are ideas (and here's what ideas are:[How to explain an idea](https://www.markpollard.net/how-to-explain-an-idea/)). If you hit two ideas per case study, you’ll have a good conversation. A good conversation is what a good interview is. If an interviewer talks at you the whole time, they are either nervous or a narcissist or struggling to hire people. You can diagnose this after you accept the job offer.
 
 ![strategy-framework-mark-pollard.jpg](/uploads/strategy-framework-mark-pollard.jpg)
 
