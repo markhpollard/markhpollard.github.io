@@ -30,10 +30,9 @@ So, feel free to get as clever as your ego requires with books on strategy, beha
 **1. [On Writing](https://amzn.to/2VTDUkS) by Stephen King**
 
 This is part-autobiography and part-advice on the craft of writing. The ideas that stuck with me, which are common in many books on writing are these:
-* Writing is rewriting - get it out and make it better as if you were solving a series of puzzles.
-* Write with the door shut - it's dangerous to let people into your words before you have them. Obviously, ready-ness is a subjective notion.
-* Read, write, read, write - Mr King follows a habit of input and output and tends to write every day.
-<br>
+1. Writing is rewriting - get it out and make it better as if you were solving a series of puzzles.
+2. Write with the door shut - it's dangerous to let people into your words before you have them. Obviously, ready-ness is a subjective notion.
+3. Read, write, read, write - Mr King follows a habit of input and output and tends to write every day.
 
 **2. [On Writing Well](https://amzn.to/2APj1P6) by William Zinsser**
 
