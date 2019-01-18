@@ -33,6 +33,7 @@ This is part-autobiography and part-advice on the craft of writing. The ideas th
 * Writing is rewriting - get it out and make it better as if you were solving a series of puzzles.
 * Write with the door shut - it's dangerous to let people into your words before you have them. Obviously, ready-ness is a subjective notion.
 * Read, write, read, write - Mr King follows a habit of input and output and tends to write every day.
+<br>
 
 **2. [On Writing Well](https://amzn.to/2APj1P6) by William Zinsser**
 
