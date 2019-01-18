@@ -30,9 +30,12 @@ So, feel free to get as clever as your ego requires with books on strategy, beha
 **1. [On Writing](https://amzn.to/2VTDUkS) by Stephen King**
 
 This is part-autobiography and part-advice on the craft of writing. The ideas that stuck with me, which are common in many books on writing are these:
-1. Writing is rewriting - get it out and make it better as if you were solving a series of puzzles.
-2. Write with the door shut - it's dangerous to let people into your words before you have them. Obviously, ready-ness is a subjective notion.
-3. Read, write, read, write - Mr King follows a habit of input and output and tends to write every day.
+
+**Writing is rewriting** - get it out and make it better as if you were solving a series of puzzles.
+
+**Write with the door shut** - it's dangerous to let people into your words before you have them. Obviously, ready-ness is a subjective notion.
+
+**Read, write, read, write** - Mr King follows a habit of input and output and tends to write every day.
 
 **2. [On Writing Well](https://amzn.to/2APj1P6) by William Zinsser**
 
@@ -53,7 +56,11 @@ As with all of the books here, this is a book you can return to and will need to
 **Now**
 
 1. Please share this article with at least one person
+
 2. Take this sick [brand strategy Skillshare class](http://skl.sh/markpollard)
+
 3. Join my [email newsletter](https://markpollard.us1.list-manage.com/subscribe?u=dfb4c80f84a49d4cfc0d34490&id=c66948a2fc)
+
 4. Come find me on [Twitter](http://www.twitter.com/markpollard), [Instagram](http://www.instagram.com/markpollard), and [LinkedIn](https://www.linkedin.com/in/markpollardstrategist/)
+
 5. Join thousands of strategists in [Sweathead](http://www.sweathead.co) on Facebook
