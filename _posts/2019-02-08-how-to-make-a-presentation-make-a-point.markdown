@@ -81,14 +81,14 @@ Three examples for this article:
 2. How To Make A Presentation Make A Point (using “make” in concrete and figurative ways)
 3. How To Make A Pointy Presentation (a shorter and less obvious version of 2.)
 
-You can settle on a title now or keep a couple alive. 
+<br>You can settle on a title now or keep a couple alive. 
 
 The real challenge is re-visiting your Information Monster with your word and title in mind, knowing you’ll have to do three things:
 1. Select the information that fits
 2. Let go of information that does not fit
 3. Re-write your points based on your word and title
-<br>
-# The presentation plan
+
+<br># The presentation plan
 Stories tend to have three acts. As I plan my presentation, I plot them out in this:
 
 ![Pointy-Presentations-3-Acts.jpg](/uploads/Pointy-Presentations-3-Acts.jpg)
@@ -104,18 +104,20 @@ Act I tends to start with the regular routine and happens in the "real world," w
 * A statistic (“Did you know that 99% of presentations don’t make a point?”)
 * A small moment (“So I was sitting in a room and could see someone’s mouth moving…”)
 
-Act II breaks the routine and happens in the "other world," the one that is possible with the solution that you're presenting. It often ends with a Long Dark Night (almost beaten and ruminating, the hero collects herself and returns for Act III). In a business presentation, a Long Dark Night might be a “What If We Don’t Do This?” provocation.
+<br>Act II breaks the routine and happens in the "other world," the one that is possible with the solution that you're presenting. It often ends with a Long Dark Night (almost beaten and ruminating, the hero collects herself and returns for Act III). In a business presentation, a Long Dark Night might be a “What If We Don’t Do This?” provocation.
 
-Act III returns to some kind of routine in the "real world."  It tends to finish with a closing image that is the opposite of the opening image. Writers also call this follow-through—when you mention an idea or anecdote early and then re-frame it later. Two examples for this article:
+Act III returns to some kind of routine in the "real world."  It tends to finish with a closing image that is the opposite of the opening image. Writers also call this follow-through—when you mention an idea or anecdote early and then re-frame it later. 
+
+<br>Two examples for this article:
 * We conclude by mimicking Oprah and we say, “Now you get a point. You get a point. You get a point. You get a point. Look under your chairs, the presentation is there.”
 * Instead of doing an Anthony Robbins and getting everyone to walk on hot coals, we bring in a Balloon Fish and ask everyone to poke it so they can see how pointy it gets (if we did this we could even start with a story about a Balloon Fish)
 
-A fall-back structure for advertising presentations is no more complicated than:
+<br>A fall-back structure for advertising presentations is no more complicated than:
 1. Scene-setting: What We Did and What We Found (research, audience definition, problem definition, competitive analysis)
 2. Rising action: What We’ll Do About It (brand strategy, ideas, manifestos, channels, communications plan)
 3. Denouement: How We’ll Do It And Make It Work (team, process, metrics, budget)
 
-**Close:** How can you make your point end strong? You may like to summarize the three key things you discussed but don’t then turn to a slide that says, “Thanks.” You can get the group of people to do something, you can finish with a small story, you might play video of an interview you conducted. End, don’t disappear.
+<br>**Close:** How can you make your point end strong? You may like to summarize the three key things you discussed but don’t then turn to a slide that says, “Thanks.” You can get the group of people to do something, you can finish with a small story, you might play video of an interview you conducted. End, don’t disappear.
 
 **Keepsake:** What can you leave behind to keep the point alive? A typical leave-behind is a printed, bound version of your presentation. Cool. Swag is also common. Leaving behind a balloon fish aquarium? Now that’s a keepsake.
 
@@ -131,7 +133,7 @@ This tool - The Pointmaker - is high-tech but useful. Take a piece of paper, div
 * Prove a point
 * Help people understand what to do about the point
 
-This isn’t dogma but a basic slide layout might look like this:
+<br>This isn’t dogma but a basic slide layout might look like this:
 ![Pointy-Presentations-Slidehard.jpg](/uploads/Pointy-Presentations-Slidehard.jpg)
 
 And it might read like this:
