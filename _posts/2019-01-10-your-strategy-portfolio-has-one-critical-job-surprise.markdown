@@ -20,6 +20,8 @@ Flower arrangements are dainty. You diagnose your mood and creative appetite, yo
 
 ![you-can-get-it-dull.jpg](/uploads/you-can-get-it-dull.jpg)
 
+{% include promo.html %}
+
 Like [account planning](https://www.markpollard.net/how-to-do-account-planning-a-simple-approach/), you can't really get a strategy portfolio wrong but you can get it dull. A dull portfolio contains boring work, long words, and it looks like it was made simply because that's the thing one does nowadays, isn't it?
 
 For a second, let's try empathy. Assuming you make your way through the young recruiters who may or may not know much about what you do or want to do but they know they have a seat to fill, the person reviewing your portfolio online or in person has probably contemplated and contributed to hundreds of projects. Your strategy portfolio needs to smell like one of these.
@@ -87,6 +89,8 @@ Yes, you need to consider what to do if your strategy work was good but it didn'
 And you need to present your thinking without backing out of it when someone asks, “Why did you do that?” or “How did you find that out?” Keep the talk in the project and in your thinking about the project. Don't go into excuses about your colleagues or peers at college or portfolio school. You’ll waste time and energy and distract yourself from your goal: to land at least one unexpected and defensible idea per case study. That’s it. Simple, right?
 
 And don't forget the second part of the challenge: to get and keep the attention and memory of the people reading your portfolio when you're not with your portfolio.
+
+If you need to present a longer piece of thinking, borrow some of the techniques here: [How to make a presentation make a point](/how-to-make-a-presentation-make-a-point/).
 
 Like flower arrangements, your job is to make this person happy or less sad, or maybe even jealous.
 
