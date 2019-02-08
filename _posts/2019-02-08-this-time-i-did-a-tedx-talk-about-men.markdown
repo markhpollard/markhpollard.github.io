@@ -55,13 +55,13 @@ So, I ask you, how well do you really know the men in your life? And if you can 
 
 Today I want to share with you secrets in which I grew up. These secrets aren’t abnormal in the happening, just in the telling. I’m ready to shed this second skin if only to encourage more men to tell their stories and so you can point to one of your life’s men and say, “Look, you’re not alone. Now, let me in.”
 
-## The empty house, the book and the disappearance
+## The empty house, the book, and the disappearance
 
 In the 1980s, I always looked forward to early morning television. I’d get up at 5am and delicately select what to watch from five channels, two of which weren’t even yet awake themselves. Inevitably, I’d land on a show like “Lost in Space” that was really good just because it was on. When the ads appeared, I’d click through the channels to see if any others had sprung to life. Sometimes I’d hang out with the ABC’s station-closed test pattern and then jump back for some wild 1960s futurism. It was a busy few hours as the rest of the house slept.
 
 On one such morning when I was eight years old, I made my grand entrance into the living room, I looked across the backyard and I realized the rest of the house wasn’t sleeping at all. The garage was empty and I was by myself. 
 
-My dad had left a year or two earlier. I remember grabbing his leg as he calmly told me that he needed to leave. Then, I watched him walk to the same garage, get into his car and drive off. 
+My dad had left a year or two earlier. I remember grabbing his leg as he calmly told me that he needed to lgo. Then, I watched him walk to the same garage, get into his car, and drive off. 
 
 Realizing the house was empty, I did what any man of the house would do – I sat down and watched television, and then flinched at any noise that indicated the garage door could be opening.
 
