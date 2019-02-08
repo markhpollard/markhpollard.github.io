@@ -34,7 +34,7 @@ You’re here to do three things:
 2. Make people care about your point
 3. Ask for something
 
-We’ll focus on your point - how to get to it, how to structure it, and how to design it.
+<br> We’ll focus on your point - how to get to it, how to structure it, and how to design it.
 
 # First: Aim for story rainbows, not information monsters
 
