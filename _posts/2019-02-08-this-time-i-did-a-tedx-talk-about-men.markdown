@@ -71,9 +71,9 @@ Mind you, mum was a counselor, so the shocking things men did seemed simultaneou
 
 And we knew a lot of men. Mum ran a single’s club back when being divorced or being middle-aged and single were a strange taboo. Broken men – and women complaining about them – were a constant, if not physically then in eaves-dropped conversations. 
 
-Mum also occasionally had boyfriends, most of whom I found pretty odd. But when you repeatedly see the shock at another relationship ending dissolve into a desperate fear of growing old alone, you just stay in your room and hope something better than last time will happen this time.
+Mum also occasionally had boyfriends, most of whom I found pretty odd. But when you repeatedly see the shock of another relationship ending dissolve into a desperate fear of growing old alone, you just stay in your room and hope something better than last time will happen this time.
 
-So, I disappeared into an empty house whose walls spoke of breaking men and suffering women. I disappeared into studies – peaking with twelve-hour marathons. I disappeared into sport – when I turned to martial arts, I hit sandbags until I bled. I disappeared into poetry, inking my depressions onto paper. I disappeared into the music of angry men – it led me to create the first full-colour hip hop magazine in Australia. With all my disappearances, sometimes I cut my arms to see if I was still there. 
+So, I disappeared into an empty house whose walls spoke of breaking men and suffering women. I disappeared into study. I peaked with twelve-hour marathons. I disappeared into sport. When I turned to martial arts, I hit sandbags until I bled as if skin-shaven knuckles could achieve anything. I disappeared into poetry. I inked my depressions into volumes of notepads. I disappeared into the music of angry men. It led me to create the first full-colour hip hop magazine in Australia. With all my disappearances, sometimes I cut my arms to see if I was still there. 
 
 My teachers said I disappeared into cynicism and sarcasm. They said I needed to round off my rough edges. But I don’t recall anyone standing next to me with sandpaper.
 
