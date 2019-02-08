@@ -63,7 +63,8 @@ Read case studies. Have more than “that one thing I did ten years ago” to re
 You don’t need to share every brain fart. Share feedback in one paragraph. Perhaps, answer: “What needs to happen to make this even better?
 
 **10. Don’t bore people.**
-Most marketing plans start as copy-and-paste from last time. They are difficult to get signed off. We empathize. But keep briefings short
+Most marketing plans start as copy-and-paste from last time. They are difficult to get signed off. We empathize. But keep briefings short and presentations interesting. Read [How to make a presentation make a point](/how-to-make-a-presentation-make-a-point/) for tips on this.
+
 
 ## **Now**
 
