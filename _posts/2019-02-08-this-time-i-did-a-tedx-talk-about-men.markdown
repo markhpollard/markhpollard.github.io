@@ -63,7 +63,7 @@ On one such morning when I was eight years old, I made my grand entrance into th
 
 My dad had left a year or two earlier. I remember grabbing his leg as he calmly told me that he needed to lgo. Then, I watched him walk to the same garage, get into his car, and drive off. 
 
-Realizing the house was empty, I did what any man of the house would do – I sat down and watched television, and then flinched at any noise that indicated the garage door could be opening.
+Realizing the house was empty, I did what any man of the house would do – I sat down and watched television, and then flinched at any noise that indicated the garage door was opening.
 
 Later that week, a man came to the door and gave me a book. Mum was shocked that someone could hand a child a book about rape like it was a home-delivered pizza. She was shocked when the psychologist helping her proposed she assist men with sexual problems and become a sexual surrogate. She was shocked when a man raped her at work a few years later and she was shocked when a man date-raped her with drugs a few years ago. But, for a woman who had lost her first fiancé in a car crash and then, in her own car crash, had smashed her face so badly a male judge said she was so ugly that no man would ever marry her, perhaps there was little shocking about any of this. And, when I was older, I learned the garage was empty because she was trying to get help for the first sexual assault.
 
