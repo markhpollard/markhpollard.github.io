@@ -16,7 +16,7 @@ summary: Can a TEDx talk cure you?
 
 ## So, I did this TEDx talk in 2012
 
-In September 2012, I did a TEDx talk in Hackensack, New Jersey. At the time, I hoped it would cure me of twenty five years of sadness and a family shredded into pieces. I thought if I could cure these things then I’d solve myself. A new me could emerge. My talk did not succeed at this. And perhaps that was its lesson to me.
+<br>In September 2012, I did a TEDx talk in Hackensack, New Jersey. At the time, I hoped it would cure me of twenty five years of sadness and a family shredded into pieces. I thought if I could cure these things then I’d solve myself. A new me could emerge. My talk did not succeed at this. And perhaps that was its lesson to me.
 
 Writers and public speakers do what they do to fulfil personal needs. The needs are a cocktail of status, connection, creativity, release, and hope. But why talk about private family problems in public? To change the world? Because my story is more important than someone else’s? To seek revenge? Revenge against whom? To get attention? To show I was special? Why would anyone want attention for this story? Surely, there’s a cost in telling this story. Or did I tell it because I thought I was privileged enough to not pay the cost? Or is this story an attempt at self-destruction?
 
@@ -28,18 +28,19 @@ But what’s the point of these memories?
 
 In the moment, their point is to help me appreciate the moment they’re trying to steal from me.
 
-I have so many stories of violence from my teenage years and my twenties. Well over one hundred. From police searches, triads and extortion, random street altercations, to strange men following my wife, veiled threats when I hosted a hip hop radio show, and self-harm. Somehow, the clear bulk of the stories are of threatened violence, not carried-out violence. My mum wasn’t so lucky. 
+I have so many stories of violence from my teenage years and my twenties. Well over one hundred. From police searches, triads and extortion, random street altercations, to strange men following my wife, veiled threats when I hosted a hip hop radio show, and self-harm. Somehow, the clear bulk of the stories are of threatened violence, not carried-out violence.  My mum wasn’t so lucky.
 
-Six years on, I don’t know if the world needed my TEDx talk. I still hope that masculinity can evolve into a less violent and predatory thing. And I hope shame isn’t society’s main weapon to achieve this. 
+Six years on, I don’t know if the world needed my TEDx talk. I still hope that masculinity can evolve into a less violent and predatory thing. I still hope shame isn’t society’s main weapon to achieve this. I still hope. 
+
 You can [watch the TEDx talk here](https://www.youtube.com/watch?v=ILCYk-gSk-I) (the sound and visuals aren’t great).
 
 I gave it this long-winded title: 
 
 ## The world would be less strange if we stopped making strangers out of men
 
-Processing these stories exhausted me and I guess I gave up on giving the talk a decent name.
+<br>Processing these stories exhausted me and I guess I gave up on giving the talk a decent name.
 
-### The secrets in which men live
+## The secrets in which men live
 
 How well do you really know the men in your life? Over the next few minutes, as their faces reach for you – fathers, grandfathers, brothers, sons, boyfriends, husbands, ex-husbands – ask yourself, how well do I really know the men in my life?
 
@@ -51,7 +52,7 @@ So, I ask you, how well do you really know the men in your life? And if you can 
 
 Today I want to share with you secrets in which I grew up. These secrets aren’t abnormal in the happening, just in the telling. I’m ready to shed this second skin if only to encourage more men to tell their stories and so you can point to one of your life’s men and say, “Look, you’re not alone. Now, let me in.”
 
-### The empty house, the book and the disappearance
+**The empty house, the book and the disappearance**
 
 In the 1980s, I always looked forward to early morning television. I’d get up at 5am and delicately select what to watch from five channels, two of which weren’t even yet awake themselves. Inevitably, I’d land on a show like “Lost in Space” that was really good just because it was on. When the ads appeared, I’d click through the channels to see if any others had sprung to life. Sometimes I’d hang out with the ABC’s station-closed test pattern and then jump back for some wild 1960s futurism. It was a busy few hours as the rest of the house slept.
 
@@ -77,7 +78,7 @@ Ten years after that man handed me that book, and now in my last year of school,
 
 I broke down in front of my school principal the next day – the few tethers holding my family together were popping off one by one and I had no glue, just a blunt weapon.
 
-## Facing it in fits and starts
+**Facing it in fits and starts**
 
 For most of my life, I haven’t known what to do with any of this. I knew how to hide from it – I became a workaholic. I worked in advertising agencies by day and made a music magazine by night. I burned out every single time I published an issue. My childhood 5am television time became my bedtime and my enemy. Slowly, I started to face it – in fits and starts that are a decade old now.
 
@@ -97,7 +98,7 @@ To the men, this is difficult stuff. I made a decision to be in moments that see
 
 When they put my grandfather into palliative care and knocked him out, I decided to spend as much of his last few days with him as possible. I talked to him – or at him – I wrote for him, I massaged his hands and feet. I cuddled him. Every time he exhaled I inhaled. I imagined myself breathing him into me. When the death rattle kicked in, I counted the pauses between breaths, wishing hours for him. In his final minute – my grandmother had just stepped out of the room – he raised his head, opened his eyes, looked at my aunty and at me and then sunk back into his bed. It was one of the most beautiful experiences of my life. 
 
-### How to help a man help humankind
+**How to help a man help humankind**
 
 Secrets like these make strangers out of us – they hurt, and, in turn, they make it easier to hurt. However, telling you these secrets is not the hard part. The hard part is doing something about them – something I think about every time I look into the eyes of my wife, my son and my daughter. In trying, I know I’ll fail sometimes. I’m turning a very long corner.
 
@@ -105,7 +106,7 @@ So, as you trawl through the faces of your life’s men, ask yourself again, how
 
 Let them know they’re not alone. Let them know you’ll listen. And don’t slap away an out-held hand. The world can be less strange – you need only two ears to make it happen. And, if you succeed, then this won’t be the end of men, as some people proclaim. But it will be the end of men as we know them because we don’t know them very well.
 
-### The final wish
+**The final wish**
 
 I dressed up for you today – I don’t often wear shirts with collars and buttons. Having worn it to a few weddings, my kids call this particular shirt my “wedding shirt”. When I wear it, they ask me who’s getting married. The thing is, it’s not my “wedding shirt”. I bought it to wear to my grandfather’s funeral, where I was fortunate enough to read a personal, rambling, slightly coherent poem that I wrote to him during those last four days in hospital. I wrote it to the rhythm of a death rattle and the rain, I cobbled it together from messy pages in a notebook, and I read it through tears and splutters to a church full of eyes hoping me on.
 
