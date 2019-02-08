@@ -14,6 +14,7 @@ tags:
 summary: Can a TEDx talk cure you?
 ---
 
+![TEDx1-Mark-Pollard-school.jpg](/uploads/TEDx1-Mark-Pollard-school.jpg)
 ## So, I did this TEDx talk in 2012
 
 <br>In September 2012, I did a TEDx talk in Hackensack, New Jersey. At the time, I hoped it would cure me of twenty five years of sadness and a family shredded into pieces. I thought if I could cure these things then I’d solve myself. A new me could emerge. My talk did not succeed at this. And perhaps that was its lesson to me.
@@ -39,6 +40,8 @@ I gave it this long-winded title:
 ## The world would be less strange if we stopped making strangers out of men
 
 <br>Processing these stories exhausted me and I guess I gave up on giving the talk a decent name.
+
+![TEDx3-Mark-Pollard.jpg](/uploads/TEDx3-Mark-Pollard.jpg)
 
 ## The secrets in which men live
 
@@ -112,6 +115,9 @@ I dressed up for you today – I don’t often wear shirts with collars and butt
 
 After the funeral, a stoic gentleman from another era grabbed me. He was crying in the way only a funeral can make you – when you cry for all your life’s losses at once before you have to hide your feelings from the sunlight outside. He shook my hand, gathered himself then said, “I wish I could have spoken to my dad like that.”
 
+![TEDx2-Mark-Pollard-speakers.jpg](/uploads/TEDx2-Mark-Pollard-speakers.jpg)
+
+With the other speakers: Donnella Tilery, Staci Block and Bonnie Schwartz.
 
 
 **Now**
