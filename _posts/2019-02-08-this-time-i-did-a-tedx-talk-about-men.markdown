@@ -12,6 +12,7 @@ categories:
 tags:
 - Personal
 summary: Can a TEDx talk cure you?
+image: "/uploads/TEDx1-Mark-Pollard-school.jpg"
 ---
 
 ![TEDx1-Mark-Pollard-school.jpg](/uploads/TEDx1-Mark-Pollard-school.jpg)
