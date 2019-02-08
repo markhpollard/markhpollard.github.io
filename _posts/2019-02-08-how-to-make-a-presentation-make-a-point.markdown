@@ -13,6 +13,8 @@ summary: 'How do you turn your Information Monster into a Story Rainbow? '
 image: "/uploads/Pointy-Presentations-Info-Monster-Rainbow.jpg"
 ---
 
+![Pointy-Presentations-Whether-to-present.jpg](/uploads/Pointy-Presentations-Whether-to-present.jpg)
+
 You’re in front of a group of people. Your jaw juts and words poke out almost by themselves. The room seems glazed. Its den of eyes stare out, but are turned off from the inside. CLICK. You make the next slide appear. It thumps to arrival. The eyes don’t stir.
 
 You turn to the presentation. The numbers, sources, and bullet points stare back. Nervous you might forget something that will utterly convince the eyes to return to your allotted time of thirty-minutes-plus-five-minutes-for-questions, you read aloud one hundred words. Thirty seconds pass. You find your back to the room, and you remember that the presentation class said, “Don’t turn your back to the room.”
@@ -23,14 +25,14 @@ Great question.
 
 “Why am I here again?”
 
+{% include promo.html %}
+
 Humans are blessed and cursed with the ability to ask this question. Where other animals are free to animal, this question tickles and shin-kicks human brains day in, day out. Answers have led to art, war, love, hate, articles for business websites, and cumbersome presentations. And, if you’ve ever frozen in front of a presentation, as Michael Jackson once sang, “Remember the time.”
 
 You’re here to do three things:
 1. Make a point
 2. Make people care about your point
 3. Ask for something
-
-![Pointy-Presentations-Whether-to-present.jpg](/uploads/Pointy-Presentations-Whether-to-present.jpg)
 
 We’ll focus on your point - how to get to it, how to structure it, and how to design it.
 
