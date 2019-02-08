@@ -40,7 +40,7 @@ I gave it this long-winded title:
 
 <br>Processing these stories exhausted me and I guess I gave up on giving the talk a decent name.
 
-**The secrets in which men live**
+## The secrets in which men live
 
 How well do you really know the men in your life? Over the next few minutes, as their faces reach for you – fathers, grandfathers, brothers, sons, boyfriends, husbands, ex-husbands – ask yourself, how well do I really know the men in my life?
 
@@ -52,7 +52,7 @@ So, I ask you, how well do you really know the men in your life? And if you can 
 
 Today I want to share with you secrets in which I grew up. These secrets aren’t abnormal in the happening, just in the telling. I’m ready to shed this second skin if only to encourage more men to tell their stories and so you can point to one of your life’s men and say, “Look, you’re not alone. Now, let me in.”
 
-**The empty house, the book and the disappearance**
+## The empty house, the book and the disappearance
 
 In the 1980s, I always looked forward to early morning television. I’d get up at 5am and delicately select what to watch from five channels, two of which weren’t even yet awake themselves. Inevitably, I’d land on a show like “Lost in Space” that was really good just because it was on. When the ads appeared, I’d click through the channels to see if any others had sprung to life. Sometimes I’d hang out with the ABC’s station-closed test pattern and then jump back for some wild 1960s futurism. It was a busy few hours as the rest of the house slept.
 
@@ -62,7 +62,7 @@ My dad had left a year or two earlier. I remember grabbing his leg as he calmly 
 
 Realizing the house was empty, I did what any man of the house would do – I sat down and watched television, and then flinched at any noise that indicated the garage door could be opening.
 
-Later that week, a man came to the door and gave me a book. Mum was shocked that someone could hand a child a book about rape like it was a home-delivered pizza. She was shocked when the psychologist helping her proposed she assist men with sexual problems and become a sexual surrogate. She was shocked when a man raped her at work a few years later and she was shocked when a man date-raped her with drugs a few years ago. But, for a woman who had lost her first fiancé in a car crash and then, in her own car crash, had smashed her face so badly a male judge said she was so ugly that no man would ever marry her, perhaps there was little shocking about any of this. And, when I was  older, I learned the a garage was empty because she was trying to get help for this first sexual assault.
+Later that week, a man came to the door and gave me a book. Mum was shocked that someone could hand a child a book about rape like it was a home-delivered pizza. She was shocked when the psychologist helping her proposed she assist men with sexual problems and become a sexual surrogate. She was shocked when a man raped her at work a few years later and she was shocked when a man date-raped her with drugs a few years ago. But, for a woman who had lost her first fiancé in a car crash and then, in her own car crash, had smashed her face so badly a male judge said she was so ugly that no man would ever marry her, perhaps there was little shocking about any of this. And, when I was older, I learned the garage was empty because she was trying to get help for the first sexual assault.
 
 Mind you, mum was a counselor, so the shocking things men did seemed simultaneously to fascinate and to numb. My sister and I grew up with her horror stories and her books that tried to make sense of the men who lived in them. “The Peter Pan Syndrome” was one of my favorite titles. It sounded like something I wanted to catch until mum pointed out that nearly every man we knew had it. 
 
@@ -78,7 +78,7 @@ Ten years after that man handed me that book, and now in my last year of school,
 
 I broke down in front of my school principal the next day – the few tethers holding my family together were popping off one by one and I had no glue, just a blunt weapon.
 
-**Facing it in fits and starts**
+## Facing it in fits and starts
 
 For most of my life, I haven’t known what to do with any of this. I knew how to hide from it – I became a workaholic. I worked in advertising agencies by day and made a music magazine by night. I burned out every single time I published an issue. My childhood 5am television time became my bedtime and my enemy. Slowly, I started to face it – in fits and starts that are a decade old now.
 
@@ -98,7 +98,7 @@ To the men, this is difficult stuff. I made a decision to be in moments that see
 
 When they put my grandfather into palliative care and knocked him out, I decided to spend as much of his last few days with him as possible. I talked to him – or at him – I wrote for him, I massaged his hands and feet. I cuddled him. Every time he exhaled I inhaled. I imagined myself breathing him into me. When the death rattle kicked in, I counted the pauses between breaths, wishing hours for him. In his final minute – my grandmother had just stepped out of the room – he raised his head, opened his eyes, looked at my aunty and at me and then sunk back into his bed. It was one of the most beautiful experiences of my life. 
 
-**How to help a man help humankind**
+## How to help a man help humankind
 
 Secrets like these make strangers out of us – they hurt, and, in turn, they make it easier to hurt. However, telling you these secrets is not the hard part. The hard part is doing something about them – something I think about every time I look into the eyes of my wife, my son and my daughter. In trying, I know I’ll fail sometimes. I’m turning a very long corner.
 
@@ -106,7 +106,7 @@ So, as you trawl through the faces of your life’s men, ask yourself again, how
 
 Let them know they’re not alone. Let them know you’ll listen. And don’t slap away an out-held hand. The world can be less strange – you need only two ears to make it happen. And, if you succeed, then this won’t be the end of men, as some people proclaim. But it will be the end of men as we know them because we don’t know them very well.
 
-**The final wish**
+## The final wish
 
 I dressed up for you today – I don’t often wear shirts with collars and buttons. Having worn it to a few weddings, my kids call this particular shirt my “wedding shirt”. When I wear it, they ask me who’s getting married. The thing is, it’s not my “wedding shirt”. I bought it to wear to my grandfather’s funeral, where I was fortunate enough to read a personal, rambling, slightly coherent poem that I wrote to him during those last four days in hospital. I wrote it to the rhythm of a death rattle and the rain, I cobbled it together from messy pages in a notebook, and I read it through tears and splutters to a church full of eyes hoping me on.
 
