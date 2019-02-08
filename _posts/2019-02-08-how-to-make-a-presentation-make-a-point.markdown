@@ -46,15 +46,15 @@ Agenda, Overview, Objectives, Research, Competitors, Strategy, Metrics.
 * Bullet point
 * Bullet point
 
-Information matters and bullet points have a place. But presentations like this are what I call “Information Monsters”. They are big, long, huge, and overwhelming. One hundred slides and no point makes people want to hide under the bed until you’re gone.
+<br>Information matters and bullet points have a place. But presentations like this are what I call “Information Monsters”. They are big, long, huge, and overwhelming. One hundred slides and no point makes people want to hide under the bed until you’re gone.
 
 A common breed of Information Monster in the agency world is the Statistactic. This is a presentation with tens of slides of useless numbers and then the output of every brain fart that happened in the rushed agency brainstorms - a bunch of tactics. Stuff we could do but we don't really have a strong opinion about any of it. 
 
 ![Pointy-Presentations- Statistactics.jpg](/uploads/Pointy-Presentations-%20Statistactics.jpg)
 
-“Story Rainbows,” on the other hand, are presentations that captivate instead of try to subdue. They have a main, just-left-of-center point, and they re-assemble all the information around this main point. “Story Rainbows” travel infinity, whereas “Information Monsters” get stuck on company networks and they lurk there infinity.
+“Story Rainbows,” on the other hand, are presentations that try to captivate, not subdue. They have a main, just-left-of-center point, and they re-assemble all the information around this main point. “Story Rainbows” travel infinity, whereas “Information Monsters” get stuck on company networks and they lurk there infinity.
 
-So keep the Story Rainbow in mind as we go through the mechanics of making presentations make a point.
+So keep the Story Rainbow in mind as we go through the mechanics of making presentations make a point. If you need help with [how to explain an idea](https://www.markpollard.net/how-to-explain-an-idea/) or [how to do account planning](https://www.markpollard.net/how-to-do-account-planning-a-simple-approach/), you could build a few years of a career off these three articles.
 
 ![Pointy-Presentations-Info-Monster-Rainbow.jpg](/uploads/Pointy-Presentations-Info-Monster-Rainbow.jpg)
 
