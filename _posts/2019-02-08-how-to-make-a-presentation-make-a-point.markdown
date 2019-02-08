@@ -90,7 +90,8 @@ The real challenge is re-visiting your Information Monster with your word and ti
 2. Let go of information that does not fit
 3. Re-write your points based on your word and title
 
-<br># The presentation plan
+<br>
+# The presentation plan
 Stories tend to have three acts. As I plan my presentation, I plot them out in this:
 
 ![Pointy-Presentations-3-Acts.jpg](/uploads/Pointy-Presentations-3-Acts.jpg)
