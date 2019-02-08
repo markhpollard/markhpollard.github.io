@@ -69,9 +69,9 @@ Later that week, a man came to the door and gave me a book. Mum was shocked that
 
 Mind you, mum was a counselor, so the shocking things men did seemed simultaneously to fascinate and to numb. My sister and I grew up with her horror stories and her books that tried to make sense of the men who lived in them. “The Peter Pan Syndrome” was one of my favorite titles. It sounded like something I wanted to catch until mum pointed out that nearly every man we knew had it. 
 
-And we knew a lot of men. Mum ran a single’s club back when being divorced or being middle-aged and single were essentially taboo. Broken men – and women complaining about them – were a constant, if not physically then in eaves-dropped conversations. 
+And we knew a lot of men. Mum ran a single’s club back when being divorced or being middle-aged and single were a strange taboo. Broken men – and women complaining about them – were a constant, if not physically then in eaves-dropped conversations. 
 
-Mum also occasionally had boyfriends, most of whom I found pretty odd. But when you repeatedly see the shock at another relationship ending dissolve into a desperate fear of growing old alone, you just stay in your room.
+Mum also occasionally had boyfriends, most of whom I found pretty odd. But when you repeatedly see the shock at another relationship ending dissolve into a desperate fear of growing old alone, you just stay in your room and hope something better than last time will happen this time.
 
 So, I disappeared into an empty house whose walls spoke of breaking men and suffering women. I disappeared into studies – peaking with twelve-hour marathons. I disappeared into sport – when I turned to martial arts, I hit sandbags until I bled. I disappeared into poetry, inking my depressions onto paper. I disappeared into the music of angry men – it led me to create the first full-colour hip hop magazine in Australia. With all my disappearances, sometimes I cut my arms to see if I was still there. 
 
