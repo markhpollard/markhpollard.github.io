@@ -40,7 +40,7 @@ I gave it this long-winded title:
 
 <br>Processing these stories exhausted me and I guess I gave up on giving the talk a decent name.
 
-## The secrets in which men live
+**The secrets in which men live**
 
 How well do you really know the men in your life? Over the next few minutes, as their faces reach for you – fathers, grandfathers, brothers, sons, boyfriends, husbands, ex-husbands – ask yourself, how well do I really know the men in my life?
 
