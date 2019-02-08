@@ -298,7 +298,7 @@ Now, for your thinking to stick, it's good to have other minds leave fingerprint
 
 ## Step 7: The experience
 
-Mapping a customer experience is a useful exercise whether or not you're involved with granular ideas along the experience. It will increase your empathy and help you understand pain-points and obstacles that you may need to address through communication or product.
+Mapping a customer experience is a useful exercise whether or not you're involved with granular ideas along the experience. It will increase your empathy and help you understand the pain-points and obstacles that you may need to address through communication or product.
 
 People dismiss customer experience maps for bizarre reasons. A few years ago, it was because people don't buy things in a linear way or because technology has meant you can think of something and then buy it. These are red herrings - as is believing that whatever you create is correct in an absolute way. All of these tools exist to help you think and create, not to dictate how the world is and only is. That's what religion is for.
 
@@ -321,6 +321,8 @@ If anything, advertising has become more advertising and those of us who had tho
 Wherever you work, define what you mean when you use the word "idea" and use it with intention and know that ideas can come from anywhere but that the majority of us are mediocre at ideas, that because many of us can come up with ideas doesn't mean we shouldn't respect people who are talented at ideas, and that all our jobs are the mischief of ideas.
 
 Also, remember that being good at ideas doesn't mean you get to be an asshole.
+
+And don't forget to read [How to explain an idea: a mega post](/how-to-explain-an-idea/) for a mega post about ideas and [How to make a presentation make a point](/how-to-make-a-presentation-make-a-point/) for tips on how to present them. 
 
 ## Your job is mischief
 
