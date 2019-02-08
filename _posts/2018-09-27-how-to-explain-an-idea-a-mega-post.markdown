@@ -42,9 +42,9 @@ If you do creative work or have a creative soul, then ideas are your oxygen. Thi
 
 * Simple techniques to help you explain an idea
 
-This article pares with [How to do account planning - a simple approach](/how-to-do-account-planning-a-simple-approach/). If you do creative work, these two articles will catch you up to speed with concepts that took many years for many of us to comprehend.
+This article pares with [How to do account planning - a simple approach](/how-to-do-account-planning-a-simple-approach/) and [How to make a presentation make a point](/how-to-make-a-presentation-make-a-point/). If you do creative work, these two articles will catch you up to speed with concepts that took many years for many of us to comprehend.
 
-**[Take my brand strategy class on Skillshare and get two free months](http://skl.sh/markpollard)**
+{% include promo.html %}
 
 ## What’s an idea?
 
@@ -280,6 +280,8 @@ ix. Try not to take notes or cards into the presentation . Cards will distract
 x. Decide whether your presentation starts when you’re in front of the audience  or before. And then what happens after you present.
 
 ## Five ways to structure your idea explanation
+
+Read [How to make a presentation make a point](/how-to-make-a-presentation-make-a-point/) for details about making presentations.
 
 **1. Go Hollywood on it**
 
