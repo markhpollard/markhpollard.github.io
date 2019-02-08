@@ -1,9 +1,9 @@
 ---
 title: Mark Pollard - Strategy is your words
 date: 2018-09-18 10:40:00 Z
-h1: Strategy Is Your Words
 summary: by Mark Pollard
 image: "/uploads/strategy-is-your-words-mp.jpeg"
+h1: Strategy Is Your Words
 layout: index
 ---
 
@@ -19,7 +19,7 @@ You can use words as maps, torches, and breadcrumbs. You can use words as firewo
 
 If your words can, you can.
 
-When you do [strategy](how-to-do-account-planning-a-simple-approach/), you make meaning from mess, and words do this for you. Research is a hunt for words - you can watch and count but, at some point, you’ll use words to guide and later explain your hunt. An insight updates how you see the world - it gives you words that introduce you to something magnificent that you never knew existed or it gives you new words for something you knew existed but with magnified meaning. A creative brief is a brave attempt to capture only the most important words. A presentation is a long set of words that gets you to the creative brief. [An idea](how-to-explain-an-idea/) happens in words. Job titles, too - otherwise you wouldn’t keep asking for that promotion. Words can do anything but they excel at seeing through mess.
+When you do [strategy](how-to-do-account-planning-a-simple-approach/), you make meaning from mess, and words do this for you. Research is a hunt for words - you can watch and count but, at some point, you’ll use words to guide and later explain your hunt. An insight updates how you see the world - it gives you words that introduce you to something magnificent that you never knew existed or it gives you new words for something you knew existed but with magnified meaning. A creative brief is a brave attempt to capture only the most important words. A [presentation](https://www.markpollard.net/how-to-make-a-presentation-make-a-point/) is a long set of words that gets you to the creative brief. [An idea](how-to-explain-an-idea/) happens in words. Job titles, too - otherwise you wouldn’t keep asking for that promotion. Words can do anything but they excel at seeing through mess.
 
 However, words aren’t easy. Words will stumble through you and plop into the world hoping you can teach them to walk. Many words will need to take that walk to draw you to that one word. And, on some days, words will not stumble out at all.
 
@@ -31,4 +31,4 @@ In strategy, words are all that matters.
 
 Strategy is your words.
 
-\*[Now go read something](/strategy-articles).
+\*[Now go read the strategy articles](/strategy-articles).
