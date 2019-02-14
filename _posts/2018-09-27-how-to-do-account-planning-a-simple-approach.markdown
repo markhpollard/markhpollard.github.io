@@ -36,13 +36,16 @@ If you do account planning, brand planning, strategy, or whatever you want to ca
 
 {% include promo.html %}
 
+**What is account planning?**
+An account planner exists to help the account planner's team make projects more successful and to do that by reflecting research about people, competitors, and the client's company into the thinking that makes it into public. One other use of the phrase is for sales planning - how to go grow the spend of a client or a client's account. But this isn't how I'm using the phrase here.
+
 The job of account planning is to find meaning in mess. The act of account planning is simplicity. Yes, it is a messy business but it's complex in the way that our brains are complex and see patterns everywhere and jump from one thought to another and then settle somewhere if for a second.
 
 This complexity is very different to industrial complexity where a business person takes what is very much an intuitive process and designs it onto a piece of paper to look official and detailed and complicated and expensive.
 
 So, if you're designing account planning with intentional complexity to make money and to take money from dumb money, then you're part of the problem.
 
-But if you're new to this and are confused by all the techniques and concepts and you are doing the best you can to represent account planning in your agency (which is not an easy feat), then it will seem complex in  the way the first day you walk into a job or a martial arts school seem complex.
+But if you're new to account planning and are confused by all the techniques and concepts and you are doing the best you can to represent account planning in your agency (which is not an easy feat), then it will seem complex in  the way the first day you walk into a job or a martial arts school seem complex.
 
 Bruce Lee once said, "Before I studied the art, a punch to me was just like a punch, a kick just like a kick. After I learned the art, a punch was no longer a punch, a kick no longer a kick. Now that I’ve understood the art, a punch is just like a punch, a kick just like a kick. The height of cultivation is really nothing special. It is merely simplicity; the ability to express the utmost with the minimum."
 
