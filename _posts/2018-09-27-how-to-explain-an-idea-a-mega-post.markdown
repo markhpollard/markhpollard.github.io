@@ -17,10 +17,12 @@ categories:
 - innovative ideas
 - creative idea
 - creative ideas
+- how to explain
+- how to explain an idea
 tags:
 - Creativity
-summary: 'What''s an idea? What sorts of ideas are there? And how on Earth do you
-  explain ideas once you have them? '
+summary: 'What''s an idea? What sorts of ideas are there? And how to explain them
+  once you have them? '
 image: "/uploads/idea-writeup-template.jpeg"
 ---
 
