@@ -42,7 +42,7 @@ If you do creative work or have a creative soul, then ideas are your oxygen. Thi
 
 * Simple techniques to help you explain an idea
 
-This article pares with [How to do account planning - a simple approach](/how-to-do-account-planning-a-simple-approach/) and [How to make a presentation make a point](/how-to-make-a-presentation-make-a-point/). If you do creative work, these two articles will catch you up to speed with concepts that took many years for many of us to comprehend.
+This article pares with [How to do account planning - a simple approach](/how-to-do-account-planning-a-simple-approach/) and [How to make a presentation make a point](/how-to-make-a-presentation-make-a-point/). If you do creative work, these two articles will catch you up to speed with concepts that took years for many of us to comprehend.
 
 {% include promo.html %}
 
@@ -85,13 +85,13 @@ Oh, and strategies (which are also ideas  —  even though the monopoly on t
 
 We need a different vocabulary to end confusion and buffering or we need to define our words in public so we all know what we mean when we use them.
 
-## Why do you need to be able to explain an idea?
+## Why do you need the ability to explain an idea?
 
 Here’s a secret: many people in our industry aren’t idea-literate.
 
-You could work with a creative team that focuses on taglines, hashtags, and manifestos. You might need to play the mind game of helping them articulate their idea without them knowing. You could work with other agencies who throw the word around like confetti only to catch yourself a few weeks into a project wondering, “What are we even talking about?”
+You could work with a creative team that focuses on taglines, hashtags, and manifestos. You might need to play the mind game of helping them articulate their idea without them knowing. You could work with other agencies who throw the word around like confetti only to catch yourself a few weeks into a project wondering, “What are we even talking about?” When you know how to explain your ideas, your working life will improve. 
 
-It’s important to pry apart the executional stuff, the tactics from the idea for five reasons:
+And it’s important to pry apart the executional stuff, the tactics from the idea for five reasons:
 
 **1. Longevity**
 
@@ -158,7 +158,7 @@ These are the common types of ideas bouncing around a creative agency:
 
 * **Execution -** the key bits of the execution that matter (style, channels, etc)
 
-This list... it’s too much. It scratches the surface and the surface isn’t wearing protection. Without a clear and agreed definition of what we’re talking about, it’s hard to work, and you can find yourself in meetings having conversations that go nowhere. Mind you, this is an excellent business model so what do I know?
+This list... it’s too much. It scratches the surface and the surface isn’t wearing protection. Without a clear and agreed definition of what we’re talking about and without knowing how to explain any of it when you have, it’s hard to work, and you can find yourself in meetings having conversations that go nowhere. Mind you, this is an excellent business model so what do I know?
 
 ## Examples - applying idea types to real-world companies
 
@@ -196,7 +196,7 @@ Old Spice -  again, my interpretation:
 
 If Old Spice’s business idea is to make men smell classically masculine (I made it up), then this idea gives them the opportunity to stretch into other areas. It anchors them in a core idea but allows them to explore further adrift.
 
-## First principles of explaining an idea
+## First principles of how to explain an idea
 
 **1. The idea and how it works are separate; keep it that way**
 
@@ -208,7 +208,7 @@ Instead of labeling your idea “Idea 1” or “Direction 1”, give it a creat
 
 **3. Use a logline**
 
-In 25 words or less, how would you explain the non-executional bits of your idea? Hollywood uses loglines. Earth Hour  -  “We’re going to get the world to turn off their lights for an hour." The best way to get good at this is to pick things you’re familiar with and explain them in a sentence. Try movies or apps, try to explain a singer, a company you love.
+In 25 words or less, how would you explain the non-executional bits of your idea? Hollywood uses loglines. Earth Hour  -  “We’re going to get the world to turn off their lights for an hour." The best way to get good at this is to pick things you’re familiar with and explain them in a sentence. Try movies or apps, try to explain a singer, or a company you love.
 
 **4. Show, pause, repeat your way through**
 
@@ -228,7 +228,7 @@ Unless it’s bad or wrong. This will throw you. If you did this to me when I wa
 
 **8. Care and be confident**
 
-Both are contagious. Avoid condescension and too much ego.
+Both are contagious. Avoid condescension and too much ego. Increasingly, we need to educate people on how to buy our ideas and to help them feel safe while doing so. Some bravado is sexy but keep your feet on the ground.
 
 **9. Signposts help you get there and get remembered**
 
@@ -266,7 +266,7 @@ I can’t recall a client buying an over-explained idea. People either get it an
 
 **13. Plan it analog**
 
-Don’t start planning a presentation in front of a computer. It’s a trap. Focus on your story dynamics, not your fade-ins and fade-outs. Grab a pencil and some paper.
+Don’t start planning a presentation in front of a computer. It’s a trap. Focus on your story dynamics, not your fade-ins and fade-outs. Grab a pencil and some paper and think about how to explain it before you design it.
 
 i. Map your audience and what you know about them.
 ii. Write the one thing you want them to understand.
@@ -295,7 +295,7 @@ Watch a movie you think does a great job of story-telling and map how they do it
 
 **2. Get old school on it… Aristotle-style**
 
-I most use this approach. I map it on one piece of paper.
+I use this approach most. I map it on one piece of paper.
 i. The story of your presentation: eg "I’m here to introduce you to new technology that can prevent mass-flooding in a matter of minutes."
 ii. Three acts: use the basic three-act structure as a way to focus your argument. Yes, explaining an idea is you putting an argument forward. To build on the flood-prevention idea your three-act structure is:
 a. Show how devastating floods are. You choose a 3-minute video with infographics, interviews, a soundtrack; or you take your audience to a flooded area.
