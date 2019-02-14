@@ -58,7 +58,7 @@ Words often get in the way of creativity so it’s no surprise that the word “
 
 **3. We use the word “idea” when someone says something stupid.** “You have no idea.” That’s a mean use of the word. Don’t be mean. The world doesn’t need it.
 
-If we focus on the first two examples, the word “idea” telegraphs that something new is coming. And if you can pause on your Internet memes about whether anything is ever new (I’ll raise you post-modernism and ask if anything is ever real), what we now want to do is distinguish between the way we use “idea” as industry jargon and the way we use “idea” where we’re in casual mode.
+If we focus on the first two examples, the word “idea” telegraphs that something new is coming. And if you can pause on your Internet memes about whether anything is ever new (I’ll raise you post-modernism and ask if anything is ever real), what we now want to do is distinguish between the way we use “idea” as industry jargon and the way we use “idea” where we’re in casual mode. 
 
 **Ideas are thoughts but not all thoughts are “ideas.”** Here’s an example of the use of the word “idea” in an agency setting: “I have an idea — let’s do something with augmented reality or Blockchain or make a special lens.” This isn’t wrong; it’s sloppy.
 
@@ -83,9 +83,11 @@ Yes, it’s complicated because humans complicate things. And what complicates a
 
 * New product ideas
 
-Oh, and strategies (which are also ideas  —  even though the monopoly on the use of the word “idea” in an agency belongs to the creative department).
+And strategies (which are also ideas  —  even though the monopoly on the use of the word “idea” in an agency belongs to the creative department).
 
-We need a different vocabulary to end confusion and buffering or we need to define our words in public so we all know what we mean when we use them.
+Oh, and concepts. "Concept" suggests a higher-level of thinking. To call something "high concept" means it's asking a big philosophical or existential question. For example, what would life feel like if we started old and got younger every day? People use the word "concept" in agencies in as slippery a way as they use the word "idea" so it's important to discuss the words you hear.
+
+It's can seem fussy but it's useful to create a glossary if you're working with a team for any period of time. The point isn't to be a fascist about words. The point is to reduce confusion and help people work better.
 
 ## Why do you need the ability to explain an idea?
 
