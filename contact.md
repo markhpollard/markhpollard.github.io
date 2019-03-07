@@ -5,7 +5,7 @@ h1: Contact
 layout: about
 ---
 
-If you’re interested in working with me (talks, training, research, strategy, and words), please visit the [Work with me](/work-with-me) page first.
+If you’re interested in working with me (talks, training, research, strategy, and words), please visit the [Work with me](/work-with-me) page first. You can see our services at the [Mighty Jungle](http://www.mightyjungle.co) website.
 
 If you’re just interested in emailing me, well, there’s this form. Make it good. I’ll probably reply.
 
