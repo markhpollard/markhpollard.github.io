@@ -1,5 +1,5 @@
 ---
-title: 'Work with Mark Pollard - talks, training, research, strategy, and words '
+title: Work with Mark Pollard - talks, training, research, strategy, and words
 permalink: "/work-with-me/"
 h1: Work With Me
 layout: about
@@ -11,7 +11,7 @@ layout: about
 
 I work with leaders, marketers, and agencies.
 
-I do a combination of talks, training, research, strategy, and words.
+I do a combination of talks, training, research, strategy, and words. You can find details at [Mighty Jungle](http://www.mightyjungle.co).
 
 I like to do strategy while also helping people learn how to do strategy. My approach to strategy is very much a writer's approach. Most of my clients have enough data, too much data, they just need help hearing what the data are saying.
 
