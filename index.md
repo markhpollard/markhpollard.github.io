@@ -7,9 +7,9 @@ h1: Strategy Is Your Words
 layout: index
 ---
 
-## The Strategy Super Sizer Megaclass happens in NYC in June, 2019. Then it travels. [Details here](http://bit.ly/StrategySuperSizer).
+## News: The Strategy Super Sizer Megaclass happens in NYC in June, 2019. Then it travels. [Details here](http://bit.ly/StrategySuperSizer).
 
-
+<br><br>
 Here’s how to get good at strategy: words. Start with words, continue with words, and finish with words. You have one job - get good at words.
 
 Why? At some point, everything is words. If you can see it, it’s words. If you can think it, it’s words. If you can feel it, it’s words.
