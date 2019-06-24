@@ -8,7 +8,7 @@ TERMS AND CONDITIONS
 
 1. TERMS
 
-By accessing this web site, you are agreeing to be bound by these website Terms and Conditions of Use, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this web site are protected by applicable copyright and trade mark law.
+By accessing this web site, you are agreeing to be bound by these website Terms and Conditions of Use, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this web site are protected by applicable copyright and trade mark law. You can contact mark.pollard@mightyjungle.co at any time.
 
 2\. USE LICENSE
 
