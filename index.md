@@ -7,7 +7,7 @@ h1: Strategy Is Your Words
 layout: index
 ---
 
-## News: The Strategy Super Sizer Megaclass with Julian Cole is happening around the world this year. We've just done NYC, Chicago, and LA. [Details here](http://bit.ly/StrategySuperSizer).
+## News: My first book "Strategy Is Your Words" will launh as a Kickstarter on Tuesday, November 5th, 2019. [Sign up for the newsletter to hear about it first](https://www.markpollard.net/email-newsletter/).
 
 <br><br>
 Here’s how to get good at strategy: words. Start with words, continue with words, and finish with words. You have one job - get good at words.
