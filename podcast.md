@@ -2,10 +2,9 @@
 title: Sweathead by Mark Pollard - a strategy podcast
 permalink: "/sweathead-podcast/"
 h1: 'Sweathead: You Take Practice'
-description: 'How do you get good at strategy? With nearly 300,000 listens, Sweathead
-  tries to answer this question. Each episode helps thinkers realize they''re not
-  alone and that thinking takes practice. And, when your brain practices, it sweats.
-  Hence, Sweathead. Hit SUBSCRIBE, tell your friends, and leave a kind rating. '
+description: How do you get good at strategy? With nearly 300,000 listens, Sweathead
+  tries to answer this question. Each episode helps thinkers realize they're not alone
+  and that thinking takes practice. Hit SUBSCRIBE and tell your friends.
 featured: https://anchor.fm/sweathead-with-mark-pollard/episodes/Applying-Strategy-To-Life---Heather-LeFevre--Strategist--Author-e2splb
 layout: podcast
 ---
