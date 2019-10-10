@@ -4,6 +4,8 @@ permalink: "/email-newsletter/"
 layout: about
 ---
 
+Sign up for my newsletter here. It happens once or twice a month and it tries to be useful. The open rate is over 50% and I cull email addresses that don't open the email every few months because I'd rather be useful than annoying. 
+
 <center>
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
