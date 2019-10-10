@@ -14,9 +14,9 @@ layout: podcast
 
 #### 3. [Run, Strategy Department, Run!](https://anchor.fm/sweathead-with-mark-pollard/episodes/Run--Strategy-Department--Run----Agathe-Guerrier--Strategy-Head-e1o81s) - Agathe Guerrier, Strategy Head
 
-#### 4. [Putting Yourself And Your Campaigns Out There](https://anchor.fm/sweathead-with-mark-pollard/episodes/Putting-Yourself-And-Your-Campaigns-Out-There---Julian-Cole--Comms-Planner-e3vmjf) - Julian Cole, Comms Planner
+#### 4. [Putting Yourself And Your Campaigns Out There](https://anchor.fm/sweathead-with-mark-pollard/episodes/Putting-Yourself-And-Your-Campaigns-Out-There---Julian-Cole--Comms-Planner-e3vmjf) - Julian Cole
 
-#### 5. [Live Action Strategy - Dos Toros, Mexican Food](https://anchor.fm/sweathead-with-mark-pollard/episodes/Live-Action-Strategy---Dos-Toros--Mexican-Food---Julian-Cole--Davis-Ballard-e45kk9) - Julian Cole, Davis Ballard
+#### 5. [Live Action Strategy - Dos Toros](https://anchor.fm/sweathead-with-mark-pollard/episodes/Live-Action-Strategy---Dos-Toros--Mexican-Food---Julian-Cole--Davis-Ballard-e45kk9) - Julian Cole, Davis Ballard
 
 #### 6. [Turning Around An Agency](https://anchor.fm/sweathead-with-mark-pollard/episodes/Turning-Around-An-Agency---Rob-Schwartz--CEO-e57qae) - Rob Schwartz, CEO
 
@@ -40,7 +40,7 @@ layout: podcast
 
 #### 16. [Starting Out In Strategy](https://anchor.fm/sweathead-with-mark-pollard/episodes/Starting-Out-In-Strategy---Natalie-Kim-e1af34) - Natalie Kim
 
-#### 17. [Please, Can We Do Advertising Together?](https://anchor.fm/sweathead-with-mark-pollard/episodes/Please--Can-We-Do-Advertising-Together----Trine-Keller-Andreason--Strategist-e4g4gb) - Trine Keller-Andreason, Strategist
+#### 17. [Please, Can We Do Advertising Together?](https://anchor.fm/sweathead-with-mark-pollard/episodes/Please--Can-We-Do-Advertising-Together----Trine-Keller-Andreason--Strategist-e4g4gb) - Trine Keller-Andreason
 
 #### 18. [Planning Is For Punks](https://anchor.fm/sweathead-with-mark-pollard/episodes/Planning-Is-For-Punks---Gareth-Kay--CSO-e1im3e) - Gareth Kay, CSO
 
