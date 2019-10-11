@@ -31,9 +31,9 @@ layout: podcast
 
 #### 11. [The Philosophy of Strategy](https://anchor.fm/sweathead-with-mark-pollard/episodes/The-Philosophy-of-Strategy---Rob-Estreitinho--Strategy-e1b413) - Rob Estreitinho, Strategy
 
-#### 12. [What Makes Strategy Harder Than It Needs To Be - Walk And Talk, Central Park](https://anchor.fm/sweathead-with-mark-pollard/episodes/What-Makes-Strategy-Harder-Than-It-Needs-To-Be---Walk-And-Talk--Central-Park-e40ga5)
+#### 12. [What Makes Strategy Harder Than It Needs To Be](https://anchor.fm/sweathead-with-mark-pollard/episodes/What-Makes-Strategy-Harder-Than-It-Needs-To-Be---Walk-And-Talk--Central-Park-e40ga5)
 
-#### 13. [Does The World Still Need Digital Strategists?](https://anchor.fm/sweathead-with-mark-pollard/episodes/Does-The-World-Still-Need-Digital-Strategists----Bogdana-Butnar--Strategy-Director-e4rc56) - Bogdana Butnar, Strategy Director
+#### 13. [Does The World Still Need Digital Strategists?](https://anchor.fm/sweathead-with-mark-pollard/episodes/Does-The-World-Still-Need-Digital-Strategists----Bogdana-Butnar--Strategy-Director-e4rc56) - Bogdana Butnar
 
 #### 14. [Writing Creative Briefs - Walk And Talk, Central Park](https://anchor.fm/sweathead-with-mark-pollard/episodes/Writing-Creative-Briefs---Walk-And-Talk--Central-Park--Memorial-Day-Weekend-e4537g)
 
