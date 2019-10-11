@@ -1,6 +1,7 @@
 ---
 title: What's up with all the English in American planning?
 date: 2019-10-11 15:46:00 Z
+permalink: "/english-account-planning/"
 categories:
 - account planning
 - planning
@@ -10,6 +11,7 @@ tags:
 - Strategy
 summary: The English accent and the study of English literature are part of the lives
   of many account planners in America. Why?
+image: "/uploads/Is%20it%20a%20data-driven%20insight.jpeg"
 ---
 
 Stephen Troncoso ([@Ephen_Stephen](https://twitter.com/Ephen_Stephen)) asks:
