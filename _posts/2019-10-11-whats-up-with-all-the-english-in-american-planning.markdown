@@ -29,8 +29,8 @@ And, I'd recommend you listen to this Sweathead interview with Ben Shaw - [Strat
 
 {% include promo.html %}
 
-**1. The English advertising industry has a prestigious DNA
-**The London advertising industry has recruited heavily from Oxford and Cambridge over the years (I’m told). These colleges have a history of recruiting for intelligence and background. To study the liberal arts is something of an “elite” idea because such study might or might not lead to a financially successful career. And so English people with great upbringings and elite education have played a huge role in English agencies. Advertising is something of a national interest - but a national interest with a prestigious history.
+**1. The English advertising industry has a prestigious DNA**
+The London advertising industry has recruited heavily from Oxford and Cambridge over the years (I’m told). These colleges have a history of recruiting for intelligence and background. To study the liberal arts is something of an “elite” idea because such study might or might not lead to a financially successful career. And so English people with great upbringings and elite education have played a huge role in English agencies. Advertising is something of a national interest - but a national interest with a prestigious history.
 
 **2. London culture is creative and intellectual**
 You just need to walk the streets of London to see and hear banter. The storefront signage, conversations in front of pubs, the types of debates on television. There’s a lot of verbal jousting. Yes, there are swathes of people outside of London in advertising. I’ve heard that many people have struggled to have the elite parts of the London agency world take them seriously (accents, looks, educational pedigree). But London has been such a heartland for the global advertising agency culture that I’m focusing on it. And it just feels that ideas and intellect are more mainstream. London has a massive creative industry population, too.
