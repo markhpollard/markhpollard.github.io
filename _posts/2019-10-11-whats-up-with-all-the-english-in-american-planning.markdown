@@ -11,7 +11,7 @@ tags:
 - Strategy
 summary: The English accent and the study of English literature are part of the lives
   of many account planners in America. Why?
-image: "/uploads/Is%20it%20a%20data-driven%20insight.jpeg"
+image: "/uploads/english-account-planners-in-america.jpg"
 ---
 
 Stephen Troncoso ([@Ephen_Stephen](https://twitter.com/Ephen_Stephen)) asks:
@@ -19,7 +19,7 @@ Stephen Troncoso ([@Ephen_Stephen](https://twitter.com/Ephen_Stephen)) asks:
 
 Answer: No, that’s how it works. 
 
-![Is it a data-driven insight.jpeg](/uploads/Is%20it%20a%20data-driven%20insight.jpeg)
+![english-account-planners-in-america.jpg](/uploads/english-account-planners-in-america.jpg)
 
 But, here's a stab at asking the question behind this question, which is probably this: What's up with all the English in American planning?
 
@@ -49,11 +49,13 @@ Planning originated in London. England exported the idea and many of its planner
 **6. The US has an inferiority complex when it comes to the intellect**
 Americans are known for confidence. Yes, over-confidence, too. But I’ve heard tens of times that having a British accent (or an Australian accent that people think is British) means that people think you’re smarter than they are.
 
-The idea of a “classically trained” planner also plays on American advertising minds. I still don’t know what this means. I think being classically trained means you’ve worked in a well-known agency under a well-known boss and done planning. The word “classically” sounds like an English tic. And, to me, hints to the classics. Another way to signal prestige in background and education.
+Tom Goodwin talks about the premium he believes the New York dating world places on a British accent in [an episode of Sweathead here](https://anchor.fm/sweathead-with-mark-pollard/episodes/Some-Form-Of-Sunshine---Tom-Goodwin-e6f76d). Also, [take a look at Dolly May's website](https://www.workingwithvoice.com). She provides "accent softening services" for people who move to London because of the challenges people in England also face when they move to the country's headquarters. 
 
-I can understand the inferiority complex only through the very first point - that many English advertising people have been upper class and had amazing educational backgrounds. Also, hard-working, irreverent, and ambitious. I don’t want to diminish anyone.
+The idea of a “classically trained” planner is another idea that plays on American advertising minds. I still don’t know what this means. I think being classically trained means you’ve worked in a well-known agency under a well-known boss and done planning on well-known brands for at least three years. Right? The word “classically” sounds like an English tic so I'd imagine an elitist planner lobbed that one into American advertising. And, to me, it hints to the classics, which is another way to signal prestige in background and education.
 
-**7. It isn’t easy to migrate**
+I can understand the inferiority complex only through the very first point - that many English advertising people have been upper class and have had amazing educational backgrounds. Also, many are hard-working, irreverent, and ambitious. I don’t want to diminish anyone. Intelligence and high conscientiousness tend to lead to good life outcomes. I heard it somewhere.
+
+**7. It isn’t easy to migrate - it takes clout**
 Sure, people move around the world in all kinds of ways but to get a visa in our industry, it helps for the above to be true: good education and great salary. Many visas require this. This means that the visa process selects for people who’ve done well and often people who’ve done are gifted with innate traits and abilities but they also often have advantages others don’t. Seeing people like you in a role and proximity to opportunity are key. Again, I’m not diminishing. I’m just making a point that I think people who comets the industry here are often - not always - quite successful or ambitious. 
 
 **8. Studying English is studying humanity**
