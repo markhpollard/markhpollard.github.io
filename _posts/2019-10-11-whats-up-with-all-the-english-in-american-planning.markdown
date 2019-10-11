@@ -41,7 +41,7 @@ These two points mean that planning has a tradition of recruiting intelligent, h
 
 **3. The US has a history of anti-intellectualism**
 
-If you look at the history of the US mind, there has been a lot of anti-intellectualism. “That’s what the elites do to take advantage of us.” Faris Yakob has written about this and cited many sources.
+If you look at the history of the US mind, there has been a lot of anti-intellectualism. “That’s what the elites do to take advantage of us.” [Faris Yakob has written about this](https://idealog.co.nz/tech/2016/02/advertising-philosopher-faris-yakob-finite-resource-attention) and cited many sources.
 
 **4. The English made and exported planning**
 
