@@ -1,5 +1,5 @@
 ---
-title: Sweathead by Mark Pollard - a strategy podcast
+title: Sweathead by Mark Pollard - A Strategy Podcast
 permalink: "/sweathead-podcast/"
 h1: 'Sweathead: You Take Practice'
 description: How do you get good at strategy? With over 300,000 listens, Sweathead
