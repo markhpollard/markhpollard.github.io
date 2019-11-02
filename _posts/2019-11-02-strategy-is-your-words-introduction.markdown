@@ -18,6 +18,8 @@ Here's the introduction to my first book *Strategy Is Your Words - A Strategist'
 
 Please tell your friends.
 
+Also, [you can listen to this on the Sweathead podcast](https://anchor.fm/sweathead-with-mark-pollard/episodes/Fighting-Words---The-Introduction-To-Strategy-Is-Your-Words-NOW-WITH-NEW-WORDS-e79mrr).
+
 ![Strategy-Is-Your-Words-Kickstarter-bdy.jpg](/uploads/Strategy-Is-Your-Words-Kickstarter-bdy.jpg)
 
 ## Introduction: Fighting Words
