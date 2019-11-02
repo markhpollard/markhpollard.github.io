@@ -10,7 +10,7 @@ categories:
 - planners
 tags:
 - Strategy
-summary: 'It''s time we focus on what matters in strategy: words.'
+summary: 'It''s time to focus on what matters in strategy: words.'
 image: "/uploads/Strategy-Is-Your-Words-Kickstarter-bdy.jpg"
 ---
 
