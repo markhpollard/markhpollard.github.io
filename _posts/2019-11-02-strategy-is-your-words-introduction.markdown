@@ -1,5 +1,5 @@
 ---
-title: Strategy Is Your Words - Introduction
+title: Strategy Is Your Words - Book Introduction
 date: 2019-11-02 02:40:00 Z
 permalink: "/strategy-is-your-words-introduction/"
 categories:
