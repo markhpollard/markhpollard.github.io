@@ -7,12 +7,12 @@ h1: Strategy Is Your Words
 layout: index
 ---
 
-## The "Strategy Is Your Words" book is live on Kickstarter.
+The "Strategy Is Your Words" book is live on Kickstarter.
 <br>
 [![Strategy-Is-Your-Words-Kickstarter-bdy.jpg](/uploads/Strategy-Is-Your-Words-Kickstarter-bdy.jpg)](http://bit.ly/strategykickstarter)
 <br>
-[Visit the Kickstarter now](http://bit.ly/strategykickstarter), or
-[Read the introduction here](https://www.markpollard.net/strategy-is-your-words-introduction/).
+[Visit the Kickstarter now](http://bit.ly/strategykickstarter), 
+or [Read the introduction here](https://www.markpollard.net/strategy-is-your-words-introduction/).
 
 
 <br><br>
