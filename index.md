@@ -9,7 +9,7 @@ layout: index
 
 The "Strategy Is Your Words" book is live on Kickstarter. [Visit the Kickstarter now](http://bit.ly/strategykickstarter), 
 or [Read the introduction here](https://www.markpollard.net/strategy-is-your-words-introduction/).
-<br>
+<br><br>
 [![Strategy-Is-Your-Words-Kickstarter-bdy.jpg](/uploads/Strategy-Is-Your-Words-Kickstarter-bdy.jpg)](http://bit.ly/strategykickstarter)
 <br>
 
