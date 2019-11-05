@@ -8,7 +8,7 @@ layout: index
 ---
 
 ## "Strategy Is Your Words" is live on Kickstarter. 
-[Find it here (http://bit.ly/strategykickstarter)].
+[Find it here](http://bit.ly/strategykickstarter).
 <br>
 [![Strategy-Is-Your-Words-Kickstarter-bdy.jpg](/uploads/Strategy-Is-Your-Words-Kickstarter-bdy.jpg)](http://bit.ly/strategykickstarter)
 
