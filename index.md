@@ -7,7 +7,6 @@ h1: Strategy Is Your Words
 layout: index
 ---
 
-<center>
 ## ["Strategy Is Your Words" is live on Kickstarter](http://bit.ly/strategykickstarter).
 <br>
 [![Strategy-Is-Your-Words-Kickstarter-bdy.jpg](/uploads/Strategy-Is-Your-Words-Kickstarter-bdy.jpg)](http://bit.ly/strategykickstarter)
@@ -15,7 +14,6 @@ layout: index
 <br>
 # [Read the introduction here](https://www.markpollard.net/strategy-is-your-words-introduction/).
 
-</center>
 
 <br><br>
 Here’s how to get good at strategy: words. Start with words, continue with words, and finish with words. You have one job - get good at words.
