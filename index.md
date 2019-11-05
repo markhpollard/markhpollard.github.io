@@ -7,11 +7,12 @@ h1: Strategy Is Your Words
 layout: index
 ---
 
-## News: My first book "Strategy Is Your Words" is [live on Kickstarter until Wednesday, December 5, 2019](http://bit.ly/strategykickstarter).
+## "Strategy Is Your Words" is [live on Kickstarter until Wednesday, December 5, 2019](http://bit.ly/strategykickstarter).
 
 [![Strategy-Is-Your-Words-Kickstarter-bdy.jpg](/uploads/Strategy-Is-Your-Words-Kickstarter-bdy.jpg)](http://bit.ly/strategykickstarter)
 
-[Read the introduction here](https://www.markpollard.net/strategy-is-your-words-introduction/).
+
+# [Read the introduction here](https://www.markpollard.net/strategy-is-your-words-introduction/).
 
 <br><br>
 Here’s how to get good at strategy: words. Start with words, continue with words, and finish with words. You have one job - get good at words.
