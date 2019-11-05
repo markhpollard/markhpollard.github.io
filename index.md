@@ -7,11 +7,11 @@ h1: Strategy Is Your Words
 layout: index
 ---
 
-## "Strategy Is Your Words" is [live on Kickstarter until Wednesday, December 5, 2019](http://bit.ly/strategykickstarter).
-
+## "Strategy Is Your Words" is live on Kickstarter until Wednesday, December 5, 2019. [Find it here] (http://bit.ly/strategykickstarter).
+<br><br>
 [![Strategy-Is-Your-Words-Kickstarter-bdy.jpg](/uploads/Strategy-Is-Your-Words-Kickstarter-bdy.jpg)](http://bit.ly/strategykickstarter)
 
-
+<br>
 # [Read the introduction here](https://www.markpollard.net/strategy-is-your-words-introduction/).
 
 <br><br>
