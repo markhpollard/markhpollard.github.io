@@ -11,7 +11,7 @@ layout: index
 <br>
 [![Strategy-Is-Your-Words-Kickstarter-bdy.jpg](/uploads/Strategy-Is-Your-Words-Kickstarter-bdy.jpg)](http://bit.ly/strategykickstarter)
 <br>
-[Visit the Kickstarter now] (http://bit.ly/strategykickstarter), or
+[Visit the Kickstarter now](http://bit.ly/strategykickstarter), or
 [Read the introduction here](https://www.markpollard.net/strategy-is-your-words-introduction/).
 
 
