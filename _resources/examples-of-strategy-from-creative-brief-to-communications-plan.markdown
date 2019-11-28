@@ -31,6 +31,7 @@ Whether or not you respect where we landed isn't the point. The point is the pow
 
 Before you delve into the 4 examples below, you might like to read about how I approach [account planning and strategy](https://www.markpollard.net/how-to-do-account-planning-a-simple-approach/) (there are more details in my book "[Strategy Is Your Words](http://www.strategyisyourwords.com)").
 
+
 ## 1. Lamps
 
 What if lamps were going extinct?
@@ -57,6 +58,8 @@ If we were to devise several more directions, we'd look for strategies that were
 [![dos-toros-trigger-points.jpg](/uploads/dos-toros-trigger-points.jpg)](http://bit.ly/LiveStrategyDosToros)
 
 [You can read the entire presentation here](http://bit.ly/LiveStrategyDosToros).
+
+{% include promo.html %}
 
 ## 3. Beyond Burger
 
