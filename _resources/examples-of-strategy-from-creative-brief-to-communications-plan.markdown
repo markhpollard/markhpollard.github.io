@@ -18,7 +18,7 @@ Doing strategy under time pressure isn't easy. But doing strategy under time pre
 
 Julian Cole and I did our first *Live Action Strategy* as an impromptu section of a [*Sweathead*](https://www.markpollard.net/sweathead-podcast/) podcast we recorded together. We've known each other since 2008-ish and have done what little we can to share the tools and techniques we use, to learn in public, and to share work as we're doing it ever since. 
 
-In the first *Live Action Strategy*, we fell upon lamps. What if lamps were going extinct because humanity preferred the light from the devices? If you're going to play with something so many people take for granted, you might as well put it into extreme circumstances, right?
+In the first *Live Action Strategy*, we fell upon lamps. What if lamps were going extinct because humanity preferred the light from their devices? If you're going to play with something so many people take for granted, you might as well put it into extreme circumstances, right?
 
 You can hear Julian and I go [back and forth on the strategy here](https://anchor.fm/sweathead-with-mark-pollard/episodes/Putting-Yourself-And-Your-Campaigns-Out-There---Julian-Cole--Comms-Planner-e3vmjf). You'll hear gentle arm wrestles about what particular words mean and who gets to lead the doing of the word (eg "idea" or "strategy") but why this works is because:
 1. Our goal was to make it work, 
@@ -26,6 +26,7 @@ You can hear Julian and I go [back and forth on the strategy here](https://ancho
 3. We used time as a constraint, 
 4. We asked each other how we meant a word and what we were trying to think through as we were working,
 5. We knew that, in reality. we'd try to come up with 3-5 more of these so the point was to come up with something and not fuss over it.
+
 
 Whether or not you respect where we landed isn't the point. The point is the power of practice and of finding ways to work with people in difficult situations and to have go-to techniques you can use to help you get through projects under intense scrutiny and in the midst of difficult politics.
 
