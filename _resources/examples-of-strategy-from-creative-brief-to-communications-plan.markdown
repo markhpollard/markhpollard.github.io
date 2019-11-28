@@ -25,7 +25,7 @@ You can hear Julian and I go [back and forth on the strategy here](https://ancho
 2. It wasn't about who looked good or best - it was about getting where we needed to go,
 3. We used time as a constraint, 
 4. We asked each other how we meant a word and what we were trying to think through as we were working,
-5. We knew that, in reality. we'd try to come up with 3-5 more of these so the point was to come up with something and not fuss over it.
+5. We knew that, in reality, we'd try to come up with 3-5 more of these so the point was to come up with something and not fuss over it.
 
 
 Whether or not you respect where we landed isn't the point. The point is the power of practice and of finding ways to work with people in difficult situations and to have go-to techniques you can use to help you get through projects under intense scrutiny and in the midst of difficult politics.
@@ -99,7 +99,7 @@ The communications framework then sets up creative work to address imagined barr
 
 The guts of the thinking above happened within 30 minutes each and often in front of people. You can beat this thinking - we know. But that won't stop us from sharing it. So, create a brief for yourself and practice.
 
-You can see Elan Miller's [strategy for The Oura Ring here](https://twitter.com/elan_miller/status/1197919250721062912?s=20). Meanwhile, Marco G. Del Valle wasn't satisfied practicing once. [He created a month of strategy and shared them on Twitter](https://twitter.com/marcodel_valle/status/1190251547042684928?s=20). It's an incredible and heart-warming endeavor.
+You can see Elan Miller's [strategy for The Oura Ring here](https://twitter.com/elan_miller/status/1197919250721062912?s=20). Meanwhile, Marco G. Del Valle wasn't satisfied practicing once. [He created a month of strategy and shared it all on Twitter](https://twitter.com/marcodel_valle/status/1190251547042684928?s=20). It's an incredible and heart-warming endeavor.
 
 You can tag [@markpollard](http://www.twitter.com/markpollard) and [@juliancole](http://www.twitter.com/julianccole) if you decide to share your thinking. We're here for you.
 
