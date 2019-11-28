@@ -37,6 +37,9 @@ This is part-autobiography and part-advice on the craft of writing. The ideas th
 
 **Read, write, read, write** - Mr King follows a habit of input and output and tends to write every day.
 
+
+{% include promo.html %}
+
 **2. [On Writing Well](https://amzn.to/2APj1P6) by William Zinsser**
 
 In school, many of us heard about the idea of putting one idea into every paragraph. The way William Zinsser talks about this idea in the context of non-fiction writing glued to my brain an idea that was loosely there but flailing in the wind.
