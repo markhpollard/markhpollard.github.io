@@ -101,5 +101,5 @@ The guts of the thinking above happened within 30 minutes each and often in fron
 
 You can see Elan Miller's [strategy for The Oura Ring here](https://twitter.com/elan_miller/status/1197919250721062912?s=20). Meanwhile, Marco G. Del Valle wasn't satisfied practicing once. [He created a month of strategy and shared it all on Twitter](https://twitter.com/marcodel_valle/status/1190251547042684928?s=20). It's an incredible and heart-warming endeavor.
 
-You can tag [@markpollard](http://www.twitter.com/markpollard) and [@juliancole](http://www.twitter.com/julianccole) if you decide to share your thinking. We're here for you.
+You can tag [@markpollard](http://www.twitter.com/markpollard) and [@juliancole](http://www.twitter.com/juliancole) if you decide to share your thinking. We're here for you.
 
