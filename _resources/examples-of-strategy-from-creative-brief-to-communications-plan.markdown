@@ -1,7 +1,7 @@
 ---
 title: 'Examples of strategy: from creative brief to communications plan'
 date: 2019-11-28 15:16:00 Z
-permalink: "/examples-of-strategy"
+permalink: "/examples-of-strategy/"
 categories:
 - live action strategy
 - comms plan
