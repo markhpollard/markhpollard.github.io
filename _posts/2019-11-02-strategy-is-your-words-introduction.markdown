@@ -129,4 +129,4 @@ Montoya says this three more times between swordthrusts. He corners Count Rugen 
 Enough running. It’s time to play.
 
 
-** Excerpt from *Strategy Is Your Words - A Strategist's Fight For Meaning* [available through Kickstarter until Wednesday, December 5, 2019](http://bit.ly/strategykickstarter).
+** Excerpt from *Strategy Is Your Words - A Strategist's Fight For Meaning*. [Sign up for the newsletter for updates](https://www.markpollard.net/email-newsletter/).
