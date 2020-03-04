@@ -1,6 +1,7 @@
 ---
 title: Sweathead by Mark Pollard - A Strategy Podcast
 permalink: "/sweathead-podcast/"
+image: "/uploads/sweathead%20podcast%20audio%20image.jpeg"
 h1: 'Sweathead: You Take Practice'
 description: How do you get good at strategy? With over 400,000 listens, Sweathead
   tries to answer this question. Each episode helps thinkers realize they're not alone
@@ -9,43 +10,63 @@ featured: https://anchor.fm/sweathead-with-mark-pollard/episodes/Applying-Strate
 layout: podcast
 ---
 
-#### 1. [It's Noisy In My Head](https://anchor.fm/sweathead-with-mark-pollard/episodes/Its-Noisy-In-My-Head---Natalie-Tran--National-Treasure-e2pnfp) - Natalie Tran, National Treasure
+#### 1. [It's Noisy In My Head](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000426009808) - Natalie Tran, National Treasure
 
-#### 2. [What Makes People Buy Things?](https://anchor.fm/sweathead-with-mark-pollard/episodes/What-Makes-People-Buy-Things----Richard-Shotton--Data-Boss-e1af1i) - Richard Shotton, Author
+#### 2. [What Makes People Buy Things?](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000408631171) - Richard Shotton, Author
 
-#### 3. [Run, Strategy Department, Run!](https://anchor.fm/sweathead-with-mark-pollard/episodes/Run--Strategy-Department--Run----Agathe-Guerrier--Strategy-Head-e1o81s) - Agathe Guerrier, Strategy Head
+#### 3. [Turning Around An Agency](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000448604037) - Rob Schwartz, CEO
 
-#### 4. [Putting Yourself And Your Campaigns Out There](https://anchor.fm/sweathead-with-mark-pollard/episodes/Putting-Yourself-And-Your-Campaigns-Out-There---Julian-Cole--Comms-Planner-e3vmjf) - Julian Cole
+#### 4. [Strategy Work Is Creative Work](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000449327041) - Ben Shaw, Strategy Head
 
-#### 5. [Live Action Strategy - Dos Toros](https://anchor.fm/sweathead-with-mark-pollard/episodes/Live-Action-Strategy---Dos-Toros--Mexican-Food---Julian-Cole--Davis-Ballard-e45kk9) - Julian Cole, Davis Ballard
+#### 5. [Putting Yourself And Your Campaigns Out There](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000437564860) - Julian Cole
 
-#### 6. [Turning Around An Agency](https://anchor.fm/sweathead-with-mark-pollard/episodes/Turning-Around-An-Agency---Rob-Schwartz--CEO-e57qae) - Rob Schwartz, CEO
+#### 6. [Live Action Strategy - Dos Toros](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000439885064) - Julian Cole, Davis Ballard
 
-#### 7. [Who Can Even Do Brand Strategy?](https://anchor.fm/sweathead-with-mark-pollard/episodes/Who-Can-Even-Do-Brand-Strategy----Tom-Donald--Strategy-Lead-e39rhq) - Tom Donald, Strategy Lead
+#### 7. [Learning Strategy - Walk and Talk, Riverside Park](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000438755061)
 
-#### 8. [Learning Strategy - Walk and Talk, Riverside Park](https://anchor.fm/sweathead-with-mark-pollard/episodes/Learning-Strategy---Walk-and-Talk--Riverside-Park-e42qpr)
+#### 8. [Working With A Moving Mind](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000445540665) - Faris Yakob, Cofounder
 
-#### 9. [Working With A Moving Mind](https://anchor.fm/sweathead-with-mark-pollard/episodes/Working-With-A-Moving-Mind---Faris-Yakob--Cofounder-e4p2jo) - Faris Yakob, Cofounder
+#### 9. [Does The World Still Need Digital Strategists?](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000446096019) - Bogdana Butnar
 
-#### 10. [Strategy Work Is Creative Work](https://anchor.fm/sweathead-with-mark-pollard/episodes/Strategy-Work-Is-Creative-Work---Ben-Shaw--Strategy-Head-e5aoqp) - Ben Shaw, Strategy Head
+#### 10. [Who Can Even Do Brand Strategy?](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000430485872) - Tom Donald, Strategy Lead
 
-#### 11. [The Philosophy of Strategy](https://anchor.fm/sweathead-with-mark-pollard/episodes/The-Philosophy-of-Strategy---Rob-Estreitinho--Strategy-e1b413) - Rob Estreitinho, Strategy
+#### 11. [What You Can Learn From 700 Agency Philosophies](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000450162836) - Praveen Vaidyanathan, Strategy Director
 
-#### 12. [What Makes Strategy Harder Than It Needs To Be](https://anchor.fm/sweathead-with-mark-pollard/episodes/What-Makes-Strategy-Harder-Than-It-Needs-To-Be---Walk-And-Talk--Central-Park-e40ga5)
+#### 12. [Brand Experience And What It Is](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000455528160) - Reema Mitra, Brand Boss
 
-#### 13. [Does The World Still Need Digital Strategists?](https://anchor.fm/sweathead-with-mark-pollard/episodes/Does-The-World-Still-Need-Digital-Strategists----Bogdana-Butnar--Strategy-Director-e4rc56) - Bogdana Butnar
+#### 13. [Run, Strategy Department, Run!](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000415097792) - Agathe Guerrier, Strategy Head
 
-#### 14. [Writing Creative Briefs - Walk And Talk, Central Park](https://anchor.fm/sweathead-with-mark-pollard/episodes/Writing-Creative-Briefs---Walk-And-Talk--Central-Park--Memorial-Day-Weekend-e4537g)
+#### 14. [How To Do Account Planning](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000413797149) - Mark Pollard
 
-#### 15. [What Makes A Good Planner?](https://anchor.fm/sweathead-with-mark-pollard/episodes/What-Makes-A-Good-Planner----John-Kenny--CSO-e3l68c) - John Kenny, CSO
+#### 15. [Segue AF](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000459523623) - The Rory Sutherland Show
 
-#### 16. [Starting Out In Strategy](https://anchor.fm/sweathead-with-mark-pollard/episodes/Starting-Out-In-Strategy---Natalie-Kim-e1af34) - Natalie Kim
+#### 16. [Writing Creative Briefs - Walk And Talk, Central Park](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000439313728)
 
-#### 17. [Please, Can We Do Advertising Together?](https://anchor.fm/sweathead-with-mark-pollard/episodes/Please--Can-We-Do-Advertising-Together----Trine-Keller-Andreason--Strategist-e4g4gb) - Trine Keller-Andreason
+#### 17. [What Makes Strategy Harder Than It Needs To Be](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000437827237) - Walk And Talk, Central Park 
 
-#### 18. [Planning Is For Punks](https://anchor.fm/sweathead-with-mark-pollard/episodes/Planning-Is-For-Punks---Gareth-Kay--CSO-e1im3e) - Gareth Kay, CSO
+#### 18. [Strategic Integrity](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000447038121) - Jon Wilkins, Cofounder of Naked 
 
-#### 19. [Strategic Integrity](https://anchor.fm/sweathead-with-mark-pollard/episodes/Strategic-Integrity---Jon-Wilkins--Cofounder-of-Naked-e4vqb3) - Jon Wilkins, Cofounder of Naked
+#### 19. [Live Action Strategy - The DMV](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000450955608) - Julian Cole, Consultant 
 
-#### 20. [Strategy At Speed](https://anchor.fm/sweathead-with-mark-pollard/episodes/Strategy-At-Speed---Lauren-Joyce--Strategy-Boss-e4iibs) - Lauren Joyce, Strategy Boss
+#### 20. [The Problems With Pitches](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000452052387) - Tim Dunn, Strategy Head
+
+#### 21. [Advertising In A Constant State Of Fear](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000455255746) - Derek Walker, Agency Owner 
+
+#### 22. [Please, Can We Do Advertising Together?](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000443247762) - Trine Keller-Andreason, Strategist 
+
+#### 23. [Strategy Job Interviews](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000445956684) - Walk And Talk, London 
+
+#### 24. [What Makes A Good Planner?](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000434177294) - John Kenny, CSO
+
+#### 25. [Strategy At Speed](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000444211722) - Lauren Joyce, Strategy Boss
+
+#### 26. [How It Feels To Be A Big-Picture Person](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000454310129) - Sarah Watson, Chairman of BBH New York 
+
+#### 27. [Strategy On The Road](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000446456330) - Olivia Poglianich, Strategist
+ 
+#### 28. [There's No Right Path Into Strategy](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000449986826) - Vicky Chen, Head of Strategy
+
+#### 29. [The Philosophy of Strategy](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000408934412) - Rob Estreitinho, Strategy
+
+#### 30. [The State Of Research](https://podcasts.apple.com/us/podcast/sweathead-with-mark-pollard-a-strategy-podcast/id1370723809?i=1000446975958) - Farrah Bostic, Founder  
 
