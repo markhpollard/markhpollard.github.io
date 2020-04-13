@@ -14,7 +14,7 @@ summary: 'It''s time to focus on what matters in strategy: words.'
 image: "/uploads/Strategy-Is-Your-Words-Kickstarter-bdy.jpg"
 ---
 
-Here's the introduction to my first book *Strategy Is Your Words - A Strategist's Fight For Meaning*. The first edition of the book will be 400 pages, 80,000 words, hardcover, and, [after a successful Kickstarter] should be available in May 2020 (http://bit.ly/strategykickstarter).
+Here's the introduction to my first book *Strategy Is Your Words - A Strategist's Fight For Meaning*. The first edition of the book will be 400 pages, 80,000 words, hardcover, and, [after a successful Kickstarter] should be available in July 2020 (http://bit.ly/strategykickstarter).
 
 Please tell your friends.
 
