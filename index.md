@@ -7,7 +7,7 @@ h1: Strategy Is Your Words
 layout: index
 ---
 
-The "Strategy Is Your Words" book Kickstarter blew past its goal within 48 hours. Thank you so much. The book is likely to be available in May 2020. [Sign up to the newsletter for updates](https://www.markpollard.net/email-newsletter/). [You can still see the Kickstarter here](http://bit.ly/strategykickstarter), 
+The "Strategy Is Your Words" book Kickstarter blew past its goal within 48 hours. Thank you so much. The book is likely to be available in July 2020. [Sign up to the newsletter for updates](https://www.markpollard.net/email-newsletter/). [You can still see the Kickstarter here](http://bit.ly/strategykickstarter), 
 or [You can read the introduction here](https://www.markpollard.net/strategy-is-your-words-introduction/).
 <br><br>
 [![Strategy-Is-Your-Words-Kickstarter-bdy.jpg](/uploads/Strategy-Is-Your-Words-Kickstarter-bdy.jpg)](http://bit.ly/strategykickstarter)
