@@ -43,10 +43,9 @@ name: Mark Pollard
 description: Strategy is Your Words
 google_analytics: UA-6991341-1
 repository: markhpollard/markhpollard.github.io
-promotext: The "Strategy Is Your Words" book Kickstarter blew past its goal within
-  48 hours. Thank you so much for your support. Expect it in July 2020. Sign up to
-  the newsletter for updates.
-promolink: https://www.markpollard.net/email-newsletter/
+promotext: The Sweathead Strategy Summer Camp is live. How much strategy can you learn
+  in 100 days? Find out.
+promolink: http://courses.sweathead.co
 url: 
 baseurl: 
 highlighter: rouge
