@@ -7,8 +7,12 @@ h1: Strategy Is Your Words
 layout: index
 ---
 
-The "Strategy Is Your Words" book Kickstarter blew past its goal within 48 hours. Thank you so much. The book is likely to be available in July 2020. [Sign up to the newsletter for updates](https://www.markpollard.net/email-newsletter/). [You can still see the Kickstarter here](http://bit.ly/strategykickstarter), 
-or [You can read the introduction here](https://www.markpollard.net/strategy-is-your-words-introduction/).
+The Sweathead [Strategy Summer Camp](http://courses.sweathead.co) is live. How much strategy can you learn in 100 days? Find out. 
+<br>
+P.S. ["Strategy Is Your Words"](http://bit.ly/strategykickstarter) should be ready in July, 2020. It's printing. Then it needs to sail to me.
+<br>
+[Sign up to the newsletter for updates](https://www.markpollard.net/email-newsletter/). 
+
 <br><br>
 [![Strategy-Is-Your-Words-Kickstarter-bdy.jpg](/uploads/Strategy-Is-Your-Words-Kickstarter-bdy.jpg)](http://bit.ly/strategykickstarter)
 <br>
