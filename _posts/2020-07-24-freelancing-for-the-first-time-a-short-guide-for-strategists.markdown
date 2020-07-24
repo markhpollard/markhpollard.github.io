@@ -57,7 +57,9 @@ It’s not that these need to be in place before you freelance and, then, at all
 
 **5. Think about whether freelancing is really solving the problem you want to solve**
 
-Unless you have a big network, reputation, and commercial nous, freelancing can feel like being an employee but with less impact. It’s common to see people alternate between full-time roles and freelancing because they want to feel more authority in making good work happen rather than just coming in and leaving at a reasonable hour. What’s your mood?
+Unless you have a big network, reputation, and commercial nous, freelancing can feel like being an employee but with less impact. It’s common to see people alternate between full-time roles and freelancing because they want more authority to make good work happen rather than just coming in and leaving at a reasonable hour. 
+
+What’s your mood?
 
 **6. Consider whether you’re putting yourself into limbo**
 
@@ -67,13 +69,13 @@ Freelancing can seem cool but it can put you into limbo, where you’ll bounce b
 
 Grab a piece of paper and write down your philosophy, process, and three packages with prices. This is for your eyes only. It will help you work out what you’re about and what you think it’s worth. It will also help you judge opportunities.
 
-As you become comfortable with it, you can choose to share it with prospective hirers.
+As you become comfortable with what you've written down, you can choose to share it with prospective hirers.
 
 **8. Pricing and payment can take many shapes**
 
 <br>A. Benchmarked hourly rate - ask around
 <br>B. Company tells you what they’ll pay
-<br> C. Project or value-based rate - a flat fee or % based on what you think the work is worth
+<br>C. Project or value-based rate - a flat fee or % based on what you think the work is worth
 <br>E. You make up a number that scares you
 <br>F. Day or weekly rate - work out how much money you want to earn per year and how many days a year you’ll work then arrive at a day rate.
 
@@ -93,7 +95,7 @@ Most companies will push you through their systems - procurement, NDA, Master Se
 
 You’ll need to manage your scope, review agreements, and advocate for your payment terms.
 
-You can try to charge money or provide discounts depending on payment schedules and whose documents you use.
+You can try to charge money or provide discounts depending on payment schedules and whose legal and scoping documents you use.
 
 **10. Company systems exist to dumb down everything**
 
@@ -111,7 +113,7 @@ A company is a useful legal and tax instrument. It can also help you look bigger
 
 Selling strategy can take time. Chances are someone will know you or they’ll have heard of you over the years. They’ll keep an eye on you. Then an opportunity will arise and it might take weeks to months to go from the initial contact to meetings and scopes.
 
-If you have a presence and reputation,two things can happen:
+If you have a presence and reputation, two things can happen:
 <br>A. You’ll attract people who want what you do and how you do it
 <br>B. You’ll attract people who’ll take care
 of you within their systems
