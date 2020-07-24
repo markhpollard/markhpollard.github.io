@@ -8,7 +8,7 @@ categories:
 - freelance strategist
 - freelancing strategy
 tags:
-- Strategy
+- Careers
 summary: Freelancing strategy sounds cool. It can give you a break from a toxic work
   life, help you meet new companies, give you  your life back, but it can also keep
   you in a sexy limbo that can prevent you from doing the harder work of examining
