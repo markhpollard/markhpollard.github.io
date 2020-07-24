@@ -17,6 +17,8 @@ summary: Freelancing strategy sounds cool. But is it really what you need to do 
 
 Freelancing strategy sounds cool. It can give you a break from a toxic work life, help you meet new companies, and give you back your life, but it can also keep you in a sexy limbo that can prevent you from doing the harder work of examining what you really want in life and how you'll go about it making it happen.
 
+Here are sixteen thing to contemplate before and as you freelance.
+
 **1. Work out why you want to freelance**
 
 There are at least five reasons people freelance:
