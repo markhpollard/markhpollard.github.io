@@ -33,7 +33,6 @@ Be clear or use each interaction with a potential hirer to get clear on why you 
 **2. Consider for how long you’ll freelance**
 
 There are at least six time horizons:
-
 <br>A. "Until I like a company"
 <br>B. "Until I get a job offer"
 <br>C. "Until the economy recovers"
@@ -74,7 +73,6 @@ Grab a piece of paper and write down your philosophy, process, and three package
 As you become comfortable with what you've written down, you can choose to share it with prospective hirers.
 
 **8. Pricing and payment can take many shapes**
-
 <br>A. Benchmarked hourly rate - ask around
 <br>B. Company tells you what they’ll pay
 <br>C. Project or value-based rate - a flat fee or % based on what you think the work is worth
@@ -89,7 +87,7 @@ How you price yourself will depend on
 * Your interest in advocating for yourself, and
 * Your ability to discuss money and value.
 
-Be clear on payment terms. Ask for some money up front. Treat each project as a way to learn.
+<br>Be clear on payment terms. Ask for some money up front. Treat each project as a way to learn.
 
 **9. Document and manage your scope**
 
