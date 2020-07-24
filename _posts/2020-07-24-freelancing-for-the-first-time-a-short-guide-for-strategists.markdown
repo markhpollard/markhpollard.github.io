@@ -13,7 +13,9 @@ summary: Freelancing strategy sounds cool. But is it really what you need to do 
   now?
 ---
 
-Freelancing strategy sounds cool. It can give you a break from a toxic work life, help you meet new companies, give you  your life back, but it can also keep you in a sexy limbo that can prevent you from doing the harder work of examining what you really want in life and how  you'll go about it making it happen.
+
+
+Freelancing strategy sounds cool. It can give you a break from a toxic work life, help you meet new companies, and give you back your life, but it can also keep you in a sexy limbo that can prevent you from doing the harder work of examining what you really want in life and how you'll go about it making it happen.
 
 **1. Work out why you want to freelance**
 
