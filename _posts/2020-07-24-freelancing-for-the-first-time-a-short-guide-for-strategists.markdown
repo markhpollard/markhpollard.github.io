@@ -20,11 +20,11 @@ Here are sixteen thing to contemplate before and as you freelance.
 **1. Work out why you want to freelance**
 
 There are at least five reasons people freelance:
-   A. “I don’t like being an employee.”\
-   B. “I have to until I get a job.”\
-   C. “I feel disillusioned and want some time out.”\
-   D. "I want more time for other things.”\
-   E. “It sounds cool.”
+<br>A. “I don’t like being an employee.”
+<br>B. “I have to until I get a job.”
+<br>C. “I feel disillusioned and want some time out.”
+<br>D. "I want more time for other things.”
+<br>E. “It sounds cool.”
 
 Be clear or use each interaction with a potential hirer to get clear on why you want to freelance.
 
@@ -32,17 +32,12 @@ Be clear or use each interaction with a potential hirer to get clear on why you 
 
 There are at least six time horizons:
 
-A. "Until I like a company"
-
-B. "Until I get a job offer
-"
-C. "Until the economy recovers
-"
-D. "Until I work out what I want in life
-"
-E. "Indefinitely"
-
-F. "For life"
+<br>A. "Until I like a company"
+<br>B. "Until I get a job offer"
+<br>C. "Until the economy recovers"
+<br>D. "Until I work out what I want in life"
+<br>E. "Indefinitely"
+<br>F. "For life"
 
 Knowing this will help you make decisions from a place that honors you.
 
