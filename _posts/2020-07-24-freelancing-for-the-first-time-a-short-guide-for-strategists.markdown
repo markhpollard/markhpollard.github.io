@@ -11,6 +11,7 @@ tags:
 - Careers
 summary: Freelancing strategy sounds cool. But is it really what you need to do right
   now?
+image: "/uploads/Freelancing-A-New-Life-Or-A-New-Limbo.jpeg"
 ---
 
 ![Freelancing-A-New-Life-Or-A-New-Limbo.jpeg](/uploads/Freelancing-A-New-Life-Or-A-New-Limbo.jpeg)
