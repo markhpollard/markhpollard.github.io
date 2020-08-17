@@ -9,7 +9,7 @@ layout: index
 
 The Sweathead [Strategy Summer Camp](http://courses.sweathead.co) is live. How much strategy can you learn in 100 days? Find out. 
 <br>
-P.S. ["Strategy Is Your Words"](http://bit.ly/strategykickstarter) will be available in hardcover in August, 2020. It's currently on a boat. But it is very close.
+P.S. ["Strategy Is Your Words"](http://shop.sweathead.co) is now available in hardcover within the USA.
 <br>
 [Sign up to the newsletter for updates](https://www.markpollard.net/email-newsletter/). 
 
