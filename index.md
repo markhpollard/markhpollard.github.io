@@ -7,9 +7,7 @@ h1: Strategy Is Your Words
 layout: index
 ---
 
-The Sweathead [Strategy Summer Camp](http://courses.sweathead.co) is live. How much strategy can you learn in 100 days? Find out. 
-<br>
-P.S. ["Strategy Is Your Words"](http://www.sweathead.com) is now available in hardcover everywhere from the Sweathead store.
+["Strategy Is Your Words"](http://www.sweathead.com) is now available in hardcover everywhere from the Sweathead store. You can also find 100 strategy classes there.
 <br>
 [Sign up to the newsletter for updates](https://www.markpollard.net/email-newsletter/). 
 
