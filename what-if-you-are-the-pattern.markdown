@@ -1,11 +1,12 @@
 ---
 title: What If You Are the Pattern?
 date: 2026-03-10 11:40:00 Z
-permalink: "/what-if-you-are-the-pattern"
+permalink: what-if-you-are-the-pattern
 published: false
 summary: Insight is not intervention
 image: "/uploads/Marks-over-the-years.jpg"
 categories: psychology
+layout: article
 ---
 
 ![Marks-over-the-years.jpg](/uploads/Marks-over-the-years.jpg)

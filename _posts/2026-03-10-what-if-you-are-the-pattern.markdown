@@ -2,8 +2,10 @@
 title: What If You Are the Pattern?
 date: 2026-03-10 11:46:00 Z
 permalink: "/what-if-you-are-the-pattern"
-tags:
+categories:
 - Psychology
+tags:
+- Personal
 summary: Insight is not intervention
 image: "/uploads/Marks-over-the-years.jpg"
 ---
