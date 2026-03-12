@@ -1,6 +1,6 @@
 ---
 title: What If You Are the Pattern?
-date: 2026-03-10 11:46:00 Z
+date: 2026-03-12 09:24:00 Z
 permalink: "/what-if-you-are-the-pattern"
 categories:
 - Psychology
