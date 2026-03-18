@@ -20,7 +20,7 @@ Yes, the USA has a lot of advertising courses in college (or, university) so it'
 
 Anyway, there are a few clusters of traits and behaviors that are common with many strategists. Here are the ones I see most:
 
-#1. Strategists are students
+# 1. Strategists are students
 
 Strategists love to learn. They ask questions. They nerd out on things most people don’t. Their minds are insatiable. And personal development is very important.
 
@@ -30,13 +30,13 @@ Being curious is one thing. I think the thing is that strategists will often act
 
 The challenges for some strategists, however, are getting lost in the information and treating their work as something to get "right"–so they can avoid failing the imaginary exam.
 
-#2. Strategists are people-watchers
+# 2. Strategists are people-watchers
 
 This can make many strategists seem aloof but, if you put a strategist in a room, many of them will  watch who’s doing what. If you put tens of them in a room at a strategy event, well, that just gets awkward. You know it :)
 
 Some people are just wired like this–maybe a streak of introversion exists in the family but, sometimes, people-watching is a response to trauma. For example, growing up in a volatile household can make some people retreat to being an observer as the child tries to navigate adult emotions.
 
-#3. Strategists are performers
+# 3. Strategists are performers
 
 Most strategists who survive the industry for a few years learn they can’t just entertain themselves in their own heads – they need to take command of rooms and put on shows.
 
@@ -44,7 +44,7 @@ Strategy bosses will compile a team with different shades but, if a strategist c
 
 Being quiet and smart and useful is superb. But...being able to perform useful smarts will help a strategy career more.
 
-#4. Strategists are jesters
+# 4. Strategists are jesters
 
 This doesn’t work in all work cultures but strategists often say the thing that needs to be said or ask the question that needs to be asked. This carries risk and many strategists pay for this over their careers. 
 
@@ -52,7 +52,7 @@ Sure, some strategists are master politicians – they never say anything wrong,
 
 But many of us don't have this in us. And so we risk our careers by saying the things we think need to be said.
 
-#5. Strategists are therapists
+# 5. Strategists are therapists
 
 The older you get, the more you realize that listening to people, helping them find common ground, and working with them on a plan is very much like therapy. 
 
@@ -60,13 +60,13 @@ In my classes, someone will often say, "This feels like therapy."
 
 It can feel a little negative but, when I ask in response, "Well, what's therapy and why does strategy feel like therapy?" it's easy to make the connections.
 
-#6. Strategists are adventurers
+# 6. Strategists are adventurers
 
 Many strategists can come across as nerds running around in their own heads but there’s a sense of adventure to strategy work. It starts with this sentence: “I don’t know but let’s go and find out.”
 
 Indoor Strategists (haha sorry but I think I'm going to use this from now on) are wonderful but the strategist who gallivants around the outside world will likely have a more fulfilling career.
 
-#7. Strategists are writers
+# 7. Strategists are writers
 
 It’s hard to be good at strategy without being good at writing. Why? Well, writing is thinking. And, to captivate people with your ideas, you need to be able to write (and speak) in a way worth paying attention to.
 
