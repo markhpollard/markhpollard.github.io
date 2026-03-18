@@ -12,7 +12,7 @@ layout: index
 [Sign up to the newsletter for updates](https://www.markpollard.net/email-newsletter/). 
 
 <br><br>
-[![Strategy-Is-Your-Words-Kickstarter-bdy.jpg](/uploads/Strategy-Is-Your-Words-Kickstarter-bdy.jpg)](http://www.sweathead.com)
+[![Strategy-Is-Your-Words-Kickstarter-bdy.jpg](/uploads/Strategy-Is-Your-Words-Kickstarter-bdy.jpg)](https://sweathead.com/products/strategy-is-your-words/)
 <br>
 
 

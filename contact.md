@@ -9,6 +9,8 @@ If you’re interested in working with me (talks, training, research, strategy, 
 
 If you’re just interested in emailing me, well, there’s this form. Make it good. I’ll probably reply.
 
+I do not respond to requests to appear on the Sweathead podcast. Nothing personal. 
+
 You can reach me on other parts of the Internet, too, especially [Twitter](http://www.twitter.com/markpollard), [Instagram](http://instagram.com/markpollard), and [LinkedIn](https://www.linkedin.com/in/markpollardstrategist).
 
 <div class="email-form">
