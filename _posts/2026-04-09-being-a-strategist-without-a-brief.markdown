@@ -134,3 +134,6 @@ I’ve hung out with a lot of you who do similar work. Yes, many of you are well
 I’ve felt scrambled many times in Kenya, especially on the one night that turned into two nights after drinking liquor, jaba juice (a naturally occurring stimulant), and konyagi (the only drink I’ve ever drunk and immediately vomited back out into the cup I was drinking from).
 
 It’s difficult being a strategist without a brief. Without a company to work for, it’s like being a ronin. And, if you’re feeling like this now, your job is to write your own brief for the next phase of your life.
+
+
+Follow me on Instagram [@markpollard](https://www.instagram.com/markpollard/).
