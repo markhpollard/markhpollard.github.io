@@ -4,7 +4,7 @@ date: 2026-04-09 17:31:00 Z
 permalink: "/strategy-is-not-a-back-office-function"
 tags:
 - Strategy
-summary: Strategy belongs in front
+summary: Strategy belongs in the front
 image: "/uploads/warc-strategy-paradox-35cedc.jpg"
 ---
 
